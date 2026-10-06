@@ -1,0 +1,336 @@
+{
+ "meta": {
+  "sources": {
+   "ReliefWeb · construction": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "ReliefWeb · infrastructure": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "ReliefWeb · shelter": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "ReliefWeb · architect": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "ReliefWeb · housing": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "ReliefWeb · engineer": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "ReliefWeb · Bosnia and Herzegovina": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "unvacancies · engineering": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   },
+   "unvacancies · UNOPS": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   },
+   "unvacancies · UN-Habitat": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   },
+   "UNjobs · Bosnia and Herzegovina": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   },
+   "UNjobs · construction": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   },
+   "UNjobs · infrastructure projects": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   },
+   "UNOPS careers": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   },
+   "UNICEF · construction": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   }
+  },
+  "since": "2026-10-06",
+  "maint": "2026-10-06",
+  "vcheck": "2026-10-06",
+  "outdated": []
+ },
+ "jobs": [
+  {
+   "title": "Senior Drupal Infrastructure Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157",
+   "deadline": "2026-10-09",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "International Urban Design Lead Expert",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/international-urban-design-lead-expert-t-285835",
+   "deadline": "2026-10-14",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Technical Supervisor (Engineering/Architecture)",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593",
+   "deadline": "2026-10-08",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1790801308669",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Project Manager, Sarajevo, Bosnia and Herzegovina",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1789649136938",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Commercial Project Manager (m/f/d), Sarajevo, Bosnia and Herzegovina",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1778607480538",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Project Coordinator",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791230820933",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Construction Officer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791262896839",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Civil Engineer (Water Resources Infrastructure Development and Management), Khartoum",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791262902457",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791109153877",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Shelter and WaSH Officer Yemen Hodeidah (National)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791109153601",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Wash & Shelter Coordinator CAR Bouar",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791109150945",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791190732675",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut, Lebanon",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1790951875279",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Infrastructure Project Manager, Port Moresby, Papua New Guinea",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1790750189205",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Senior Programme Manager – National Housing Support Programme",
+   "info": "UNOPS for UN-Habitat · Damascus · IICA-3",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692",
+   "deadline": "2026-10-30",
+   "fit": "High",
+   "note": "Arabic desirable. Hardship E, non-family",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Contract Management Specialist",
+   "info": "UNOPS · Home-based",
+   "link": "https://careers.unops.org/",
+   "deadline": "2026-10-14",
+   "fit": "Medium",
+   "note": "Check it isn't local-hire only",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
+  },
+  {
+   "title": "ETC Construction Coordinator (5 positions)",
+   "info": "CTG · DR Congo",
+   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
+   "deadline": "2026-10-10",
+   "fit": "High",
+   "note": "Check French + nationality rules",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Architect / Civil Engineer – Building in Existing Buildings (Req 3412)",
+   "info": "STRABAG · Austria",
+   "link": "https://jobboerse.strabag.at/job-detail.php?ReqId=3412&language=AT_EN",
+   "deadline": "",
+   "fit": "High",
+   "note": "Check deadline + work permit",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Head of Building & IT Infrastructure Department",
+   "info": "Council of Europe · Strasbourg",
+   "link": "https://talents.coe.int/en_GB/careersmarketplace/JobDetail/Head-of-Building-and-IT-Infrastructure-Department/1565",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "French is an asset",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Program Director for Europe",
+   "info": "Habitat for Humanity · Bratislava",
+   "link": "https://habitat.wd12.myworkdayjobs.com/External/job/Bratislava-Slovakia/Program-Director-for-Europe_JR103615-1",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Senior role",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Construction Project Manager – 12-month fixed term",
+   "info": "Lidl Ireland · Dublin",
+   "link": "https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402",
+   "deadline": "2026-10-16",
+   "fit": "Medium",
+   "note": "EU work permit needed",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Infrastructure Construction & Design Manager",
+   "info": "Huawei · Sarajevo",
+   "link": "https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG",
+   "deadline": "2026-12-14",
+   "fit": "High",
+   "note": "Requires state professional exam + civil engineering degree",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Senior Programme Officer, Human Settlements (P-5)",
+   "info": "UN-Habitat · Nairobi",
+   "link": "https://careers.un.org/jobSearchDescription/284607",
+   "deadline": "2026-11-07",
+   "fit": "Medium",
+   "note": "Urban planning/finance focus",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "2026-10-06"
+  }
+ ]
+}
