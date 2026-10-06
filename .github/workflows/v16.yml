@@ -1,0 +1,69 @@
+# V16 – job search + application packs, delivered privately by email.
+# Setup: SETUP.md. Code: agent.py, save.py. Emergency stop: repository variable AI_ENABLED = no.
+
+name: V16
+
+on:
+  schedule:
+    - cron: "2-59/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      job_url:
+        description: "Optional: one job's own link – its application pack is emailed now"
+        required: false
+        type: string
+      language:
+        description: "Language of the CV and letter"
+        required: false
+        type: choice
+        default: auto
+        options: [auto, English, Bosnian, French]
+      focus:
+        description: "Optional: what to emphasise in the CV (must be true)"
+        required: false
+        type: string
+
+permissions: {}
+
+concurrency:
+  group: v16-${{ github.event_name == 'schedule' && 'auto' || github.run_id }}
+  cancel-in-progress: false
+
+env:
+  PAGE_TITLE: "Job tracker"   # heading of the public front page
+  PACKS_PER_DAY: "20"         # application packs per day (4 AI requests each); max 30
+  PACK_FITS: "High,Medium"    # which jobs get packs automatically
+  AI_HIGH_PER_DAY: "30"       # max 35
+  AI_LOW_PER_DAY: "100"       # max 110
+  AI_PER_HOUR: "16"           # max 20
+  FEEDS: |
+        # Optional: extra RSS or job-board links, one per line, under this one:
+
+jobs:
+  run:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    permissions:
+      contents: write
+      issues: write
+      models: read
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Search and application packs
+        timeout-minutes: 14
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AI_ENABLED: ${{ vars.AI_ENABLED || 'yes' }}
+          MASTER_CV: ${{ secrets.MASTER_CV }}
+          MAIL_USER: ${{ secrets.MAIL_USER }}
+          MAIL_PASS: ${{ secrets.MAIL_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          SEARCH_API_KEY: ${{ secrets.SEARCH_API_KEY }}
+        run: python3 agent.py
+
+      - name: Save
+        if: ${{ !cancelled() }}
+        timeout-minutes: 3
+        run: python3 save.py
