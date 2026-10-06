@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-06T2"
+    "muted": "2026-10-06T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -68,6 +68,39 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Superviseurs Multisectoriels SAME /WASH - Bassikounou, Bassikounou, Mauritania",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791297050460",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791125088299",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
+  {
+   "title": "Skills Adviser Building, Construction & Workforce Development",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791176514795",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06"
+  },
   {
    "title": "Senior Drupal Infrastructure Engineer",
    "info": "via unvacancies · engineering",

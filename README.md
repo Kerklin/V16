@@ -1,6 +1,6 @@
 # Job tracker
 
-**24 open jobs** (🟢 9 · 🟡 12 · ⚪ 3) · updated 2026-10-06 · checks every 5 minutes · sources working today: 8 of 15 · AI today: 4 of 130 requests
+**27 open jobs** (🟢 9 · 🟡 14 · ⚪ 4) · updated 2026-10-06 · checks every 5 minutes · sources working today: 8 of 15 · AI today: 6 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -21,12 +21,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Contract Management Specialist](https://careers.unops.org/) 🆕 | UNOPS · Home-based | 2026-10-14 | 8 days | 🟡 Medium | Check it isn't local-hire only |
 | [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) 🆕 | Lidl Ireland · Dublin | 2026-10-16 | 10 days | 🟡 Medium | EU work permit needed |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) 🆕 | UN-Habitat · Nairobi | 2026-11-07 | 32 days | 🟡 Medium | Urban planning/finance focus |
+| [Superviseurs Multisectoriels SAME /WASH - Bassikounou, Bassikounou, Mauritania](https://unjobs.org/vacancies/1791297050460) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [Skills Adviser Building, Construction & Workforce Development](https://unjobs.org/vacancies/1791176514795) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Project Coordinator](https://unjobs.org/vacancies/1791230820933) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1791190732675) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut, Lebanon](https://unjobs.org/vacancies/1790951875279) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Infrastructure Project Manager, Port Moresby, Papua New Guinea](https://unjobs.org/vacancies/1790750189205) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Head of Building & IT Infrastructure Department](https://talents.coe.int/en_GB/careersmarketplace/JobDetail/Head-of-Building-and-IT-Infrastructure-Department/1565) 🆕 | Council of Europe · Strasbourg | – | check | 🟡 Medium | French is an asset |
 | [Program Director for Europe](https://habitat.wd12.myworkdayjobs.com/External/job/Bratislava-Slovakia/Program-Director-for-Europe_JR103615-1) 🆕 | Habitat for Humanity · Bratislava | – | check | 🟡 Medium | Senior role |
+| [SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan](https://unjobs.org/vacancies/1791125088299) 🆕 | via UNjobs · construction | – | check | ⚪ Low |  |
 | [Shelter and WaSH Technical Assistant Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153877) 🆕 | via UNjobs · construction | – | check | ⚪ Low |  |
 | [Shelter and WaSH Officer Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153601) 🆕 | via UNjobs · construction | – | check | ⚪ Low |  |
 | [Wash & Shelter Coordinator CAR Bouar](https://unjobs.org/vacancies/1791109150945) 🆕 | via UNjobs · construction | – | check | ⚪ Low |  |
