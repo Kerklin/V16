@@ -1,25 +1,25 @@
 {
  "v": 16,
- "rev": 1,
+ "rev": 2,
  "day": "2026-10-06",
  "used": {
-  "high": 3,
-  "low": 1
+  "high": 2,
+  "low": 0
  },
  "hour": "2026-10-06T13",
- "hour_used": 4,
+ "hour_used": 2,
  "blocked": {},
- "last_call": 0,
- "holder": "v16-37471545036",
- "expires": 1791294516.5244715,
- "fail_streak": 0,
+ "last_call": 1791293567.6928709,
+ "holder": "",
+ "expires": 0,
+ "fail_streak": 1,
  "paused_until": 0,
  "packs": {},
  "packs_day": "2026-10-06",
  "packs_today": 0,
- "search_day": "",
+ "search_day": "2026-10-06",
  "search_today": 0,
- "search_month": "",
+ "search_month": "2026-10",
  "search_month_used": 0,
  "mail_fail": 0
 }
