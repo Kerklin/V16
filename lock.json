@@ -1,0 +1,25 @@
+{
+ "v": 16,
+ "rev": 1,
+ "day": "2026-10-06",
+ "used": {
+  "high": 3,
+  "low": 1
+ },
+ "hour": "2026-10-06T13",
+ "hour_used": 4,
+ "blocked": {},
+ "last_call": 0,
+ "holder": "v16-37471545036",
+ "expires": 1791294516.5244715,
+ "fail_streak": 0,
+ "paused_until": 0,
+ "packs": {},
+ "packs_day": "2026-10-06",
+ "packs_today": 0,
+ "search_day": "",
+ "search_today": 0,
+ "search_month": "",
+ "search_month_used": 0,
+ "mail_fail": 0
+}
