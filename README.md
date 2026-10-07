@@ -1,26 +1,26 @@
 # Job tracker
 
-**27 open jobs** (🟢 9 · 🟡 14 · ⚪ 4) · updated 2026-10-06 · checks every 5 minutes · sources working today: 8 of 15 · AI today: 6 of 130 requests
+**27 open jobs** (🟢 9 · 🟡 14 · ⚪ 4) · updated 2026-10-07 · checks every 5 minutes · sources working today: 2 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
-| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) 🆕 | CTG · DR Congo | 2026-10-10 | 🔴 4 days | 🟢 High | Check French + nationality rules |
-| [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) 🆕 | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 24 days | 🟢 High | Arabic desirable. Hardship E, non-family |
-| [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) 🆕 | Huawei · Sarajevo | 2026-12-14 | 69 days | 🟢 High | Requires state professional exam + civil engineering degree |
+| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) 🆕 | CTG · DR Congo | 2026-10-10 | 🔴 3 days | 🟢 High | Check French + nationality rules |
+| [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) 🆕 | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 23 days | 🟢 High | Arabic desirable. Hardship E, non-family |
+| [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) 🆕 | Huawei · Sarajevo | 2026-12-14 | 68 days | 🟢 High | Requires state professional exam + civil engineering degree |
 | [Joint Project Coordinator \[Opent to Tier 1 & 2 applicants\], Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1790801308669) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |  |
 | [Project Manager, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1789649136938) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |  |
 | [Commercial Project Manager (m/f/d), Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1778607480538) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |  |
 | [Construction Officer](https://unjobs.org/vacancies/1791262896839) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Civil Engineer (Water Resources Infrastructure Development and Management), Khartoum](https://unjobs.org/vacancies/1791262902457) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Architect / Civil Engineer – Building in Existing Buildings (Req 3412)](https://jobboerse.strabag.at/job-detail.php?ReqId=3412&language=AT_EN) 🆕 | STRABAG · Austria | – | check | 🟢 High | Check deadline + work permit |
-| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593) 🆕 | via unvacancies · UN-Habitat | 2026-10-08 | 🔴 2 days | 🟡 Medium |  |
-| [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) 🆕 | via unvacancies · engineering | 2026-10-09 | 🔴 3 days | 🟡 Medium |  |
-| [International Urban Design Lead Expert](https://unvacancies.org/jobs/international-urban-design-lead-expert-t-285835) 🆕 | via unvacancies · UN-Habitat | 2026-10-14 | 8 days | 🟡 Medium |  |
-| [Contract Management Specialist](https://careers.unops.org/) 🆕 | UNOPS · Home-based | 2026-10-14 | 8 days | 🟡 Medium | Check it isn't local-hire only |
-| [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) 🆕 | Lidl Ireland · Dublin | 2026-10-16 | 10 days | 🟡 Medium | EU work permit needed |
-| [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) 🆕 | UN-Habitat · Nairobi | 2026-11-07 | 32 days | 🟡 Medium | Urban planning/finance focus |
+| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593) 🆕 | via unvacancies · UN-Habitat | 2026-10-08 | 🔴 1 days | 🟡 Medium |  |
+| [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) 🆕 | via unvacancies · engineering | 2026-10-09 | 🔴 2 days | 🟡 Medium |  |
+| [International Urban Design Lead Expert](https://unvacancies.org/jobs/international-urban-design-lead-expert-t-285835) 🆕 | via unvacancies · UN-Habitat | 2026-10-14 | 🔴 7 days | 🟡 Medium |  |
+| [Contract Management Specialist](https://careers.unops.org/) 🆕 | UNOPS · Home-based | 2026-10-14 | 🔴 7 days | 🟡 Medium | Check it isn't local-hire only |
+| [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) 🆕 | Lidl Ireland · Dublin | 2026-10-16 | 9 days | 🟡 Medium | EU work permit needed |
+| [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) 🆕 | UN-Habitat · Nairobi | 2026-11-07 | 31 days | 🟡 Medium | Urban planning/finance focus |
 | [Superviseurs Multisectoriels SAME /WASH - Bassikounou, Bassikounou, Mauritania](https://unjobs.org/vacancies/1791297050460) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Skills Adviser Building, Construction & Workforce Development](https://unjobs.org/vacancies/1791176514795) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Project Coordinator](https://unjobs.org/vacancies/1791230820933) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
@@ -45,11 +45,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-06 |
+| unvacancies · engineering | 2026-10-07 |
 | unvacancies · UNOPS | 2026-10-06 |
 | unvacancies · UN-Habitat | 2026-10-06 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-06 |
-| UNjobs · construction | 2026-10-06 |
+| UNjobs · construction | 2026-10-07 |
 | UNjobs · infrastructure projects | 2026-10-06 |
 | UNOPS careers | 2026-10-06 |
 | UNICEF · construction | 2026-10-06 |
