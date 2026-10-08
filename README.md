@@ -1,6 +1,6 @@
 # Job tracker
 
-**37 open jobs** (🟢 16 · 🟡 15 · ⚪ 6) · updated 2026-10-08 · checks every 5 minutes · sources working today: 2 of 15 · AI today: 0 of 130 requests
+**42 open jobs** (🟢 19 · 🟡 17 · ⚪ 6) · updated 2026-10-08 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 2 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -10,6 +10,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) 🆕 | via unvacancies · UNOPS | 2026-10-30 | 22 days | 🟢 High |  |
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 22 days | 🟢 High | Arabic desirable. Hardship E, non-family |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 67 days | 🟢 High | Requires state professional exam + civil engineering degree |
+| [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439395420) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
+| [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439391453) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
+| [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1791439391194) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394751777) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791396181599) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1791396181477) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
@@ -28,6 +31,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based | 2026-10-14 | 🔴 6 days | 🟡 Medium | Check it isn't local-hire only |
 | [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | 8 days | 🟡 Medium | EU work permit needed |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 30 days | 🟡 Medium | Urban planning/finance focus |
+| [Construction Engineer](https://unjobs.org/vacancies/1791439393965) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [Emergency WASH Officer, Kyiv](https://unjobs.org/vacancies/1791439392752) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Construction Engineer](https://unjobs.org/vacancies/1791345738022) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Superviseurs Multisectoriels SAME /WASH - Bassikounou, Bassikounou, Mauritania](https://unjobs.org/vacancies/1791297050460) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Skills Adviser Building, Construction & Workforce Development](https://unjobs.org/vacancies/1791176514795) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
@@ -55,11 +60,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-07 |
+| unvacancies · engineering | 2026-10-08 |
 | unvacancies · UNOPS | 2026-10-08 |
 | unvacancies · UN-Habitat | 2026-10-07 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-07 |
-| UNjobs · construction | 2026-10-07 |
+| UNjobs · construction | 2026-10-08 |
 | UNjobs · infrastructure projects | 2026-10-08 |
 | UNOPS careers | 2026-10-07 |
 | UNICEF · construction | 2026-10-07 |

@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-07T2"
+    "muted": "2026-10-08T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-07T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-08",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-08",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -68,6 +68,61 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439395420",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08"
+  },
+  {
+   "title": "Construction Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439393965",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08"
+  },
+  {
+   "title": "Emergency WASH Officer, Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439392752",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08"
+  },
+  {
+   "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439391453",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08"
+  },
+  {
+   "title": "Vodokanal Cell Lead (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439391194",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08"
+  },
   {
    "title": "Senior Programme Manager",
    "info": "via unvacancies · UNOPS",
