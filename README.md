@@ -1,6 +1,6 @@
 # Job tracker
 
-**42 open jobs** (🟢 19 · 🟡 17 · ⚪ 6) · updated 2026-10-08 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 2 of 130 requests
+**42 open jobs** (🟢 19 · 🟡 17 · ⚪ 6) · updated 2026-10-08 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 4 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
