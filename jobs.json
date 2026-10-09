@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-08T2"
+    "muted": "2026-10-09T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-08T2"
+    "muted": "2026-10-09T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-09",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-09",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Facility Engineer (Civil), Aden, Yemen",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791522065800",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-09",
+   "status": "open",
+   "checked": "2026-10-09"
+  },
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791464823412",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-09",
+   "status": "open",
+   "checked": "2026-10-09"
+  },
   {
    "title": "Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)",
    "info": "via UNICEF · construction",
