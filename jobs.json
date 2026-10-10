@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-10T0"
+    "muted": "2026-10-10T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-10T0"
+    "muted": "2026-10-10T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791602789331",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10"
+  },
+  {
+   "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791602788994",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10"
+  },
   {
    "title": "WASH Supervisor, Tyre, Lebanon",
    "info": "via UNjobs · infrastructure projects",

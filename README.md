@@ -1,6 +1,6 @@
 # Job tracker
 
-**39 open jobs** (🟢 17 · 🟡 16 · ⚪ 6) · updated 2026-10-10 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 6 of 130 requests
+**41 open jobs** (🟢 18 · 🟡 17 · ⚪ 6) · updated 2026-10-10 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 6 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -11,6 +11,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) 🆕 | via unvacancies · UNOPS | 2026-10-30 | 20 days | 🟢 High |  |
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 20 days | 🟢 High | Arabic desirable. Hardship E, non-family |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 65 days | 🟢 High | Requires state professional exam + civil engineering degree |
+| [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791602789331) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [Facility Engineer (Civil), Aden, Yemen](https://unjobs.org/vacancies/1791522065800) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439395420) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439391453) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
@@ -27,6 +28,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based | 2026-10-14 | 🔴 4 days | 🟡 Medium | Check it isn't local-hire only |
 | [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | 🔴 6 days | 🟡 Medium | EU work permit needed |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 28 days | 🟡 Medium | Urban planning/finance focus |
+| [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut](https://unjobs.org/vacancies/1791602788994) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [WASH Supervisor, Tyre, Lebanon](https://unjobs.org/vacancies/1791556268009) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1791464823412) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Construction Engineer](https://unjobs.org/vacancies/1791439393965) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
