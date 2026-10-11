@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-10T2"
+    "muted": "2026-10-11T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-10T2"
+    "muted": "2026-10-11T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-08",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-10",
+    "last_ok": "2026-10-11",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,12 +58,12 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-10",
+    "last_ok": "2026-10-11",
     "muted": ""
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-10",
+  "maint": "2026-10-11",
   "vcheck": "2026-10-06",
   "outdated": []
  },
@@ -110,7 +110,7 @@
    "note": "",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-09"
+   "checked": "2026-10-11"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -118,10 +118,10 @@
    "link": "https://unjobs.org/vacancies/1791464823412",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-11)",
    "found": "2026-10-09",
-   "status": "open",
-   "checked": "2026-10-09"
+   "status": "removed",
+   "checked": "2026-10-11"
   },
   {
    "title": "Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)",
@@ -272,10 +272,10 @@
    "link": "https://unjobs.org/vacancies/1791298565977",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-11)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-08"
+   "status": "removed",
+   "checked": "2026-10-11"
   },
   {
    "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E",
@@ -286,7 +286,7 @@
    "note": "",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-09"
+   "checked": "2026-10-11"
   },
   {
    "title": "Construction Engineer",
@@ -470,10 +470,10 @@
    "link": "https://unjobs.org/vacancies/1791190732675",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-11)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-08"
+   "status": "removed",
+   "checked": "2026-10-11"
   },
   {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut, Lebanon",
@@ -484,7 +484,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-08"
+   "checked": "2026-10-11"
   },
   {
    "title": "Infrastructure Project Manager, Port Moresby, Papua New Guinea",
@@ -495,7 +495,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-08"
+   "checked": "2026-10-11"
   },
   {
    "title": "Senior Programme Manager – National Housing Support Programme",
@@ -506,7 +506,7 @@
    "note": "Arabic desirable. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08"
+   "checked": "2026-10-11"
   },
   {
    "title": "Contract Management Specialist",
@@ -528,7 +528,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08"
+   "checked": "2026-10-11"
   },
   {
    "title": "Architect / Civil Engineer – Building in Existing Buildings (Req 3412)",
@@ -539,7 +539,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08"
+   "checked": "2026-10-11"
   },
   {
    "title": "Head of Building & IT Infrastructure Department",
@@ -550,7 +550,7 @@
    "note": "French is an asset",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08"
+   "checked": "2026-10-11"
   },
   {
    "title": "Program Director for Europe",
@@ -561,7 +561,7 @@
    "note": "Senior role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08"
+   "checked": "2026-10-11"
   },
   {
    "title": "Construction Project Manager – 12-month fixed term",
@@ -572,7 +572,7 @@
    "note": "EU work permit needed",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08"
+   "checked": "2026-10-11"
   },
   {
    "title": "Infrastructure Construction & Design Manager",
@@ -583,7 +583,7 @@
    "note": "Requires state professional exam + civil engineering degree",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08"
+   "checked": "2026-10-11"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -594,7 +594,7 @@
    "note": "Urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08"
+   "checked": "2026-10-11"
   }
  ]
 }
