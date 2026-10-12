@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-11T2"
+    "muted": "2026-10-12T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-11T2"
+    "muted": "2026-10-12T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-11",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-12",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,12 +58,12 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-12",
     "muted": ""
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-11",
+  "maint": "2026-10-12",
   "vcheck": "2026-10-06",
   "outdated": []
  },
@@ -77,7 +77,7 @@
    "note": "",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-12"
   },
   {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut",
@@ -88,7 +88,7 @@
    "note": "",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-12"
   },
   {
    "title": "WASH Supervisor, Tyre, Lebanon",
@@ -99,7 +99,7 @@
    "note": "",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-12"
   },
   {
    "title": "Facility Engineer (Civil), Aden, Yemen",
@@ -308,7 +308,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09"
+   "checked": "2026-10-12"
   },
   {
    "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan",
@@ -319,7 +319,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09"
+   "checked": "2026-10-12"
   },
   {
    "title": "Skills Adviser Building, Construction & Workforce Development",
@@ -330,7 +330,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09"
+   "checked": "2026-10-12"
   },
   {
    "title": "Senior Drupal Infrastructure Engineer",
@@ -341,7 +341,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09"
+   "checked": "2026-10-12"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -352,7 +352,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09"
+   "checked": "2026-10-12"
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture)",
@@ -363,7 +363,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09"
+   "checked": "2026-10-12"
   },
   {
    "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
@@ -382,10 +382,10 @@
    "link": "https://unjobs.org/vacancies/1789649136938",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-12)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-09"
+   "status": "removed",
+   "checked": "2026-10-12"
   },
   {
    "title": "Commercial Project Manager (m/f/d), Sarajevo, Bosnia and Herzegovina",
@@ -396,7 +396,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09"
+   "checked": "2026-10-12"
   },
   {
    "title": "Project Coordinator",
@@ -407,7 +407,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09"
+   "checked": "2026-10-12"
   },
   {
    "title": "Construction Officer",
@@ -415,10 +415,10 @@
    "link": "https://unjobs.org/vacancies/1791262896839",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-12)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-09"
+   "status": "removed",
+   "checked": "2026-10-12"
   },
   {
    "title": "Civil Engineer (Water Resources Infrastructure Development and Management), Khartoum",
@@ -429,7 +429,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09"
+   "checked": "2026-10-12"
   },
   {
    "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
@@ -440,7 +440,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09"
+   "checked": "2026-10-12"
   },
   {
    "title": "Shelter and WaSH Officer Yemen Hodeidah (National)",
