@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**35 open jobs** (🟢 14 · 🟡 15 · ⚪ 6) · updated 2026-10-12 · checks every 5 minutes · sources working today: 2 of 15 · AI today: 0 of 130 requests
+**36 open jobs** (🟢 14 · 🟡 16 · ⚪ 6) · updated 2026-10-12 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -28,6 +28,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based | 2026-10-14 | 🔴 2 days | 🟡 Medium | Check it isn't local-hire only |
 | [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | 🔴 4 days | 🟡 Medium | EU work permit needed |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 26 days | 🟡 Medium | Urban planning/finance focus |
+| [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1791712782551) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut](https://unjobs.org/vacancies/1791602788994) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [WASH Supervisor, Tyre, Lebanon](https://unjobs.org/vacancies/1791556268009) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Construction Engineer](https://unjobs.org/vacancies/1791439393965) | via UNjobs · construction | – | check | 🟡 Medium |  |
@@ -78,11 +79,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-11 |
-| unvacancies · UNOPS | 2026-10-10 |
+| unvacancies · UNOPS | 2026-10-12 |
 | unvacancies · UN-Habitat | 2026-10-11 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-12 |
 | UNjobs · construction | 2026-10-11 |
-| UNjobs · infrastructure projects | 2026-10-10 |
+| UNjobs · infrastructure projects | 2026-10-12 |
 | UNOPS careers | 2026-10-11 |
 | UNICEF · construction | 2026-10-12 |
 
