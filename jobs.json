@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-12T0"
+    "muted": "2026-10-13T3"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-12T0"
+    "muted": "2026-10-13T3"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-13",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-13",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-13",
     "muted": ""
    }
   },
@@ -68,6 +68,17 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal",
+   "deadline": "2026-10-22",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13"
+  },
   {
    "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
    "info": "via UNjobs · construction",

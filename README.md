@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**46 open jobs** (🟢 18 · 🟡 21 · ⚪ 7) · updated 2026-10-13 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
+**47 open jobs** (🟢 18 · 🟡 22 · ⚪ 7) · updated 2026-10-13 · checks every 5 minutes · sources working today: 8 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -31,6 +31,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [International Urban Design Lead Expert](https://unvacancies.org/jobs/international-urban-design-lead-expert-t-285835) | via unvacancies · UN-Habitat | 2026-10-14 | 🔴 1 days | 🟡 Medium |  |
 | [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based | 2026-10-14 | 🔴 1 days | 🟡 Medium | Check it isn't local-hire only |
 | [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | 🔴 3 days | 🟡 Medium | EU work permit needed |
+| [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal) 🆕 | via UNICEF · construction | 2026-10-22 | 9 days | 🟡 Medium |  |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 25 days | 🟡 Medium | Urban planning/finance focus |
 | [Wash & Shelter Technical Assistant, Bouar, Central African Republic](https://unjobs.org/vacancies/1791910843659) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1791900091937) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
@@ -91,10 +92,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-10-13 |
 | unvacancies · UNOPS | 2026-10-13 |
 | unvacancies · UN-Habitat | 2026-10-13 |
-| UNjobs · Bosnia and Herzegovina | 2026-10-12 |
+| UNjobs · Bosnia and Herzegovina | 2026-10-13 |
 | UNjobs · construction | 2026-10-13 |
 | UNjobs · infrastructure projects | 2026-10-13 |
 | UNOPS careers | 2026-10-13 |
-| UNICEF · construction | 2026-10-12 |
+| UNICEF · construction | 2026-10-13 |
 
 </details>
