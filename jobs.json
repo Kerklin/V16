@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-12T1"
+    "muted": "2026-10-13T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-12T1"
+    "muted": "2026-10-13T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-13",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-13",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791900091937",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13"
+  },
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791882791098",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13"
+  },
   {
    "title": "Sanitation Engineer (Drainage Project)",
    "info": "via unvacancies · engineering",
