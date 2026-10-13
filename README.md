@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**45 open jobs** (🟢 18 · 🟡 20 · ⚪ 7) · updated 2026-10-13 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
+**46 open jobs** (🟢 18 · 🟡 21 · ⚪ 7) · updated 2026-10-13 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -32,6 +32,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based | 2026-10-14 | 🔴 1 days | 🟡 Medium | Check it isn't local-hire only |
 | [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | 🔴 3 days | 🟡 Medium | EU work permit needed |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 25 days | 🟡 Medium | Urban planning/finance focus |
+| [Wash & Shelter Technical Assistant, Bouar, Central African Republic](https://unjobs.org/vacancies/1791910843659) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1791900091937) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1791882791098) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Manager, Facilities Transportation, Alamo](https://unjobs.org/vacancies/1791644019637) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
