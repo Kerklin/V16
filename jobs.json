@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-11T3"
+    "muted": "2026-10-13T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-12T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-13",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-13",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -63,11 +63,88 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-12",
-  "vcheck": "2026-10-06",
+  "maint": "2026-10-13",
+  "vcheck": "2026-10-13",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Sanitation Engineer (Drainage Project)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289",
+   "deadline": "2026-10-16",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13"
+  },
+  {
+   "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791824450489",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13"
+  },
+  {
+   "title": "Manager, Facilities Transportation, Alamo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791644019637",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13"
+  },
+  {
+   "title": "Education Infrastructure Engineer, Damascus",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791813713952",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13"
+  },
+  {
+   "title": "Construction Management Engineer, Kalemie, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791805949717",
+   "deadline": "2026-10-23",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13"
+  },
+  {
+   "title": "Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791806017218",
+   "deadline": "2026-10-23",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13"
+  },
+  {
+   "title": "National Building Code Adviser - STA",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791781328274",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13"
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
    "info": "via UNjobs · infrastructure projects",
@@ -121,7 +198,7 @@
    "note": "",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-13"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -143,7 +220,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-13"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -154,7 +231,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-13"
   },
   {
    "title": "Construction Engineer",
@@ -165,7 +242,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-13"
   },
   {
    "title": "Emergency WASH Officer, Kyiv",
@@ -176,7 +253,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-13"
   },
   {
    "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
@@ -187,7 +264,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-13"
   },
   {
    "title": "Vodokanal Cell Lead (WASH), Kyiv",
@@ -198,7 +275,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-13"
   },
   {
    "title": "Senior Programme Manager",
@@ -209,7 +286,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-13"
   },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
@@ -220,7 +297,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-13"
   },
   {
    "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
@@ -253,7 +330,7 @@
    "note": "",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-13"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -275,7 +352,7 @@
    "note": "",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-13"
   },
   {
    "title": "WatHab Generalist Project Manager, Myanmar",
@@ -297,7 +374,7 @@
    "note": "",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-13"
   },
   {
    "title": "Construction Engineer",
@@ -462,7 +539,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-13"
   },
   {
    "title": "Wash & Shelter Coordinator CAR Bouar",
@@ -473,7 +550,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10"
+   "checked": "2026-10-13"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -495,7 +572,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-13"
   },
   {
    "title": "Infrastructure Project Manager, Port Moresby, Papua New Guinea",
