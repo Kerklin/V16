@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-13T3"
+    "muted": "2026-10-14T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-13T3"
+    "muted": "2026-10-14T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-13",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-14",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,12 +58,12 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-14",
     "muted": ""
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-13",
+  "maint": "2026-10-14",
   "vcheck": "2026-10-13",
   "outdated": []
  },
@@ -195,10 +195,10 @@
    "link": "https://unjobs.org/vacancies/1791712782551",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-14)",
    "found": "2026-10-12",
-   "status": "open",
-   "checked": "2026-10-12"
+   "status": "removed",
+   "checked": "2026-10-14"
   },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
@@ -209,7 +209,7 @@
    "note": "",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-14"
   },
   {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut",
@@ -220,7 +220,7 @@
    "note": "",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-14"
   },
   {
    "title": "WASH Supervisor, Tyre, Lebanon",
@@ -231,7 +231,7 @@
    "note": "",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-14"
   },
   {
    "title": "Facility Engineer (Civil), Aden, Yemen",
@@ -440,7 +440,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-14"
   },
   {
    "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan",
@@ -451,7 +451,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-14"
   },
   {
    "title": "Skills Adviser Building, Construction & Workforce Development",
@@ -627,7 +627,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-14"
   },
   {
    "title": "Senior Programme Manager – National Housing Support Programme",
@@ -638,7 +638,7 @@
    "note": "Arabic desirable. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-14"
   },
   {
    "title": "Contract Management Specialist",
@@ -660,7 +660,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-14"
   },
   {
    "title": "Architect / Civil Engineer – Building in Existing Buildings (Req 3412)",
@@ -671,7 +671,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-14"
   },
   {
    "title": "Head of Building & IT Infrastructure Department",
@@ -682,7 +682,7 @@
    "note": "French is an asset",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-14"
   },
   {
    "title": "Program Director for Europe",
@@ -693,7 +693,7 @@
    "note": "Senior role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-14"
   },
   {
    "title": "Construction Project Manager – 12-month fixed term",
@@ -704,7 +704,7 @@
    "note": "EU work permit needed",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-14"
   },
   {
    "title": "Infrastructure Construction & Design Manager",
@@ -715,7 +715,7 @@
    "note": "Requires state professional exam + civil engineering degree",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-14"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -726,7 +726,7 @@
    "note": "Urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-14"
   }
  ]
 }
