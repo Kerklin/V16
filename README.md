@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**49 open jobs** (🟢 18 · 🟡 22 · ⚪ 9) · updated 2026-10-15 · checks every 5 minutes · sources working today: 8 of 15 · AI today: 0 of 130 requests
+**51 open jobs** (🟢 18 · 🟡 24 · ⚪ 9) · updated 2026-10-15 · checks every 5 minutes · sources working today: 8 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -31,6 +31,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | 🔴 1 days | 🟡 Medium | EU work permit needed |
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal) 🆕 | via UNICEF · construction | 2026-10-22 | 🔴 7 days | 🟡 Medium |  |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 23 days | 🟡 Medium | Urban planning/finance focus |
+| [WASH Officer CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083873447) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083872868) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Senior Project Engineer – Solar & BESS, Brisbane, CA](https://unjobs.org/vacancies/1792029648292) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Senior Project Engineer – Oxy-Combustion, Brisbane, CA, United States](https://unjobs.org/vacancies/1792029650601) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [NBC Urban Designer - International Consultant](https://unjobs.org/vacancies/1792065675186) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |

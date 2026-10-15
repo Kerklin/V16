@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-15T2"
+    "muted": "2026-10-15T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "WASH Officer CAR Kaga Bandoro, Kaga-Bandoro",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792083873447",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792083872868",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
   {
    "title": "Senior Project Engineer – Solar & BESS, Brisbane, CA",
    "info": "via UNjobs · construction",
