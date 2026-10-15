@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-14T1"
+    "muted": "2026-10-15T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-14T1"
+    "muted": "2026-10-15T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-14",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-14",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-14",
+  "maint": "2026-10-15",
   "vcheck": "2026-10-13",
   "outdated": []
  },
@@ -77,7 +77,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-15"
   },
   {
    "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
@@ -88,7 +88,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-15"
   },
   {
    "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
@@ -99,7 +99,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-15"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -110,7 +110,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-15"
   },
   {
    "title": "Sanitation Engineer (Drainage Project)",
@@ -121,7 +121,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-15"
   },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
@@ -132,7 +132,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-15"
   },
   {
    "title": "Manager, Facilities Transportation, Alamo",
@@ -140,10 +140,10 @@
    "link": "https://unjobs.org/vacancies/1791644019637",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-15)",
    "found": "2026-10-13",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-15"
   },
   {
    "title": "Education Infrastructure Engineer, Damascus",
@@ -462,7 +462,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-15"
   },
   {
    "title": "Senior Drupal Infrastructure Engineer",
@@ -473,7 +473,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-15"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -484,7 +484,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-15"
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture)",
@@ -495,7 +495,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-15"
   },
   {
    "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
@@ -528,7 +528,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-15"
   },
   {
    "title": "Project Coordinator",
@@ -536,10 +536,10 @@
    "link": "https://unjobs.org/vacancies/1791230820933",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-15)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-12"
+   "status": "removed",
+   "checked": "2026-10-15"
   },
   {
    "title": "Construction Officer",
@@ -561,7 +561,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-15"
   },
   {
    "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
@@ -569,10 +569,10 @@
    "link": "https://unjobs.org/vacancies/1791109153877",
    "deadline": "",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-15)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-12"
+   "status": "removed",
+   "checked": "2026-10-15"
   },
   {
    "title": "Shelter and WaSH Officer Yemen Hodeidah (National)",
