@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**41 open jobs** (🟢 18 · 🟡 17 · ⚪ 6) · updated 2026-10-15 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
+**49 open jobs** (🟢 18 · 🟡 22 · ⚪ 9) · updated 2026-10-15 · checks every 5 minutes · sources working today: 8 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -31,6 +31,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | 🔴 1 days | 🟡 Medium | EU work permit needed |
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal) 🆕 | via UNICEF · construction | 2026-10-22 | 🔴 7 days | 🟡 Medium |  |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 23 days | 🟡 Medium | Urban planning/finance focus |
+| [Senior Project Engineer – Solar & BESS, Brisbane, CA](https://unjobs.org/vacancies/1792029648292) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [Senior Project Engineer – Oxy-Combustion, Brisbane, CA, United States](https://unjobs.org/vacancies/1792029650601) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [NBC Urban Designer - International Consultant](https://unjobs.org/vacancies/1792065675186) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [Assistant(e) SWI (Shelter, WaSH and Infrastructure), 2 à Adja/Aru 1 à Mahagi - ITURI, DR Congo](https://unjobs.org/vacancies/1791867668525) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, DR Congo](https://unjobs.org/vacancies/1791867670024) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Wash & Shelter Technical Assistant, Bouar, Central African Republic](https://unjobs.org/vacancies/1791910843659) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1791900091937) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1791882791098) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
@@ -47,6 +52,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Program Director for Europe](https://habitat.wd12.myworkdayjobs.com/External/job/Bratislava-Slovakia/Program-Director-for-Europe_JR103615-1) | Habitat for Humanity · Bratislava | – | check | 🟡 Medium | Senior role |
 | [Sanitation Engineer (Drainage Project)](https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289) 🆕 | via unvacancies · engineering | 2026-10-16 | 🔴 1 days | ⚪ Low |  |
 | [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | 🔴 5 days | ⚪ Low |  |
+| [Chef(fe) d’Equipe SWI (Shelter, WaSH and Infrastructures), Adja/Aru, DR Congo](https://unjobs.org/vacancies/1791867671241) 🆕 | via UNjobs · construction | – | check | ⚪ Low |  |
+| [Shelter and Settlement Officer, Nyirol, South Sudan](https://unjobs.org/vacancies/1791910842362) 🆕 | via UNjobs · construction | – | check | ⚪ Low |  |
+| [WASH Officer, Uror, Jonglei State, South Sudan](https://unjobs.org/vacancies/1791910843244) 🆕 | via UNjobs · construction | – | check | ⚪ Low |  |
 | [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E](https://unjobs.org/vacancies/1791352893661) | via UNjobs · construction | – | check | ⚪ Low |  |
 | [SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan](https://unjobs.org/vacancies/1791125088299) | via UNjobs · construction | – | check | ⚪ Low |  |
 | [Shelter and WaSH Officer Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153601) | via UNjobs · construction | – | check | ⚪ Low |  |
@@ -89,11 +97,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-13 |
+| unvacancies · engineering | 2026-10-15 |
 | unvacancies · UNOPS | 2026-10-15 |
 | unvacancies · UN-Habitat | 2026-10-15 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-15 |
-| UNjobs · construction | 2026-10-13 |
+| UNjobs · construction | 2026-10-15 |
 | UNjobs · infrastructure projects | 2026-10-15 |
 | UNOPS careers | 2026-10-15 |
 | UNICEF · construction | 2026-10-15 |

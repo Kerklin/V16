@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-13T3"
+    "muted": "2026-10-15T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-15T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -68,6 +68,94 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Senior Project Engineer – Solar & BESS, Brisbane, CA",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792029648292",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "Senior Project Engineer – Oxy-Combustion, Brisbane, CA, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792029650601",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "NBC Urban Designer - International Consultant",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792065675186",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "Assistant(e) SWI (Shelter, WaSH and Infrastructure), 2 à Adja/Aru 1 à Mahagi - ITURI, DR Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791867668525",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, DR Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791867670024",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "Chef(fe) d’Equipe SWI (Shelter, WaSH and Infrastructures), Adja/Aru, DR Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791867671241",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "Shelter and Settlement Officer, Nyirol, South Sudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791910842362",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "WASH Officer, Uror, Jonglei State, South Sudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791910843244",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
    "info": "via UNICEF · construction",
