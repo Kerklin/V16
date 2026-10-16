@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-15T3"
+    "muted": "2026-10-16T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-15T3"
+    "muted": "2026-10-16T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-15",
+  "maint": "2026-10-16",
   "vcheck": "2026-10-13",
   "outdated": []
  },
@@ -297,7 +297,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-16"
   },
   {
    "title": "Construction Management Engineer, Kalemie, Democratic Republic of Congo",
@@ -308,7 +308,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-16"
   },
   {
    "title": "Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo",
@@ -319,7 +319,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-16"
   },
   {
    "title": "National Building Code Adviser - STA",
@@ -330,7 +330,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-16"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -385,7 +385,7 @@
    "note": "",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-16"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -407,7 +407,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-16"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -415,10 +415,10 @@
    "link": "https://unjobs.org/vacancies/1791439395420",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-16)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-16"
   },
   {
    "title": "Construction Engineer",
@@ -426,10 +426,10 @@
    "link": "https://unjobs.org/vacancies/1791439393965",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-16)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-16"
   },
   {
    "title": "Emergency WASH Officer, Kyiv",
@@ -437,10 +437,10 @@
    "link": "https://unjobs.org/vacancies/1791439392752",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-16)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-16"
   },
   {
    "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
@@ -451,7 +451,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-16"
   },
   {
    "title": "Vodokanal Cell Lead (WASH), Kyiv",
@@ -462,7 +462,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-16"
   },
   {
    "title": "Senior Programme Manager",
@@ -473,7 +473,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-16"
   },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
@@ -481,10 +481,10 @@
    "link": "https://unjobs.org/vacancies/1791394751777",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-16)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-16"
   },
   {
    "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
@@ -517,7 +517,7 @@
    "note": "",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-16"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -536,10 +536,10 @@
    "link": "https://unjobs.org/vacancies/1791373293624",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-16)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-16"
   },
   {
    "title": "WatHab Generalist Project Manager, Myanmar",
