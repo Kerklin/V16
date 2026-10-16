@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-15T3"
+    "muted": "2026-10-16T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-16T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -68,6 +68,50 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Civil Engineer/Architect – BiH",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-architect-open-to-internal-and-external-applicants-DP-37528",
+   "deadline": "2026-10-23",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16"
+  },
+  {
+   "title": "Technical Engineer Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343",
+   "deadline": "2026-10-28",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16"
+  },
+  {
+   "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792087264868",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16"
+  },
+  {
+   "title": "Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792087267794",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16"
+  },
   {
    "title": "Civil Engineer/Architect [Open to internal and external applicants], Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",
