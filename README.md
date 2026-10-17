@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**53 open jobs** (🟢 20 · 🟡 26 · ⚪ 7) · updated 2026-10-17 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
+**53 open jobs** (🟢 20 · 🟡 26 · ⚪ 7) · updated 2026-10-17 · checks every 5 minutes · sources working today: 8 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -113,11 +113,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-17 |
 | unvacancies · UNOPS | 2026-10-17 |
-| unvacancies · UN-Habitat | 2026-10-16 |
+| unvacancies · UN-Habitat | 2026-10-17 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-17 |
 | UNjobs · construction | 2026-10-17 |
 | UNjobs · infrastructure projects | 2026-10-17 |
-| UNOPS careers | 2026-10-16 |
+| UNOPS careers | 2026-10-17 |
 | UNICEF · construction | 2026-10-17 |
 
 </details>
