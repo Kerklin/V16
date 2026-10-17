@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-16T2"
+    "muted": "2026-10-17T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-16T2"
+    "muted": "2026-10-17T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-16",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-16",
+    "last_ok": "2026-10-17",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,12 +58,12 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-16",
+    "last_ok": "2026-10-17",
     "muted": ""
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-16",
+  "maint": "2026-10-17",
   "vcheck": "2026-10-13",
   "outdated": []
  },
@@ -415,10 +415,10 @@
    "link": "https://unjobs.org/vacancies/1791602789331",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-17)",
    "found": "2026-10-10",
-   "status": "open",
-   "checked": "2026-10-14"
+   "status": "removed",
+   "checked": "2026-10-17"
   },
   {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut",
@@ -429,7 +429,7 @@
    "note": "",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-17"
   },
   {
    "title": "WASH Supervisor, Tyre, Lebanon",
@@ -440,7 +440,7 @@
    "note": "",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-17"
   },
   {
    "title": "Facility Engineer (Civil), Aden, Yemen",
@@ -627,7 +627,7 @@
    "note": "",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-17"
   },
   {
    "title": "Construction Engineer",
@@ -649,7 +649,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-17"
   },
   {
    "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan",
@@ -660,7 +660,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-17"
   },
   {
    "title": "Skills Adviser Building, Construction & Workforce Development",
@@ -789,10 +789,10 @@
    "link": "https://unjobs.org/vacancies/1791109153601",
    "deadline": "",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-17)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-17"
   },
   {
    "title": "Wash & Shelter Coordinator CAR Bouar",
@@ -800,10 +800,10 @@
    "link": "https://unjobs.org/vacancies/1791109150945",
    "deadline": "",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-17)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-17"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -825,7 +825,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-17"
   },
   {
    "title": "Infrastructure Project Manager, Port Moresby, Papua New Guinea",
@@ -836,7 +836,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-17"
   },
   {
    "title": "Senior Programme Manager – National Housing Support Programme",
@@ -847,7 +847,7 @@
    "note": "Arabic desirable. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-17"
   },
   {
    "title": "Contract Management Specialist",
@@ -869,7 +869,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-17"
   },
   {
    "title": "Architect / Civil Engineer – Building in Existing Buildings (Req 3412)",
@@ -880,7 +880,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-17"
   },
   {
    "title": "Head of Building & IT Infrastructure Department",
@@ -891,7 +891,7 @@
    "note": "French is an asset",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-17"
   },
   {
    "title": "Program Director for Europe",
@@ -902,7 +902,7 @@
    "note": "Senior role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-17"
   },
   {
    "title": "Construction Project Manager – 12-month fixed term",
