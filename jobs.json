@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-17T2"
+    "muted": "2026-10-18T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-17T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-17",
+    "last_ok": "2026-10-18",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-17",
+    "last_ok": "2026-10-18",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-17",
+  "maint": "2026-10-18",
   "vcheck": "2026-10-13",
   "outdated": []
  },
@@ -176,7 +176,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "Emergency WASH Officer, Kyiv",
@@ -187,7 +187,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
@@ -198,7 +198,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "WASH Officer CAR Kaga Bandoro, Kaga-Bandoro",
@@ -209,7 +209,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro",
@@ -220,7 +220,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "Senior Project Engineer – Solar & BESS, Brisbane, CA",
@@ -231,7 +231,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "Senior Project Engineer – Oxy-Combustion, Brisbane, CA, United States",
@@ -242,7 +242,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "NBC Urban Designer - International Consultant",
@@ -253,7 +253,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "Assistant(e) SWI (Shelter, WaSH and Infrastructure), 2 à Adja/Aru 1 à Mahagi - ITURI, DR Congo",
@@ -264,7 +264,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, DR Congo",
@@ -275,7 +275,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "Chef(fe) d’Equipe SWI (Shelter, WaSH and Infrastructures), Adja/Aru, DR Congo",
@@ -286,7 +286,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "Shelter and Settlement Officer, Nyirol, South Sudan",
@@ -297,7 +297,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "WASH Officer, Uror, Jonglei State, South Sudan",
@@ -943,10 +943,10 @@
    "link": "https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402",
    "deadline": "2026-10-16",
    "fit": "Medium",
-   "note": "EU work permit needed",
+   "note": "Posting removed (checked 2026-10-18)",
    "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-10-14"
+   "status": "removed",
+   "checked": "2026-10-18"
   },
   {
    "title": "Infrastructure Construction & Design Manager",
@@ -957,7 +957,7 @@
    "note": "Requires state professional exam + civil engineering degree",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -968,7 +968,7 @@
    "note": "Urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   }
  ]
 }
