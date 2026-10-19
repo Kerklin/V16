@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**52 open jobs** (🟢 20 · 🟡 25 · ⚪ 7) · updated 2026-10-19 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
+**57 open jobs** (🟢 22 · 🟡 28 · ⚪ 7) · updated 2026-10-19 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -16,6 +16,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 11 days | 🟢 High |  |
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 11 days | 🟢 High | Arabic desirable. Hardship E, non-family |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 56 days | 🟢 High | Requires state professional exam + civil engineering degree |
+| [AI Engineer Consultant](https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363) 🆕 | via unvacancies · engineering | – | check | 🟢 High |  |
+| [Structural Engineer](https://unjobs.org/vacancies/1792411235453) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Consultant: Field Engineer (READY), Pohnpei](https://unjobs.org/vacancies/1792368028760) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15](https://unjobs.org/vacancies/1792087267794) | via UNjobs · construction | – | check | 🟢 High |  |
 | [Civil Engineer/Architect \[Open to internal and external applicants\], Sarajevo](https://unjobs.org/vacancies/1792144906524) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |  |
@@ -34,6 +36,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [ICT Project Manager](https://unjobs.org/vacancies/1792166486232) 🆕 | via UNjobs · infrastructure projects | 2026-11-01 | 13 days | 🟡 Medium |  |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 19 days | 🟡 Medium | Urban planning/finance focus |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) 🆕 | via unvacancies · engineering | 2026-11-16 | 28 days | 🟡 Medium |  |
+| [Project Engineer](https://unjobs.org/vacancies/1792411231706) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [Engineering Assistant, Bidibidi, Rhino Camp, Uganda](https://unjobs.org/vacancies/1792213286219) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [National Project Officer – Construction Engineer, Beirut](https://unjobs.org/vacancies/1792396826266) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Mobile Test Site Project Manager, Esparto, United States](https://unjobs.org/vacancies/1792191044913) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure) – GEDSI, Climate & DRR](https://unjobs.org/vacancies/1792126888214) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Measurement, Cost And Contracts Engineer (for internal candidates only), 14](https://unjobs.org/vacancies/1792087264868) | via UNjobs · construction | – | check | 🟡 Medium |  |

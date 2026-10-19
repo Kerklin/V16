@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-19T1"
+    "muted": "2026-10-19T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -68,6 +68,61 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "AI Engineer Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19"
+  },
+  {
+   "title": "Structural Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792411235453",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19"
+  },
+  {
+   "title": "Project Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792411231706",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19"
+  },
+  {
+   "title": "Engineering Assistant, Bidibidi, Rhino Camp, Uganda",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792213286219",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19"
+  },
+  {
+   "title": "National Project Officer – Construction Engineer, Beirut",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792396826266",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19"
+  },
   {
    "title": "Team Leader IT Infrastructure – ICTP",
    "info": "via unvacancies · engineering",
