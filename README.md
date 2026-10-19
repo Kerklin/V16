@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**50 open jobs** (🟢 19 · 🟡 24 · ⚪ 7) · updated 2026-10-19 · checks every 5 minutes · sources working today: 2 of 15 · AI today: 0 of 130 requests
+**52 open jobs** (🟢 20 · 🟡 25 · ⚪ 7) · updated 2026-10-19 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -16,6 +16,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 11 days | 🟢 High |  |
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 11 days | 🟢 High | Arabic desirable. Hardship E, non-family |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 56 days | 🟢 High | Requires state professional exam + civil engineering degree |
+| [Consultant: Field Engineer (READY), Pohnpei](https://unjobs.org/vacancies/1792368028760) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15](https://unjobs.org/vacancies/1792087267794) | via UNjobs · construction | – | check | 🟢 High |  |
 | [Civil Engineer/Architect \[Open to internal and external applicants\], Sarajevo](https://unjobs.org/vacancies/1792144906524) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |  |
 | [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1792101947916) | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
@@ -32,6 +33,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal) | via UNICEF · construction | 2026-10-22 | 🔴 3 days | 🟡 Medium |  |
 | [ICT Project Manager](https://unjobs.org/vacancies/1792166486232) 🆕 | via UNjobs · infrastructure projects | 2026-11-01 | 13 days | 🟡 Medium |  |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 19 days | 🟡 Medium | Urban planning/finance focus |
+| [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) 🆕 | via unvacancies · engineering | 2026-11-16 | 28 days | 🟡 Medium |  |
 | [Mobile Test Site Project Manager, Esparto, United States](https://unjobs.org/vacancies/1792191044913) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure) – GEDSI, Climate & DRR](https://unjobs.org/vacancies/1792126888214) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Measurement, Cost And Contracts Engineer (for internal candidates only), 14](https://unjobs.org/vacancies/1792087264868) | via UNjobs · construction | – | check | 🟡 Medium |  |
@@ -111,11 +113,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-18 |
+| unvacancies · engineering | 2026-10-19 |
 | unvacancies · UNOPS | 2026-10-18 |
 | unvacancies · UN-Habitat | 2026-10-19 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-18 |
-| UNjobs · construction | 2026-10-18 |
+| UNjobs · construction | 2026-10-19 |
 | UNjobs · infrastructure projects | 2026-10-18 |
 | UNOPS careers | 2026-10-19 |
 | UNICEF · construction | 2026-10-18 |
