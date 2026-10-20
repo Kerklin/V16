@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-19T3"
+    "muted": "2026-10-20T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-19T3"
+    "muted": "2026-10-20T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-19",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-19",
+    "last_ok": "2026-10-20",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,13 +58,13 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-19",
+    "last_ok": "2026-10-20",
     "muted": ""
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-19",
-  "vcheck": "2026-10-13",
+  "maint": "2026-10-20",
+  "vcheck": "2026-10-20",
   "outdated": []
  },
  "jobs": [
@@ -154,7 +154,7 @@
    "note": "",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-10-17"
+   "checked": "2026-10-20"
   },
   {
    "title": "ICT Project Manager",
@@ -209,7 +209,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15",
@@ -220,7 +220,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Civil Engineer/Architect [Open to internal and external applicants], Sarajevo",
@@ -231,7 +231,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Vodokanal Cell Lead (WASH), Kyiv",
@@ -242,7 +242,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -473,7 +473,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Construction Management Engineer, Kalemie, Democratic Republic of Congo",
@@ -484,7 +484,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo",
@@ -495,7 +495,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "National Building Code Adviser - STA",
@@ -506,7 +506,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -561,7 +561,7 @@
    "note": "",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -583,7 +583,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -624,10 +624,10 @@
    "link": "https://unjobs.org/vacancies/1791439391453",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-20)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-16"
+   "status": "removed",
+   "checked": "2026-10-20"
   },
   {
    "title": "Vodokanal Cell Lead (WASH), Kyiv",
@@ -635,10 +635,10 @@
    "link": "https://unjobs.org/vacancies/1791439391194",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-20)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-16"
+   "status": "removed",
+   "checked": "2026-10-20"
   },
   {
    "title": "Senior Programme Manager",
@@ -649,7 +649,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
@@ -693,7 +693,7 @@
    "note": "",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
