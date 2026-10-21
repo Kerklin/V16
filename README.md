@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**60 open jobs** (🟢 23 · 🟡 31 · ⚪ 6) · updated 2026-10-21 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
+**61 open jobs** (🟢 23 · 🟡 32 · ⚪ 6) · updated 2026-10-21 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -37,6 +37,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [ICT Project Manager](https://unjobs.org/vacancies/1792166486232) | via UNjobs · infrastructure projects | 2026-11-01 | 11 days | 🟡 Medium |  |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 17 days | 🟡 Medium | Urban planning/finance focus |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) 🆕 | via unvacancies · engineering | 2026-11-16 | 26 days | 🟡 Medium |  |
+| [WASH & Rehabilitation Officer (Roster), Aleppo, Syria](https://unjobs.org/vacancies/1789738262027) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [WASH and Construction Officer, Kinshasa](https://unjobs.org/vacancies/1792558930105) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [MSDI - Management Services Assistant (Facilities) G5, Rome](https://unjobs.org/vacancies/1792472477228) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [100000001233.Facilities Coordinator, Doha](https://unjobs.org/vacancies/1792472450068) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
