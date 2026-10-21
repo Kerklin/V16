@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-21T0"
+    "muted": "2026-10-21T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "WASH and Construction Officer, Kinshasa",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792558930105",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-21",
+   "status": "open",
+   "checked": "2026-10-21"
+  },
+  {
+   "title": "Technical Advisor I-Shelter & Settlements RAPID, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792558903984",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-21",
+   "status": "open",
+   "checked": "2026-10-21"
+  },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
    "info": "via UNjobs · infrastructure projects",
