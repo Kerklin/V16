@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-21T2"
+    "muted": "2026-10-22T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-21T2"
+    "muted": "2026-10-22T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNOPS careers": {
@@ -63,11 +63,55 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-21",
+  "maint": "2026-10-22",
   "vcheck": "2026-10-20",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792620375334",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22"
+  },
+  {
+   "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792620310528",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22"
+  },
+  {
+   "title": "Vodokanal Cell Lead (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792620308394",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22"
+  },
+  {
+   "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792620224351",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22"
+  },
   {
    "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), Amman",
    "info": "via UNjobs · construction",
@@ -182,12 +226,12 @@
    "title": "AI Engineer Consultant",
    "info": "via unvacancies · engineering",
    "link": "https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363",
-   "deadline": "",
+   "deadline": "2026-10-19",
    "fit": "High",
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-22"
   },
   {
    "title": "Structural Engineer",
@@ -198,7 +242,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-22"
   },
   {
    "title": "Project Engineer",
@@ -371,10 +415,10 @@
    "link": "https://unjobs.org/vacancies/1792101952882",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-22)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-18"
+   "status": "removed",
+   "checked": "2026-10-22"
   },
   {
    "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
@@ -382,10 +426,10 @@
    "link": "https://unjobs.org/vacancies/1792101948135",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-22)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-18"
+   "status": "removed",
+   "checked": "2026-10-22"
   },
   {
    "title": "WASH Officer CAR Kaga Bandoro, Kaga-Bandoro",
@@ -393,10 +437,10 @@
    "link": "https://unjobs.org/vacancies/1792083873447",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-22)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-18"
+   "status": "removed",
+   "checked": "2026-10-22"
   },
   {
    "title": "WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro",
@@ -404,10 +448,10 @@
    "link": "https://unjobs.org/vacancies/1792083872868",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-22)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-18"
+   "status": "removed",
+   "checked": "2026-10-22"
   },
   {
    "title": "Senior Project Engineer – Solar & BESS, Brisbane, CA",
@@ -418,7 +462,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   },
   {
    "title": "Senior Project Engineer – Oxy-Combustion, Brisbane, CA, United States",
@@ -429,7 +473,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   },
   {
    "title": "NBC Urban Designer - International Consultant",
@@ -440,7 +484,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   },
   {
    "title": "Assistant(e) SWI (Shelter, WaSH and Infrastructure), 2 à Adja/Aru 1 à Mahagi - ITURI, DR Congo",
@@ -451,7 +495,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   },
   {
    "title": "Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, DR Congo",
@@ -462,7 +506,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   },
   {
    "title": "Chef(fe) d’Equipe SWI (Shelter, WaSH and Infrastructures), Adja/Aru, DR Congo",
@@ -473,7 +517,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   },
   {
    "title": "Shelter and Settlement Officer, Nyirol, South Sudan",
@@ -484,7 +528,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   },
   {
    "title": "WASH Officer, Uror, Jonglei State, South Sudan",
@@ -1144,7 +1188,7 @@
    "note": "Requires state professional exam + civil engineering degree",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -1155,7 +1199,7 @@
    "note": "Urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   }
  ]
 }
