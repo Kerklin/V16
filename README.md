@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**64 open jobs** (🟢 25 · 🟡 33 · ⚪ 6) · updated 2026-10-22 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
+**70 open jobs** (🟢 27 · 🟡 37 · ⚪ 6) · updated 2026-10-22 · checks every 5 minutes · sources working today: 8 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -15,7 +15,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) | via UNjobs · construction | 2026-10-23 | 🔴 1 days | 🟢 High |  |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 8 days | 🟢 High |  |
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 8 days | 🟢 High | Arabic desirable. Hardship E, non-family |
+| [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) 🆕 | via UNjobs · construction | 2026-11-05 | 14 days | 🟢 High |  |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 53 days | 🟢 High | Requires state professional exam + civil engineering degree |
+| [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1792670558695) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Joint Project Coordinator \[Open to internal and external applicants\], Sarajevo](https://unjobs.org/vacancies/1792483244365) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |  |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792620375334) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792620310528) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
@@ -38,8 +40,12 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal) | via UNICEF · construction | 2026-10-22 | 🔴 0 days | 🟡 Medium |  |
 | [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) 🆕 | via unvacancies · UN-Habitat | 2026-10-30 | 8 days | 🟡 Medium |  |
 | [ICT Project Manager](https://unjobs.org/vacancies/1792166486232) | via UNjobs · infrastructure projects | 2026-11-01 | 10 days | 🟡 Medium |  |
+| [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) 🆕 | via unvacancies · engineering | 2026-11-02 | 11 days | 🟡 Medium |  |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 16 days | 🟡 Medium | Urban planning/finance focus |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 25 days | 🟡 Medium |  |
+| [Project Engineering Analyst (Open to Tier 1 & Tier 2 Applicants), Islamabad](https://unjobs.org/vacancies/1792677657283) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [WASH Specialist](https://unjobs.org/vacancies/1792670561009) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [Officier WASH, Muyinga, Burundi](https://unjobs.org/vacancies/1792645386124) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Development and Delivery of Capacity Building Programme on Public–Private Partnerships in Early Childhood Education and Care, Education Section, Sarajevo](https://unjobs.org/vacancies/1792602088105) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟡 Medium |  |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1792620224351) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), Amman](https://unjobs.org/vacancies/1792584094476) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
@@ -135,11 +141,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-21 |
+| unvacancies · engineering | 2026-10-22 |
 | unvacancies · UNOPS | 2026-10-22 |
 | unvacancies · UN-Habitat | 2026-10-22 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-22 |
-| UNjobs · construction | 2026-10-21 |
+| UNjobs · construction | 2026-10-22 |
 | UNjobs · infrastructure projects | 2026-10-22 |
 | UNOPS careers | 2026-10-22 |
 | UNICEF · construction | 2026-10-22 |
