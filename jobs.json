@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-20T0"
+    "muted": "2026-10-22T1"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-20T0"
+    "muted": "2026-10-22T1"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-21",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-22",
     "muted": ""
    }
   },
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Development and Delivery of Capacity Building Programme on Public–Private Partnerships in Early Childhood Education and Care, Education Section, Sarajevo",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1792602088105",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22"
+  },
+  {
+   "title": "Joint Project Coordinator [Open to internal and external applicants], Sarajevo",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1792483244365",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22"
+  },
   {
    "title": "Project Manager, Global Housing Hub",
    "info": "via unvacancies · UN-Habitat",
