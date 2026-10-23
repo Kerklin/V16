@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-22T3"
+    "muted": "2026-10-23T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-22T3"
+    "muted": "2026-10-23T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-22",
+    "last_ok": "2026-10-23",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-22",
+    "last_ok": "2026-10-23",
     "muted": ""
    },
    "UNOPS careers": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-22",
+  "maint": "2026-10-23",
   "vcheck": "2026-10-20",
   "outdated": []
  },
@@ -352,7 +352,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Engineering Assistant, Bidibidi, Rhino Camp, Uganda",
@@ -363,7 +363,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "National Project Officer – Construction Engineer, Beirut",
@@ -374,7 +374,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Team Leader IT Infrastructure – ICTP",
@@ -385,7 +385,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Consultant: Field Engineer (READY), Pohnpei",
@@ -396,7 +396,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Mobile Test Site Project Manager, Esparto, United States",
@@ -440,7 +440,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Technical Engineer Consultant",
@@ -451,7 +451,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
@@ -638,7 +638,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
@@ -649,7 +649,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
@@ -671,7 +671,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -693,7 +693,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
@@ -704,7 +704,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Manager, Facilities Transportation, Alamo",
@@ -1034,7 +1034,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Senior Drupal Infrastructure Engineer",
@@ -1045,7 +1045,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -1056,7 +1056,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-19"
+   "checked": "2026-10-23"
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture)",
