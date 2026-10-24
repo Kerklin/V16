@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-23T3"
+    "muted": "2026-10-24T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-23T3"
+    "muted": "2026-10-24T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-23",
+    "last_ok": "2026-10-24",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-23",
+    "last_ok": "2026-10-24",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792808752982",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24"
+  },
+  {
+   "title": "Senior Infrastructure Specialist, Manila, Philippines",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792816249783",
+   "deadline": "2026-10-28",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24"
+  },
   {
    "title": "Project Engineer",
    "info": "via UNjobs · infrastructure projects",
