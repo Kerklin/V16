@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-23T0"
+    "muted": "2026-10-24T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-24T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-23",
+    "last_ok": "2026-10-24",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-23",
+    "last_ok": "2026-10-24",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -68,6 +68,61 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Technical Program Manager, Facilities, South San Francisco, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792808720722",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24"
+  },
+  {
+   "title": "Associate Sector Specialist - Environment and Infrastructure - based in Luxembourg",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792808743799",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24"
+  },
+  {
+   "title": "Director, Housing and Resilience Programs, Washington, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792809233248",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24"
+  },
+  {
+   "title": "Shelter & Wash Project Manager Chad Iriba (national only)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792774853017",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24"
+  },
+  {
+   "title": "Housing Accessibility Policy and Design Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771406690",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24"
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
