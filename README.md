@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**70 open jobs** (🟢 23 · 🟡 41 · ⚪ 6) · updated 2026-10-24 · checks every 5 minutes · sources working today: 2 of 15 · AI today: 0 of 130 requests
+**70 open jobs** (🟢 23 · 🟡 41 · ⚪ 6) · updated 2026-10-24 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -150,10 +150,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-10-23 |
 | unvacancies · UNOPS | 2026-10-23 |
 | unvacancies · UN-Habitat | 2026-10-24 |
-| UNjobs · Bosnia and Herzegovina | 2026-10-23 |
+| UNjobs · Bosnia and Herzegovina | 2026-10-24 |
 | UNjobs · construction | 2026-10-23 |
 | UNjobs · infrastructure projects | 2026-10-23 |
 | UNOPS careers | 2026-10-24 |
-| UNICEF · construction | 2026-10-23 |
+| UNICEF · construction | 2026-10-24 |
 
 </details>
