@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**75 open jobs** (🟢 22 · 🟡 46 · ⚪ 7) · updated 2026-10-25 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
+**76 open jobs** (🟢 22 · 🟡 47 · ⚪ 7) · updated 2026-10-25 · checks every 5 minutes · sources working today: 8 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -40,6 +40,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) 🆕 | via UNICEF · construction | 2026-11-05 | 11 days | 🟡 Medium |  |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 13 days | 🟡 Medium | Urban planning/finance focus |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 22 days | 🟡 Medium |  |
+| [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Technical Program Manager, Facilities, South San Francisco, United States](https://unjobs.org/vacancies/1792808720722) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Director, Housing and Resilience Programs, Washington, United States](https://unjobs.org/vacancies/1792809233248) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Shelter & Wash Project Manager Chad Iriba (national only)](https://unjobs.org/vacancies/1792774853017) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
@@ -155,11 +156,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-24 |
+| unvacancies · engineering | 2026-10-25 |
 | unvacancies · UNOPS | 2026-10-25 |
 | unvacancies · UN-Habitat | 2026-10-25 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-25 |
-| UNjobs · construction | 2026-10-24 |
+| UNjobs · construction | 2026-10-25 |
 | UNjobs · infrastructure projects | 2026-10-25 |
 | UNOPS careers | 2026-10-25 |
 | UNICEF · construction | 2026-10-25 |
