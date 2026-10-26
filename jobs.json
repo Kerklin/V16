@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-25T2"
+    "muted": "2026-10-26T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-25T2"
+    "muted": "2026-10-26T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-26",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-26",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,39 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793030445542",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-26",
+   "status": "open",
+   "checked": "2026-10-26"
+  },
+  {
+   "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund, Sarajevo",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793030444841",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-26",
+   "status": "open",
+   "checked": "2026-10-26"
+  },
+  {
+   "title": "Project Manager-Port Development, Walvis-Bay, Namibia",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792816421069",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-26",
+   "status": "open",
+   "checked": "2026-10-26"
+  },
   {
    "title": "Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563",
    "info": "via UNICEF · construction",

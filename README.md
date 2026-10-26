@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**76 open jobs** (🟢 23 · 🟡 47 · ⚪ 6) · updated 2026-10-26 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
+**79 open jobs** (🟢 25 · 🟡 48 · ⚪ 6) · updated 2026-10-26 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -15,6 +15,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) | via UNjobs · construction | 2026-11-05 | 10 days | 🟢 High |  |
 | [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) 🆕 | via UNICEF · construction | 2026-11-08 | 13 days | 🟢 High |  |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 49 days | 🟢 High | Requires state professional exam + civil engineering degree |
+| [CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo](https://unjobs.org/vacancies/1793030445542) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
+| [CfA 22-10/26 Senior Engineer, Solidarity Fund, Sarajevo](https://unjobs.org/vacancies/1793030444841) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1792861242574) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |  |
 | [Associate Sector Specialist - Environment and Infrastructure - based in Luxembourg](https://unjobs.org/vacancies/1792808743799) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Structural Engineer](https://unjobs.org/vacancies/1792771336977) | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
@@ -41,6 +43,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) | via UNICEF · construction | 2026-11-05 | 10 days | 🟡 Medium |  |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 12 days | 🟡 Medium | Urban planning/finance focus |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 21 days | 🟡 Medium |  |
+| [Project Manager-Port Development, Walvis-Bay, Namibia](https://unjobs.org/vacancies/1792816421069) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Technical Program Manager, Facilities, South San Francisco, United States](https://unjobs.org/vacancies/1792808720722) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Director, Housing and Resilience Programs, Washington, United States](https://unjobs.org/vacancies/1792809233248) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
@@ -158,11 +161,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-25 |
-| unvacancies · UNOPS | 2026-10-25 |
+| unvacancies · UNOPS | 2026-10-26 |
 | unvacancies · UN-Habitat | 2026-10-26 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-26 |
 | UNjobs · construction | 2026-10-25 |
-| UNjobs · infrastructure projects | 2026-10-25 |
+| UNjobs · infrastructure projects | 2026-10-26 |
 | UNOPS careers | 2026-10-26 |
 | UNICEF · construction | 2026-10-26 |
 
