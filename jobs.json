@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-25T1"
+    "muted": "2026-10-26T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-25T1"
+    "muted": "2026-10-26T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-26",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-26",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-25",
+  "maint": "2026-10-26",
   "vcheck": "2026-10-20",
   "outdated": []
  },
@@ -242,7 +242,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-26"
   },
   {
    "title": "Project Engineering Analyst (Open to Tier 1 & Tier 2 Applicants), Islamabad",
@@ -253,7 +253,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-26"
   },
   {
    "title": "WASH Specialist",
@@ -264,7 +264,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-26"
   },
   {
    "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
@@ -275,7 +275,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-26"
   },
   {
    "title": "Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal",
@@ -286,7 +286,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-26"
   },
   {
    "title": "Officier WASH, Muyinga, Burundi",
@@ -297,7 +297,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-26"
   },
   {
    "title": "Development and Delivery of Capacity Building Programme on Public–Private Partnerships in Early Childhood Education and Care, Education Section, Sarajevo",
@@ -1152,10 +1152,10 @@
    "link": "https://unjobs.org/vacancies/1791352893661",
    "deadline": "",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-26)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-21"
+   "status": "removed",
+   "checked": "2026-10-26"
   },
   {
    "title": "Construction Engineer",
@@ -1177,7 +1177,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan",
@@ -1188,7 +1188,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Skills Adviser Building, Construction & Workforce Development",
@@ -1364,7 +1364,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Senior Programme Manager – National Housing Support Programme",
@@ -1375,7 +1375,7 @@
    "note": "Arabic desirable. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Contract Management Specialist",
@@ -1397,7 +1397,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Architect / Civil Engineer – Building in Existing Buildings (Req 3412)",
@@ -1408,7 +1408,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Head of Building & IT Infrastructure Department",
@@ -1419,7 +1419,7 @@
    "note": "French is an asset",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Program Director for Europe",
@@ -1430,7 +1430,7 @@
    "note": "Senior role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Construction Project Manager – 12-month fixed term",
