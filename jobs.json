@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-27T2"
+    "muted": "2026-10-27T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-27T2"
+    "muted": "2026-10-27T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -51,7 +51,7 @@
    },
    "UNjobs · infrastructure projects": {
     "last_ok": "2026-10-27",
-    "muted": "2026-10-27T2"
+    "muted": ""
    },
    "UNOPS careers": {
     "last_ok": "2026-10-26",
@@ -68,6 +68,17 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "WASH & Rehabilitation Officer (Roster), Hassakah, Syria",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793047576164",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27"
+  },
   {
    "title": "Wash and Shelter Project Manager Ethiopia North Amhara",
    "info": "via UNjobs · construction",
