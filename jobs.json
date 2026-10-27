@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-25T3"
+    "muted": "2026-10-27T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-26T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-27",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-27",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -63,11 +63,55 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-26",
-  "vcheck": "2026-10-20",
+  "maint": "2026-10-27",
+  "vcheck": "2026-10-27",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "CfA 23-10/26 Field Engineer, Solidarity Fund",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/cfa-23-10-26-field-engineer-solidarity-fund-OM-23794",
+   "deadline": "2026-11-08",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27"
+  },
+  {
+   "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791",
+   "deadline": "2026-11-08",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27"
+  },
+  {
+   "title": "Construction and Engineer, Program Design Specialist, United States, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793049615470",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27"
+  },
+  {
+   "title": "Resident Engineer (1 position), Somalia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793049721853",
+   "deadline": "2026-10-28",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27"
+  },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo",
    "info": "via UNjobs · infrastructure projects",
@@ -352,7 +396,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-27"
   },
   {
    "title": "Joint Project Coordinator [Open to internal and external applicants], Sarajevo",
@@ -363,7 +407,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-27"
   },
   {
    "title": "Project Manager, Global Housing Hub",
@@ -374,7 +418,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-27"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -382,10 +426,10 @@
    "link": "https://unjobs.org/vacancies/1792620375334",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-22"
+   "status": "removed",
+   "checked": "2026-10-27"
   },
   {
    "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
@@ -393,10 +437,10 @@
    "link": "https://unjobs.org/vacancies/1792620310528",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-22"
+   "status": "removed",
+   "checked": "2026-10-27"
   },
   {
    "title": "Vodokanal Cell Lead (WASH), Kyiv",
@@ -404,10 +448,10 @@
    "link": "https://unjobs.org/vacancies/1792620308394",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-22"
+   "status": "removed",
+   "checked": "2026-10-27"
   },
   {
    "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
@@ -415,10 +459,10 @@
    "link": "https://unjobs.org/vacancies/1792620224351",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-22"
+   "status": "removed",
+   "checked": "2026-10-27"
   },
   {
    "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), Amman",
@@ -539,7 +583,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-27"
   },
   {
    "title": "Structural Engineer",
@@ -547,10 +591,10 @@
    "link": "https://unjobs.org/vacancies/1792411235453",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-10-22"
+   "status": "removed",
+   "checked": "2026-10-27"
   },
   {
    "title": "Project Engineer",
@@ -770,7 +814,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-27"
   },
   {
    "title": "Senior Project Engineer – Oxy-Combustion, Brisbane, CA, United States",
@@ -781,7 +825,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-27"
   },
   {
    "title": "NBC Urban Designer - International Consultant",
@@ -789,10 +833,10 @@
    "link": "https://unjobs.org/vacancies/1792065675186",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-22"
+   "status": "removed",
+   "checked": "2026-10-27"
   },
   {
    "title": "Assistant(e) SWI (Shelter, WaSH and Infrastructure), 2 à Adja/Aru 1 à Mahagi - ITURI, DR Congo",
@@ -800,10 +844,10 @@
    "link": "https://unjobs.org/vacancies/1791867668525",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-22"
+   "status": "removed",
+   "checked": "2026-10-27"
   },
   {
    "title": "Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, DR Congo",
@@ -811,10 +855,10 @@
    "link": "https://unjobs.org/vacancies/1791867670024",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-22"
+   "status": "removed",
+   "checked": "2026-10-27"
   },
   {
    "title": "Chef(fe) d’Equipe SWI (Shelter, WaSH and Infrastructures), Adja/Aru, DR Congo",
@@ -822,10 +866,10 @@
    "link": "https://unjobs.org/vacancies/1791867671241",
    "deadline": "",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-22"
+   "status": "removed",
+   "checked": "2026-10-27"
   },
   {
    "title": "Shelter and Settlement Officer, Nyirol, South Sudan",
