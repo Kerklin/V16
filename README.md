@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**74 open jobs** (🟢 25 · 🟡 44 · ⚪ 5) · updated 2026-10-27 · checks every 5 minutes · sources working today: 2 of 15 · AI today: 0 of 130 requests
+**76 open jobs** (🟢 25 · 🟡 46 · ⚪ 5) · updated 2026-10-27 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -43,6 +43,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) | via UNICEF · construction | 2026-11-05 | 9 days | 🟡 Medium |  |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 11 days | 🟡 Medium | Urban planning/finance focus |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 20 days | 🟡 Medium |  |
+| [WASH & Rehabilitation Officer (Roster), Hamah, Syria](https://unjobs.org/vacancies/1793047561787) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
+| [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1793006873516) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Project Manager-Port Development, Walvis-Bay, Namibia](https://unjobs.org/vacancies/1792816421069) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Technical Program Manager, Facilities, South San Francisco, United States](https://unjobs.org/vacancies/1792808720722) | via UNjobs · construction | – | check | 🟡 Medium |  |
@@ -165,11 +167,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-27 |
-| unvacancies · UNOPS | 2026-10-26 |
+| unvacancies · UNOPS | 2026-10-27 |
 | unvacancies · UN-Habitat | 2026-10-26 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-26 |
 | UNjobs · construction | 2026-10-27 |
-| UNjobs · infrastructure projects | 2026-10-26 |
+| UNjobs · infrastructure projects | 2026-10-27 |
 | UNOPS careers | 2026-10-26 |
 | UNICEF · construction | 2026-10-26 |
 

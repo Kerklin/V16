@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-26T2"
+    "muted": "2026-10-27T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-26T2"
+    "muted": "2026-10-27T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-27",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-27",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "WASH & Rehabilitation Officer (Roster), Hamah, Syria",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793047561787",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27"
+  },
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793006873516",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27"
+  },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund",
    "info": "via unvacancies · engineering",
