@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-28T0"
+    "muted": "2026-10-28T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Housing Economist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793167466760",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28"
+  },
+  {
+   "title": "Supply Chain Construction Manager, Bunia, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793163739608",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28"
+  },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Hassakah, Syria",
    "info": "via UNjobs · infrastructure projects",

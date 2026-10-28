@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**78 open jobs** (🟢 28 · 🟡 44 · ⚪ 6) · updated 2026-10-28 · checks every 5 minutes · sources working today: 2 of 15 · AI today: 0 of 130 requests
+**80 open jobs** (🟢 29 · 🟡 45 · ⚪ 6) · updated 2026-10-28 · checks every 5 minutes · sources working today: 2 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -19,6 +19,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) 🆕 | via UNICEF · construction | 2026-11-08 | 11 days | 🟢 High |  |
 | [Civil Engineer](https://unjobs.org/vacancies/1793037691345) 🆕 | via UNjobs · construction | 2026-11-09 | 12 days | 🟢 High |  |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 47 days | 🟢 High | Requires state professional exam + civil engineering degree |
+| [Supply Chain Construction Manager, Bunia, Democratic Republic of Congo](https://unjobs.org/vacancies/1793163739608) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Wash and Shelter Project Manager Ethiopia North Amhara](https://unjobs.org/vacancies/1793120569990) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [WASH and Shelter Manager Ethiopia Dollo Ado](https://unjobs.org/vacancies/1793120569462) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [PALESTINE - WASH PROGRAM MANAGER (M/F) - GAZA, Palestine](https://unjobs.org/vacancies/1793048987493) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
@@ -46,6 +47,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) | via UNICEF · construction | 2026-11-05 | 8 days | 🟡 Medium |  |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 10 days | 🟡 Medium | Urban planning/finance focus |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 19 days | 🟡 Medium |  |
+| [Housing Economist](https://unjobs.org/vacancies/1793167466760) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [WASH & Rehabilitation Officer (Roster), Hassakah, Syria](https://unjobs.org/vacancies/1793047576164) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [WASH & Rehabilitation Officer (Roster), Hamah, Syria](https://unjobs.org/vacancies/1793047561787) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1793006873516) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
