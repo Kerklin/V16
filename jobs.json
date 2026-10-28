@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-27T3"
+    "muted": "2026-10-28T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-27T3"
+    "muted": "2026-10-28T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,17 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Linear Infrastructure Ecologist, United States",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793163658534",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28"
+  },
   {
    "title": "Project Manager [Open to Tier 1 and 2 applicants], Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",
