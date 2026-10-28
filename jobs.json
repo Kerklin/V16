@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-27T2"
+    "muted": "2026-10-28T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-26T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-27",
+  "maint": "2026-10-28",
   "vcheck": "2026-10-27",
   "outdated": []
  },
@@ -349,10 +349,10 @@
    "link": "https://unjobs.org/vacancies/1792771338232",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-28)",
    "found": "2026-10-23",
-   "status": "open",
-   "checked": "2026-10-23"
+   "status": "removed",
+   "checked": "2026-10-28"
   },
   {
    "title": "Structural Engineer",
@@ -360,10 +360,10 @@
    "link": "https://unjobs.org/vacancies/1792771336977",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-28)",
    "found": "2026-10-23",
-   "status": "open",
-   "checked": "2026-10-23"
+   "status": "removed",
+   "checked": "2026-10-28"
   },
   {
    "title": "Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)",
@@ -374,7 +374,7 @@
    "note": "",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-28"
   },
   {
    "title": "National Project Officer – Construction Engineer",
@@ -385,7 +385,7 @@
    "note": "",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-28"
   },
   {
    "title": "SENIOR FACILITIES MANAGEMENT ASSISTANT, G7",
@@ -393,10 +393,10 @@
    "link": "https://unjobs.org/vacancies/1792732082714",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-28)",
    "found": "2026-10-23",
-   "status": "open",
-   "checked": "2026-10-23"
+   "status": "removed",
+   "checked": "2026-10-28"
   },
   {
    "title": "Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific, Suva",
@@ -407,7 +407,7 @@
    "note": "",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-28"
   },
   {
    "title": "Assistant Architect Design",
@@ -690,10 +690,10 @@
    "link": "https://unjobs.org/vacancies/1792411231706",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-28)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-10-23"
+   "status": "removed",
+   "checked": "2026-10-28"
   },
   {
    "title": "Engineering Assistant, Bidibidi, Rhino Camp, Uganda",
@@ -704,7 +704,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-28"
   },
   {
    "title": "National Project Officer – Construction Engineer, Beirut",
@@ -715,7 +715,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-28"
   },
   {
    "title": "Team Leader IT Infrastructure – ICTP",
@@ -726,7 +726,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-28"
   },
   {
    "title": "Consultant: Field Engineer (READY), Pohnpei",
@@ -737,7 +737,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-28"
   },
   {
    "title": "Mobile Test Site Project Manager, Esparto, United States",
@@ -781,7 +781,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-28"
   },
   {
    "title": "Technical Engineer Consultant",
@@ -968,7 +968,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-28"
   },
   {
    "title": "WASH Officer, Uror, Jonglei State, South Sudan",
@@ -1628,7 +1628,7 @@
    "note": "Requires state professional exam + civil engineering degree",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-28"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -1639,7 +1639,7 @@
    "note": "Urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-22"
+   "checked": "2026-10-28"
   }
  ]
 }
