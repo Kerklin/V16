@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-28T1"
+    "muted": "2026-10-29T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-28T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-29",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-29",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -63,11 +63,33 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-28",
+  "maint": "2026-10-29",
   "vcheck": "2026-10-27",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Civil Engineer (Project Management and Construction Supervision)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568",
+   "deadline": "2026-11-11",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
+  {
+   "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793181721552",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
@@ -341,7 +363,7 @@
    "note": "",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-29"
   },
   {
    "title": "Associate Sector Specialist - Environment and Infrastructure - based in Luxembourg",
@@ -352,7 +374,7 @@
    "note": "",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-29"
   },
   {
    "title": "Director, Housing and Resilience Programs, Washington, United States",
@@ -363,7 +385,7 @@
    "note": "",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-29"
   },
   {
    "title": "Shelter & Wash Project Manager Chad Iriba (national only)",
@@ -374,7 +396,7 @@
    "note": "",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-29"
   },
   {
    "title": "Housing Accessibility Policy and Design Specialist",
@@ -385,7 +407,7 @@
    "note": "",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-29"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -393,10 +415,10 @@
    "link": "https://unjobs.org/vacancies/1792808752982",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-29"
   },
   {
    "title": "Senior Infrastructure Specialist, Manila, Philippines",
@@ -858,7 +880,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
@@ -1045,7 +1067,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
@@ -1056,7 +1078,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
@@ -1075,10 +1097,10 @@
    "link": "https://unjobs.org/vacancies/1791900091937",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-13",
-   "status": "open",
-   "checked": "2026-10-23"
+   "status": "removed",
+   "checked": "2026-10-29"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -1100,7 +1122,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
@@ -1108,10 +1130,10 @@
    "link": "https://unjobs.org/vacancies/1791824450489",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-13",
-   "status": "open",
-   "checked": "2026-10-23"
+   "status": "removed",
+   "checked": "2026-10-29"
   },
   {
    "title": "Manager, Facilities Transportation, Alamo",
@@ -1438,10 +1460,10 @@
    "link": "https://unjobs.org/vacancies/1791176514795",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-23"
+   "status": "removed",
+   "checked": "2026-10-29"
   },
   {
    "title": "Senior Drupal Infrastructure Engineer",
@@ -1452,7 +1474,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -1463,7 +1485,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture)",
