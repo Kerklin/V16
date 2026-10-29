@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-29T1"
+    "muted": "2026-10-29T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -68,6 +68,50 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Infrastructure Field Engineer (Consultant)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797",
+   "deadline": "2026-11-12",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
+  {
+   "title": "Infrastructure Field Engineer (Consultant), Mykolaiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793282444060",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
+  {
+   "title": "Solar Installation Quality Assurance Engineer, Kampala",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793268102302",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
+  {
+   "title": "Climate-Resilient Health Care Facilities, Cairo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793268102618",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision)",
    "info": "via unvacancies · engineering",
