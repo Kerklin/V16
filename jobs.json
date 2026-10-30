@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-28T3"
+    "muted": "2026-10-30T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-28T3"
+    "muted": "2026-10-30T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,17 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Civil Engineer (1 position), Libya",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793365860777",
+   "deadline": "2026-11-03",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-10-30",
+   "status": "open",
+   "checked": "2026-10-30"
+  },
   {
    "title": "Informal Settlements Urban Planning Senior Consultant",
    "info": "via unvacancies · UN-Habitat",
