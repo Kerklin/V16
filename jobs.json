@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-26T3"
+    "muted": "2026-10-30T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-26T3"
+    "muted": "2026-10-30T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-29",
+  "maint": "2026-10-30",
   "vcheck": "2026-10-27",
   "outdated": []
  },
@@ -385,7 +385,7 @@
    "note": "",
    "found": "2026-10-25",
    "status": "open",
-   "checked": "2026-10-25"
+   "checked": "2026-10-30"
   },
   {
    "title": "Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
@@ -473,7 +473,7 @@
    "note": "",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "Project Engineer",
@@ -745,10 +745,10 @@
    "link": "https://unjobs.org/vacancies/1792476080480",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-30)",
    "found": "2026-10-20",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-30"
   },
   {
    "title": "MSDI - Management Services Assistant (Facilities) G5, Rome",
@@ -759,7 +759,7 @@
    "note": "",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "100000001233.Facilities Coordinator, Doha",
@@ -770,7 +770,7 @@
    "note": "",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "Project Coordinator, Juba",
@@ -778,10 +778,10 @@
    "link": "https://unjobs.org/vacancies/1792432836633",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-30)",
    "found": "2026-10-20",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-30"
   },
   {
    "title": "Shelter & WASH Technical Officer, Shostka, Kyiv, Ukraine",
@@ -792,7 +792,7 @@
    "note": "",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "AI Engineer Consultant",
@@ -880,7 +880,7 @@
    "note": "",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "ICT Project Manager",
@@ -932,10 +932,10 @@
    "link": "https://unjobs.org/vacancies/1792087264868",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-30)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-30"
   },
   {
    "title": "Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15",
@@ -943,10 +943,10 @@
    "link": "https://unjobs.org/vacancies/1792087267794",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-30)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-30"
   },
   {
    "title": "Civil Engineer/Architect [Open to internal and external applicants], Sarajevo",
@@ -957,7 +957,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "Vodokanal Cell Lead (WASH), Kyiv",
@@ -1207,10 +1207,10 @@
    "link": "https://unjobs.org/vacancies/1791805949717",
    "deadline": "2026-10-23",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-10-30)",
    "found": "2026-10-13",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-30"
   },
   {
    "title": "Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo",
@@ -1540,7 +1540,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
@@ -1573,7 +1573,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "Project Coordinator",
@@ -1606,7 +1606,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
