@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**78 open jobs** (🟢 28 · 🟡 45 · ⚪ 5) · updated 2026-10-30 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
+**79 open jobs** (🟢 29 · 🟡 45 · ⚪ 5) · updated 2026-10-30 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -18,6 +18,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) | via UNICEF · construction | 2026-11-08 | 9 days | 🟢 High |  |
 | [Civil Engineer](https://unjobs.org/vacancies/1793037691345) | via UNjobs · construction | 2026-11-09 | 10 days | 🟢 High |  |
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) 🆕 | via unvacancies · engineering | 2026-11-11 | 12 days | 🟢 High |  |
+| [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705) 🆕 | via UNICEF · construction | 2026-11-12 | 13 days | 🟢 High |  |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 45 days | 🟢 High | Requires state professional exam + civil engineering degree |
 | [Infrastructure Field Engineer (Consultant), Mykolaiv](https://unjobs.org/vacancies/1793282444060) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Civil Engineer (Project Management and Construction Supervision), Kabul](https://unjobs.org/vacancies/1793181721552) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
