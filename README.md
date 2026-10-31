@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**75 open jobs** (🟢 27 · 🟡 42 · ⚪ 6) · updated 2026-10-31 · checks every 5 minutes · sources working today: 2 of 15 · AI today: 0 of 130 requests
+**80 open jobs** (🟢 28 · 🟡 46 · ⚪ 6) · updated 2026-10-31 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -18,6 +18,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) 🆕 | via unvacancies · engineering | 2026-11-11 | 11 days | 🟢 High |  |
 | [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705) 🆕 | via UNICEF · construction | 2026-11-12 | 12 days | 🟢 High |  |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 44 days | 🟢 High | Requires state professional exam + civil engineering degree |
+| [141 Chef.fe d’Equipe Infrastructure Wash : OFFRE INTERNE, Goma, Democratic Republic of Congo](https://unjobs.org/vacancies/1793422887438) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Infrastructure Field Engineer (Consultant), Mykolaiv](https://unjobs.org/vacancies/1793282444060) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Civil Engineer (Project Management and Construction Supervision), Kabul](https://unjobs.org/vacancies/1793181721552) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Supply Chain Construction Manager, Bunia, Democratic Republic of Congo](https://unjobs.org/vacancies/1793163739608) | via UNjobs · construction | – | check | 🟢 High |  |
@@ -45,6 +46,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Informal Settlements Urban Planning Senior Consultant](https://unvacancies.org/jobs/informal-settlements-urban-planning-senior-consultant-t-287263) 🆕 | via unvacancies · UN-Habitat | 2026-11-08 | 8 days | 🟡 Medium |  |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) 🆕 | via unvacancies · engineering | 2026-11-12 | 12 days | 🟡 Medium |  |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 16 days | 🟡 Medium |  |
+| [140 Assistant(e) Wash, Goma, Democratic Republic of Congo](https://unjobs.org/vacancies/1793422887968) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://unjobs.org/vacancies/1793379654367) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [Project Officer Senior - WASH, Port-au-Prince](https://unjobs.org/vacancies/1793336484540) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [WASH & Infrastructure Coordinator, Khartoum](https://unjobs.org/vacancies/1793336476812) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Solar Installation Quality Assurance Engineer, Kampala](https://unjobs.org/vacancies/1793268102302) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793268102618) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1793211542423) | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
@@ -187,11 +192,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-29 |
+| unvacancies · engineering | 2026-10-31 |
 | unvacancies · UNOPS | 2026-10-30 |
 | unvacancies · UN-Habitat | 2026-10-30 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-31 |
-| UNjobs · construction | 2026-10-29 |
+| UNjobs · construction | 2026-10-31 |
 | UNjobs · infrastructure projects | 2026-10-30 |
 | UNOPS careers | 2026-10-30 |
 | UNICEF · construction | 2026-10-31 |

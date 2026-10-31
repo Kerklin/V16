@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-29T3"
+    "muted": "2026-10-31T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-31T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -68,6 +68,61 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "140 Assistant(e) Wash, Goma, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422887968",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31"
+  },
+  {
+   "title": "141 Chef.fe d’Equipe Infrastructure Wash : OFFRE INTERNE, Goma, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422887438",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31"
+  },
+  {
+   "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793379654367",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31"
+  },
+  {
+   "title": "Project Officer Senior - WASH, Port-au-Prince",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793336484540",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31"
+  },
+  {
+   "title": "WASH & Infrastructure Coordinator, Khartoum",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793336476812",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31"
+  },
   {
    "title": "Civil Engineer (1 position), Libya",
    "info": "via UNjobs · infrastructure projects",
