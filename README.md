@@ -4,20 +4,24 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**80 open jobs** (🟢 28 · 🟡 46 · ⚪ 6) · updated 2026-10-31 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
+**84 open jobs** (🟢 32 · 🟡 46 · ⚪ 6) · updated 2026-10-31 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
 | [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) | via UNjobs · construction | 2026-11-05 | 🔴 5 days | 🟢 High |  |
+| [Construction Management Senior Associate Engineer](https://unjobs.org/vacancies/1793419279543) 🆕 | via UNjobs · construction | 2026-11-06 | 🔴 6 days | 🟢 High |  |
 | [CfA 23-10/26 Field Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-23-10-26-field-engineer-solidarity-fund-OM-23794) | via unvacancies · engineering | 2026-11-08 | 8 days | 🟢 High |  |
 | [CfA 22-10/26 Senior Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791) | via unvacancies · engineering | 2026-11-08 | 8 days | 🟢 High |  |
 | [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) | via UNICEF · construction | 2026-11-08 | 8 days | 🟢 High |  |
 | [Civil Engineer](https://unjobs.org/vacancies/1793037691345) | via UNjobs · construction | 2026-11-09 | 9 days | 🟢 High |  |
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) 🆕 | via unvacancies · engineering | 2026-11-11 | 11 days | 🟢 High |  |
+| [Civil Engineer](https://unjobs.org/vacancies/1793419279266) 🆕 | via UNjobs · construction | 2026-11-12 | 12 days | 🟢 High |  |
 | [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705) 🆕 | via UNICEF · construction | 2026-11-12 | 12 days | 🟢 High |  |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 44 days | 🟢 High | Requires state professional exam + civil engineering degree |
+| [WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine](https://unjobs.org/vacancies/1793422858335) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
+| [Shelter Technical Assistant, Misrata, Libya](https://unjobs.org/vacancies/1793422874630) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [141 Chef.fe d’Equipe Infrastructure Wash : OFFRE INTERNE, Goma, Democratic Republic of Congo](https://unjobs.org/vacancies/1793422887438) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Infrastructure Field Engineer (Consultant), Mykolaiv](https://unjobs.org/vacancies/1793282444060) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Civil Engineer (Project Management and Construction Supervision), Kabul](https://unjobs.org/vacancies/1793181721552) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
