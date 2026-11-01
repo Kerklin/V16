@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-01T0"
+    "muted": "2026-11-01T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-01T0"
+    "muted": "2026-11-01T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -68,6 +68,17 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924",
+   "deadline": "2026-11-14",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-01",
+   "status": "open",
+   "checked": "2026-11-01"
+  },
   {
    "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine",
    "info": "via UNjobs · construction",

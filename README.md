@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**80 open jobs** (🟢 31 · 🟡 43 · ⚪ 6) · updated 2026-11-01 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
+**81 open jobs** (🟢 31 · 🟡 44 · ⚪ 6) · updated 2026-11-01 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -48,6 +48,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 🔴 6 days | 🟡 Medium | Urban planning/finance focus |
 | [Informal Settlements Urban Planning Senior Consultant](https://unvacancies.org/jobs/informal-settlements-urban-planning-senior-consultant-t-287263) 🆕 | via unvacancies · UN-Habitat | 2026-11-08 | 🔴 7 days | 🟡 Medium |  |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 11 days | 🟡 Medium |  |
+| [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) 🆕 | via unvacancies · UNOPS | 2026-11-14 | 13 days | 🟡 Medium |  |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 15 days | 🟡 Medium |  |
 | [140 Assistant(e) Wash, Goma, Democratic Republic of Congo](https://unjobs.org/vacancies/1793422887968) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://unjobs.org/vacancies/1793379654367) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
