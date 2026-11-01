@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-30T3"
+    "muted": "2026-11-01T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-30T3"
+    "muted": "2026-11-01T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-30",
+    "last_ok": "2026-11-01",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-30",
+    "last_ok": "2026-11-01",
     "muted": ""
    },
    "UNOPS careers": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-31",
+  "maint": "2026-11-01",
   "vcheck": "2026-10-27",
   "outdated": []
  },
@@ -495,7 +495,7 @@
    "note": "",
    "found": "2026-10-26",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563",
@@ -506,7 +506,7 @@
    "note": "",
    "found": "2026-10-26",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), E",
@@ -682,7 +682,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Project Engineering Analyst (Open to Tier 1 & Tier 2 Applicants), Islamabad",
@@ -690,10 +690,10 @@
    "link": "https://unjobs.org/vacancies/1792677657283",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-01)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-26"
+   "status": "removed",
+   "checked": "2026-11-01"
   },
   {
    "title": "WASH Specialist",
@@ -701,10 +701,10 @@
    "link": "https://unjobs.org/vacancies/1792670561009",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-01)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-26"
+   "status": "removed",
+   "checked": "2026-11-01"
   },
   {
    "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
@@ -712,10 +712,10 @@
    "link": "https://unjobs.org/vacancies/1792670558695",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-01)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-26"
+   "status": "removed",
+   "checked": "2026-11-01"
   },
   {
    "title": "Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal",
@@ -726,7 +726,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Officier WASH, Muyinga, Burundi",
@@ -734,10 +734,10 @@
    "link": "https://unjobs.org/vacancies/1792645386124",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-01)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-26"
+   "status": "removed",
+   "checked": "2026-11-01"
   },
   {
    "title": "Development and Delivery of Capacity Building Programme on Public–Private Partnerships in Early Childhood Education and Care, Education Section, Sarajevo",
@@ -1617,7 +1617,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan",
@@ -1628,7 +1628,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Skills Adviser Building, Construction & Workforce Development",
@@ -1804,7 +1804,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Senior Programme Manager – National Housing Support Programme",
@@ -1812,10 +1812,10 @@
    "link": "https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692",
    "deadline": "2026-10-30",
    "fit": "High",
-   "note": "Arabic desirable. Hardship E, non-family",
+   "note": "Posting removed (checked 2026-11-01)",
    "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-10-26"
+   "status": "removed",
+   "checked": "2026-11-01"
   },
   {
    "title": "Contract Management Specialist",
@@ -1837,7 +1837,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Architect / Civil Engineer – Building in Existing Buildings (Req 3412)",
@@ -1848,7 +1848,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Head of Building & IT Infrastructure Department",
@@ -1859,7 +1859,7 @@
    "note": "French is an asset",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Program Director for Europe",
