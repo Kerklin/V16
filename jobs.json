@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-30T3"
+    "muted": "2026-11-02T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-30T3"
+    "muted": "2026-11-02T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-30",
+    "last_ok": "2026-11-02",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-30",
+    "last_ok": "2026-11-02",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-01",
+  "maint": "2026-11-02",
   "vcheck": "2026-10-27",
   "outdated": []
  },
@@ -352,7 +352,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-02"
   },
   {
    "title": "Wash and Shelter Project Manager Ethiopia North Amhara",
@@ -363,7 +363,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-02"
   },
   {
    "title": "WASH and Shelter Manager Ethiopia Dollo Ado",
@@ -374,7 +374,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-02"
   },
   {
    "title": "Civil Engineer",
@@ -385,7 +385,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-02"
   },
   {
    "title": "PALESTINE - WASH PROGRAM MANAGER (M/F) - GAZA, Palestine",
@@ -396,7 +396,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-02"
   },
   {
    "title": "Engineering and Shelter Team Leader, Bidibidi, Uganda",
@@ -407,7 +407,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-02"
   },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Hamah, Syria",
@@ -418,7 +418,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-02"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -426,10 +426,10 @@
    "link": "https://unjobs.org/vacancies/1793006873516",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-02)",
    "found": "2026-10-27",
-   "status": "open",
-   "checked": "2026-10-27"
+   "status": "removed",
+   "checked": "2026-11-02"
   },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund",
@@ -440,7 +440,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-02"
   },
   {
    "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund",
@@ -451,7 +451,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-02"
   },
   {
    "title": "Construction and Engineer, Program Design Specialist, United States, United States",
@@ -462,7 +462,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-02"
   },
   {
    "title": "Resident Engineer (1 position), Somalia",
@@ -470,10 +470,10 @@
    "link": "https://unjobs.org/vacancies/1793049721853",
    "deadline": "2026-10-28",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-02)",
    "found": "2026-10-27",
-   "status": "open",
-   "checked": "2026-10-27"
+   "status": "removed",
+   "checked": "2026-11-02"
   },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo",
@@ -759,7 +759,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-02"
   },
   {
    "title": "Joint Project Coordinator [Open to internal and external applicants], Sarajevo",
@@ -770,7 +770,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-02"
   },
   {
    "title": "Project Manager, Global Housing Hub",
@@ -1881,7 +1881,7 @@
    "note": "Senior role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-02"
   },
   {
    "title": "Construction Project Manager – 12-month fixed term",
