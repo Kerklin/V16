@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**80 open jobs** (🟢 34 · 🟡 40 · ⚪ 6) · updated 2026-11-03 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
+**83 open jobs** (🟢 36 · 🟡 41 · ⚪ 6) · updated 2026-11-03 · checks every 5 minutes · sources working today: 7 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -16,9 +16,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [CfA 22-10/26 Senior Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791) | via unvacancies · engineering | 2026-11-08 | 🔴 5 days | 🟢 High |  |
 | [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) | via UNICEF · construction | 2026-11-08 | 🔴 5 days | 🟢 High |  |
 | [Civil Engineer](https://unjobs.org/vacancies/1793037691345) | via UNjobs · construction | 2026-11-09 | 🔴 6 days | 🟢 High |  |
+| [Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel) , Nationals Only#596783](https://jobs.unicef.org/en-us/job/596783/field-engineer-consultant-hyderabad-pakistan-education-14-months-office-based-with-travel-nationals-only596783) 🆕 | via UNICEF · construction | 2026-11-10 | 🔴 7 days | 🟢 High |  |
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) | via unvacancies · engineering | 2026-11-11 | 8 days | 🟢 High |  |
 | [Civil Engineer](https://unjobs.org/vacancies/1793419279266) | via UNjobs · construction | 2026-11-12 | 9 days | 🟢 High |  |
 | [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705) | via UNICEF · construction | 2026-11-12 | 9 days | 🟢 High |  |
+| [INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip](https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip) 🆕 | via UNICEF · construction | 2026-11-17 | 14 days | 🟢 High |  |
 | [Mechanical Engineer](https://unjobs.org/vacancies/1793714480168) 🆕 | via UNjobs · construction | 2026-11-17 | 14 days | 🟢 High |  |
 | [Mechanical Engineer, Homs, Syria](https://unjobs.org/vacancies/1793714480525) 🆕 | via UNjobs · construction | 2026-11-17 | 14 days | 🟢 High |  |
 | [Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1793714480909) 🆕 | via UNjobs · construction | 2026-11-25 | 22 days | 🟢 High |  |
@@ -47,6 +49,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) | via UNICEF · construction | 2026-11-05 | 🔴 2 days | 🟡 Medium |  |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 🔴 4 days | 🟡 Medium | Urban planning/finance focus |
 | [Informal Settlements Urban Planning Senior Consultant](https://unvacancies.org/jobs/informal-settlements-urban-planning-senior-consultant-t-287263) | via unvacancies · UN-Habitat | 2026-11-08 | 🔴 5 days | 🟡 Medium |  |
+| [WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956](https://jobs.unicef.org/en-us/job/596738/wash-officer-no2-temporary-appointment-6-months-kharkiv-ukraine-post00138956) 🆕 | via UNICEF · construction | 2026-11-09 | 🔴 6 days | 🟡 Medium |  |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 9 days | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) 🆕 | via UNjobs · infrastructure projects | 2026-11-14 | 11 days | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) 🆕 | via unvacancies · UNOPS | 2026-11-14 | 11 days | 🟡 Medium |  |
@@ -209,6 +212,6 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | UNjobs · construction | 2026-11-03 |
 | UNjobs · infrastructure projects | 2026-11-03 |
 | UNOPS careers | 2026-11-03 |
-| UNICEF · construction | 2026-11-01 |
+| UNICEF · construction | 2026-11-03 |
 
 </details>
