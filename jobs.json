@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-02T3"
+    "muted": "2026-11-03T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-02T3"
+    "muted": "2026-11-03T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-02",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-02",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "UNOPS careers": {
@@ -63,11 +63,22 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-02",
-  "vcheck": "2026-10-27",
+  "maint": "2026-11-03",
+  "vcheck": "2026-11-03",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793621020902",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03"
+  },
   {
    "title": "Senior Project Manager (Infrastructure)",
    "info": "via UNjobs · infrastructure projects",
@@ -294,10 +305,10 @@
    "link": "https://unjobs.org/vacancies/1793211542423",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-03)",
    "found": "2026-10-28",
-   "status": "open",
-   "checked": "2026-10-28"
+   "status": "removed",
+   "checked": "2026-11-03"
   },
   {
    "title": "Senior Infrastructure Specialist, Manila, Philippines",
@@ -305,10 +316,10 @@
    "link": "https://unjobs.org/vacancies/1793214945496",
    "deadline": "2026-10-28",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-03)",
    "found": "2026-10-28",
-   "status": "open",
-   "checked": "2026-10-28"
+   "status": "removed",
+   "checked": "2026-11-03"
   },
   {
    "title": "Linear Infrastructure Ecologist, United States",
@@ -319,7 +330,7 @@
    "note": "",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-03"
   },
   {
    "title": "Project Manager [Open to Tier 1 and 2 applicants], Sarajevo",
@@ -330,7 +341,7 @@
    "note": "",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-03"
   },
   {
    "title": "Housing Economist",
@@ -341,7 +352,7 @@
    "note": "",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-03"
   },
   {
    "title": "Supply Chain Construction Manager, Bunia, Democratic Republic of Congo",
@@ -352,7 +363,7 @@
    "note": "",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-03"
   },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Hassakah, Syria",
@@ -660,7 +671,7 @@
    "note": "",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-03"
   },
   {
    "title": "National Project Officer – Construction Engineer",
@@ -671,7 +682,7 @@
    "note": "",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-03"
   },
   {
    "title": "SENIOR FACILITIES MANAGEMENT ASSISTANT, G7",
@@ -693,7 +704,7 @@
    "note": "",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-03"
   },
   {
    "title": "Assistant Architect Design",
@@ -792,7 +803,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -957,7 +968,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "Structural Engineer",
@@ -987,10 +998,10 @@
    "link": "https://unjobs.org/vacancies/1792213286219",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-03)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-10-28"
+   "status": "removed",
+   "checked": "2026-11-03"
   },
   {
    "title": "National Project Officer – Construction Engineer, Beirut",
@@ -1001,7 +1012,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-03"
   },
   {
    "title": "Team Leader IT Infrastructure – ICTP",
@@ -1188,7 +1199,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "Senior Project Engineer – Oxy-Combustion, Brisbane, CA, United States",
@@ -1199,7 +1210,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "NBC Urban Designer - International Consultant",
