@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**77 open jobs** (🟢 31 · 🟡 40 · ⚪ 6) · updated 2026-11-03 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
+**80 open jobs** (🟢 34 · 🟡 40 · ⚪ 6) · updated 2026-11-03 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -19,6 +19,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) | via unvacancies · engineering | 2026-11-11 | 8 days | 🟢 High |  |
 | [Civil Engineer](https://unjobs.org/vacancies/1793419279266) | via UNjobs · construction | 2026-11-12 | 9 days | 🟢 High |  |
 | [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705) | via UNICEF · construction | 2026-11-12 | 9 days | 🟢 High |  |
+| [Mechanical Engineer](https://unjobs.org/vacancies/1793714480168) 🆕 | via UNjobs · construction | 2026-11-17 | 14 days | 🟢 High |  |
+| [Mechanical Engineer, Homs, Syria](https://unjobs.org/vacancies/1793714480525) 🆕 | via UNjobs · construction | 2026-11-17 | 14 days | 🟢 High |  |
+| [Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1793714480909) 🆕 | via UNjobs · construction | 2026-11-25 | 22 days | 🟢 High |  |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 41 days | 🟢 High | Requires state professional exam + civil engineering degree |
 | [WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine](https://unjobs.org/vacancies/1793422858335) | via UNjobs · construction | – | check | 🟢 High |  |
 | [Shelter Technical Assistant, Misrata, Libya](https://unjobs.org/vacancies/1793422874630) | via UNjobs · construction | – | check | 🟢 High |  |
@@ -199,11 +202,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-31 |
+| unvacancies · engineering | 2026-11-03 |
 | unvacancies · UNOPS | 2026-11-03 |
 | unvacancies · UN-Habitat | 2026-11-03 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-01 |
-| UNjobs · construction | 2026-10-31 |
+| UNjobs · construction | 2026-11-03 |
 | UNjobs · infrastructure projects | 2026-11-03 |
 | UNOPS careers | 2026-11-03 |
 | UNICEF · construction | 2026-11-01 |

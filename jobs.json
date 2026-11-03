@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-31T3"
+    "muted": "2026-11-03T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-01T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-31",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-31",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -68,6 +68,39 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Mechanical Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793714480168",
+   "deadline": "2026-11-17",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03"
+  },
+  {
+   "title": "Mechanical Engineer, Homs, Syria",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793714480525",
+   "deadline": "2026-11-17",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03"
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793714480909",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03"
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
