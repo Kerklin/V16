@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-03T0"
+    "muted": "2026-11-04T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-03T0"
+    "muted": "2026-11-04T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-04",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-04",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,17 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-04",
+   "status": "open",
+   "checked": "2026-11-04"
+  },
   {
    "title": "INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip",
    "info": "via unvacancies · engineering",
