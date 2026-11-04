@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-03T1"
+    "muted": "2026-11-04T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-03T1"
+    "muted": "2026-11-04T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-04",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-04",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-03",
+  "maint": "2026-11-04",
   "vcheck": "2026-11-03",
   "outdated": []
  },
@@ -308,7 +308,7 @@
    "note": "",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-04"
   },
   {
    "title": "Infrastructure Field Engineer (Consultant), Mykolaiv",
@@ -319,7 +319,7 @@
    "note": "",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-04"
   },
   {
    "title": "Solar Installation Quality Assurance Engineer, Kampala",
@@ -327,10 +327,10 @@
    "link": "https://unjobs.org/vacancies/1793268102302",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-04)",
    "found": "2026-10-29",
-   "status": "open",
-   "checked": "2026-10-29"
+   "status": "removed",
+   "checked": "2026-11-04"
   },
   {
    "title": "Climate-Resilient Health Care Facilities, Cairo",
@@ -338,10 +338,10 @@
    "link": "https://unjobs.org/vacancies/1793268102618",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-04)",
    "found": "2026-10-29",
-   "status": "open",
-   "checked": "2026-10-29"
+   "status": "removed",
+   "checked": "2026-11-04"
   },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision)",
@@ -352,7 +352,7 @@
    "note": "",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-04"
   },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
@@ -363,7 +363,7 @@
    "note": "",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-04"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -638,7 +638,7 @@
    "note": "",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-04"
   },
   {
    "title": "Associate Sector Specialist - Environment and Infrastructure - based in Luxembourg",
@@ -649,7 +649,7 @@
    "note": "",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-04"
   },
   {
    "title": "Director, Housing and Resilience Programs, Washington, United States",
@@ -660,7 +660,7 @@
    "note": "",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-04"
   },
   {
    "title": "Shelter & Wash Project Manager Chad Iriba (national only)",
@@ -1089,7 +1089,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-04"
   },
   {
    "title": "Consultant: Field Engineer (READY), Pohnpei",
@@ -1100,7 +1100,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-04"
   },
   {
    "title": "Mobile Test Site Project Manager, Esparto, United States",
@@ -1144,7 +1144,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-04"
   },
   {
    "title": "Technical Engineer Consultant",
@@ -1328,10 +1328,10 @@
    "link": "https://unjobs.org/vacancies/1791910842362",
    "deadline": "",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-04)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-28"
+   "status": "removed",
+   "checked": "2026-11-04"
   },
   {
    "title": "WASH Officer, Uror, Jonglei State, South Sudan",
@@ -1991,7 +1991,7 @@
    "note": "Requires state professional exam + civil engineering degree",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-04"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -2002,7 +2002,7 @@
    "note": "Urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-04"
   }
  ]
 }
