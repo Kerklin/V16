@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-03T2"
+    "muted": "2026-11-04T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-03T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-04",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": "2026-11-03T3"
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-04",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790",
+   "deadline": "2026-11-17",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-04",
+   "status": "open",
+   "checked": "2026-11-04"
+  },
+  {
+   "title": "(Senior) Investment Officer, Infrastructure Europe",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273",
+   "deadline": "2026-11-17",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-11-04",
+   "status": "open",
+   "checked": "2026-11-04"
+  },
   {
    "title": "INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip",
    "info": "via UNICEF · construction",
