@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-04T2"
+    "muted": "2026-11-05T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-03T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-04",
+    "last_ok": "2026-11-05",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": "2026-11-03T3"
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-04",
+    "last_ok": "2026-11-05",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-04",
+  "maint": "2026-11-05",
   "vcheck": "2026-11-03",
   "outdated": []
  },
@@ -305,10 +305,10 @@
    "link": "https://unjobs.org/vacancies/1793365860777",
    "deadline": "2026-11-03",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-05)",
    "found": "2026-10-30",
-   "status": "open",
-   "checked": "2026-10-30"
+   "status": "removed",
+   "checked": "2026-11-05"
   },
   {
    "title": "Informal Settlements Urban Planning Senior Consultant",
@@ -319,7 +319,7 @@
    "note": "",
    "found": "2026-10-30",
    "status": "open",
-   "checked": "2026-10-30"
+   "checked": "2026-11-05"
   },
   {
    "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
@@ -330,7 +330,7 @@
    "note": "",
    "found": "2026-10-30",
    "status": "open",
-   "checked": "2026-10-30"
+   "checked": "2026-11-05"
   },
   {
    "title": "Infrastructure Field Engineer (Consultant)",
@@ -649,7 +649,7 @@
    "note": "",
    "found": "2026-10-25",
    "status": "open",
-   "checked": "2026-10-30"
+   "checked": "2026-11-05"
   },
   {
    "title": "Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
@@ -704,7 +704,7 @@
    "note": "",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Housing Accessibility Policy and Design Specialist",
@@ -712,10 +712,10 @@
    "link": "https://unjobs.org/vacancies/1792771406690",
    "deadline": "",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-05)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-10-29"
+   "status": "removed",
+   "checked": "2026-11-05"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -734,10 +734,10 @@
    "link": "https://unjobs.org/vacancies/1792816249783",
    "deadline": "2026-10-28",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-05)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-10-30"
+   "status": "removed",
+   "checked": "2026-11-05"
   },
   {
    "title": "Project Engineer",
@@ -1020,10 +1020,10 @@
    "link": "https://unjobs.org/vacancies/1792472477228",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-05)",
    "found": "2026-10-20",
-   "status": "open",
-   "checked": "2026-10-30"
+   "status": "removed",
+   "checked": "2026-11-05"
   },
   {
    "title": "100000001233.Facilities Coordinator, Doha",
@@ -1031,10 +1031,10 @@
    "link": "https://unjobs.org/vacancies/1792472450068",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-05)",
    "found": "2026-10-20",
-   "status": "open",
-   "checked": "2026-10-30"
+   "status": "removed",
+   "checked": "2026-11-05"
   },
   {
    "title": "Project Coordinator, Juba",
@@ -1188,7 +1188,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
@@ -1372,10 +1372,10 @@
    "link": "https://unjobs.org/vacancies/1791910843244",
    "deadline": "",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-05)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-29"
+   "status": "removed",
+   "checked": "2026-11-05"
   },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
@@ -1386,7 +1386,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
@@ -1430,7 +1430,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
@@ -1782,7 +1782,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -1793,7 +1793,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture)",
