@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-05T2"
+    "muted": "2026-11-06T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-06T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-05",
+    "last_ok": "2026-11-06",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-05",
+    "last_ok": "2026-11-06",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -68,6 +68,39 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "CRFM-Flood Protection and Water Resources Engineering Expert",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/crfm-flood-protection-and-water-resources-engineering-expert-IC-51514",
+   "deadline": "2026-11-19",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-06",
+   "status": "open",
+   "checked": "2026-11-06"
+  },
+  {
+   "title": "CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/crfm-hydro-engineering-expert-for-climate-resilient-flood-management-IC-51490",
+   "deadline": "2026-11-19",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-06",
+   "status": "open",
+   "checked": "2026-11-06"
+  },
+  {
+   "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793916122915",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-06",
+   "status": "open",
+   "checked": "2026-11-06"
+  },
   {
    "title": "Salesforce Marketing Cloud Architect",
    "info": "via unvacancies · UNOPS",
