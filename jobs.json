@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-04T3"
+    "muted": "2026-11-06T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-04T3"
+    "muted": "2026-11-06T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-04",
+    "last_ok": "2026-11-06",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-04",
+    "last_ok": "2026-11-06",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,17 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Salesforce Marketing Cloud Architect",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/salesforce-marketing-cloud-architect-OPS-5107",
+   "deadline": "2026-11-12",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-11-06",
+   "status": "open",
+   "checked": "2026-11-06"
+  },
   {
    "title": "Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication Section, Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",

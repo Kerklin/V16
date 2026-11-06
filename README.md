@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**75 open jobs** (🟢 34 · 🟡 38 · ⚪ 3) · updated 2026-11-06 · checks every 5 minutes · sources working today: 2 of 15 · AI today: 0 of 130 requests
+**76 open jobs** (🟢 34 · 🟡 38 · ⚪ 4) · updated 2026-11-06 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -82,6 +82,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Infrastructure Project Manager, Port Moresby, Papua New Guinea](https://unjobs.org/vacancies/1790750189205) | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Head of Building & IT Infrastructure Department](https://talents.coe.int/en_GB/careersmarketplace/JobDetail/Head-of-Building-and-IT-Infrastructure-Department/1565) | Council of Europe · Strasbourg | – | check | 🟡 Medium | French is an asset |
 | [Program Director for Europe](https://habitat.wd12.myworkdayjobs.com/External/job/Bratislava-Slovakia/Program-Director-for-Europe_JR103615-1) | Habitat for Humanity · Bratislava | – | check | 🟡 Medium | Senior role |
+| [Salesforce Marketing Cloud Architect](https://unvacancies.org/jobs/salesforce-marketing-cloud-architect-OPS-5107) 🆕 | via unvacancies · UNOPS | 2026-11-12 | 🔴 6 days | ⚪ Low |  |
 | [(Senior) Investment Officer, Infrastructure Europe](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273) 🆕 | via unvacancies · engineering | 2026-11-17 | 11 days | ⚪ Low |  |
 | [Engineering and Shelter Team Leader, Bidibidi, Uganda](https://unjobs.org/vacancies/1793077258711) | via UNjobs · construction | – | check | ⚪ Low |  |
 | [SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan](https://unjobs.org/vacancies/1791125088299) | via UNjobs · construction | – | check | ⚪ Low |  |
@@ -210,11 +211,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-11-05 |
-| unvacancies · UNOPS | 2026-11-04 |
+| unvacancies · UNOPS | 2026-11-06 |
 | unvacancies · UN-Habitat | 2026-11-04 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-06 |
 | UNjobs · construction | 2026-11-05 |
-| UNjobs · infrastructure projects | 2026-11-04 |
+| UNjobs · infrastructure projects | 2026-11-06 |
 | UNOPS careers | 2026-11-04 |
 | UNICEF · construction | 2026-11-06 |
 
