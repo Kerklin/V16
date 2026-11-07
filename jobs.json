@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-11-06T3"
+    "muted": "2026-11-07T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-11-06T3"
+    "muted": "2026-11-07T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-06",
@@ -42,7 +42,7 @@
     "muted": "2026-11-04T1"
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-06",
+    "last_ok": "2026-11-07",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,12 +58,12 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-11-06",
+    "last_ok": "2026-11-07",
     "muted": ""
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-06",
+  "maint": "2026-11-07",
   "vcheck": "2026-11-03",
   "outdated": []
  },
@@ -253,7 +253,7 @@
    "note": "",
    "found": "2026-11-01",
    "status": "open",
-   "checked": "2026-11-01"
+   "checked": "2026-11-07"
   },
   {
    "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine",
@@ -660,7 +660,7 @@
    "note": "",
    "found": "2026-10-26",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund, Sarajevo",
@@ -671,7 +671,7 @@
    "note": "",
    "found": "2026-10-26",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Project Manager-Port Development, Walvis-Bay, Namibia",
@@ -679,10 +679,10 @@
    "link": "https://unjobs.org/vacancies/1792816421069",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-26",
-   "status": "open",
-   "checked": "2026-11-01"
+   "status": "removed",
+   "checked": "2026-11-07"
   },
   {
    "title": "Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563",
@@ -693,7 +693,7 @@
    "note": "",
    "found": "2026-10-26",
    "status": "open",
-   "checked": "2026-11-01"
+   "checked": "2026-11-07"
   },
   {
    "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), E",
@@ -712,10 +712,10 @@
    "link": "https://unjobs.org/vacancies/1792861242574",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-25",
-   "status": "open",
-   "checked": "2026-10-31"
+   "status": "removed",
+   "checked": "2026-11-07"
   },
   {
    "title": "Technical Program Manager, Facilities, South San Francisco, United States",
@@ -869,7 +869,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-11-01"
+   "checked": "2026-11-07"
   },
   {
    "title": "Project Engineering Analyst (Open to Tier 1 & Tier 2 Applicants), Islamabad",
@@ -1023,7 +1023,7 @@
    "note": "",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "WASH and Construction Officer, Kinshasa",
@@ -1031,10 +1031,10 @@
    "link": "https://unjobs.org/vacancies/1792558930105",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-21",
-   "status": "open",
-   "checked": "2026-10-31"
+   "status": "removed",
+   "checked": "2026-11-07"
   },
   {
    "title": "Technical Advisor I-Shelter & Settlements RAPID, United States",
@@ -1045,7 +1045,7 @@
    "note": "",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -1207,10 +1207,10 @@
    "link": "https://unjobs.org/vacancies/1792166486232",
    "deadline": "2026-11-01",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-17",
-   "status": "open",
-   "checked": "2026-10-31"
+   "status": "removed",
+   "checked": "2026-11-07"
   },
   {
    "title": "Senior Project Manager (Infrastructure) – GEDSI, Climate & DRR",
@@ -1221,7 +1221,7 @@
    "note": "",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Civil Engineer/Architect – BiH",
@@ -1628,7 +1628,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -1694,7 +1694,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
@@ -1738,7 +1738,7 @@
    "note": "",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
