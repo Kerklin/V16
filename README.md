@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**82 open jobs** (🟢 35 · 🟡 42 · ⚪ 5) · updated 2026-11-07 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
+**83 open jobs** (🟢 35 · 🟡 43 · ⚪ 5) · updated 2026-11-07 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -59,6 +59,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Capacity Building Specialist (Media and Communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671195) 🆕 | via UNjobs · infrastructure projects | 2026-11-24 | 17 days | 🟡 Medium |  |
 | [Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671577) 🆕 | via UNjobs · infrastructure projects | 2026-11-24 | 17 days | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 18 days | 🟡 Medium |  |
+| [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1794051611532) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Project Manager (PMP Certification- Must), Kuala Lumpur, Malaysia](https://unjobs.org/vacancies/1793845782259) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication Section, Sarajevo](https://unjobs.org/vacancies/1793854878525) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1793621020902) | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
