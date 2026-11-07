@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-06T1"
+    "muted": "2026-11-07T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-06T1"
+    "muted": "2026-11-07T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-06",
+    "last_ok": "2026-11-07",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-06",
+    "last_ok": "2026-11-07",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,83 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Project Manager (PMP Certification- Must), Kuala Lumpur, Malaysia",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793845782259",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-07",
+   "status": "open",
+   "checked": "2026-11-07"
+  },
+  {
+   "title": "Civil Engineer, Bishkek",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793887285422",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-07",
+   "status": "open",
+   "checked": "2026-11-07"
+  },
+  {
+   "title": "Project Manager (Infrastructure), Colombo, Sri Lanka",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793858479927",
+   "deadline": "2026-11-19",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-07",
+   "status": "open",
+   "checked": "2026-11-07"
+  },
+  {
+   "title": "Project Engineer",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793793647139",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-07",
+   "status": "open",
+   "checked": "2026-11-07"
+  },
+  {
+   "title": "Capacity Building Specialist (Media and Communication), Home-based, Remote",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793721671195",
+   "deadline": "2026-11-24",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-07",
+   "status": "open",
+   "checked": "2026-11-07"
+  },
+  {
+   "title": "Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793721671577",
+   "deadline": "2026-11-24",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-07",
+   "status": "open",
+   "checked": "2026-11-07"
+  },
+  {
+   "title": "(Senior) Investment Officer, Infrastructure Europe, Paris",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793768476651",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-11-07",
+   "status": "open",
+   "checked": "2026-11-07"
+  },
   {
    "title": "CRFM-Flood Protection and Water Resources Engineering Expert",
    "info": "via unvacancies · engineering",
