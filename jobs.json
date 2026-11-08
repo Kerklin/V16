@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-07T3"
+    "muted": "2026-11-08T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-07T3"
+    "muted": "2026-11-08T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-07",
+    "last_ok": "2026-11-08",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-07",
+    "last_ok": "2026-11-08",
     "muted": ""
    },
    "UNOPS careers": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-07",
+  "maint": "2026-11-08",
   "vcheck": "2026-11-03",
   "outdated": []
  },
@@ -330,7 +330,7 @@
    "note": "",
    "found": "2026-11-02",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-08"
   },
   {
    "title": "Senior Project Manager (Infrastructure)",
@@ -616,7 +616,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-08"
   },
   {
    "title": "Wash and Shelter Project Manager Ethiopia North Amhara",
@@ -627,7 +627,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-08"
   },
   {
    "title": "WASH and Shelter Manager Ethiopia Dollo Ado",
@@ -638,7 +638,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-08"
   },
   {
    "title": "Civil Engineer",
@@ -649,7 +649,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-08"
   },
   {
    "title": "PALESTINE - WASH PROGRAM MANAGER (M/F) - GAZA, Palestine",
@@ -660,7 +660,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-08"
   },
   {
    "title": "Engineering and Shelter Team Leader, Bidibidi, Uganda",
@@ -671,7 +671,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-08"
   },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Hamah, Syria",
@@ -682,7 +682,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-08"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -1001,7 +1001,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-11-01"
+   "checked": "2026-11-08"
   },
   {
    "title": "Officier WASH, Muyinga, Burundi",
@@ -1889,10 +1889,10 @@
    "link": "https://unjobs.org/vacancies/1791297050460",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-08)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-11-01"
+   "status": "removed",
+   "checked": "2026-11-08"
   },
   {
    "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan",
@@ -1900,10 +1900,10 @@
    "link": "https://unjobs.org/vacancies/1791125088299",
    "deadline": "",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-08)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-11-01"
+   "status": "removed",
+   "checked": "2026-11-08"
   },
   {
    "title": "Skills Adviser Building, Construction & Workforce Development",
@@ -2076,10 +2076,10 @@
    "link": "https://unjobs.org/vacancies/1790750189205",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-08)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-11-01"
+   "status": "removed",
+   "checked": "2026-11-08"
   },
   {
    "title": "Senior Programme Manager – National Housing Support Programme",
@@ -2112,7 +2112,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-01"
+   "checked": "2026-11-08"
   },
   {
    "title": "Architect / Civil Engineer – Building in Existing Buildings (Req 3412)",
@@ -2123,7 +2123,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-01"
+   "checked": "2026-11-08"
   },
   {
    "title": "Head of Building & IT Infrastructure Department",
@@ -2134,7 +2134,7 @@
    "note": "French is an asset",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-01"
+   "checked": "2026-11-08"
   },
   {
    "title": "Program Director for Europe",
