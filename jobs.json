@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-04T1"
+    "muted": "2026-11-08T2"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-04T1"
+    "muted": "2026-11-08T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,8 +38,8 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-04",
-    "muted": "2026-11-04T1"
+    "last_ok": "2026-11-08",
+    "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
     "last_ok": "2026-11-07",
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-04",
+    "last_ok": "2026-11-08",
     "muted": ""
    },
    "UNICEF · construction": {
