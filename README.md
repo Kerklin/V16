@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**71 open jobs** (🟢 31 · 🟡 36 · ⚪ 4) · updated 2026-11-09 · checks every 5 minutes · sources working today: 2 of 15 · AI today: 0 of 130 requests
+**72 open jobs** (🟢 31 · 🟡 37 · ⚪ 4) · updated 2026-11-09 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -45,6 +45,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 🔴 3 days | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) | via UNjobs · infrastructure projects | 2026-11-14 | 🔴 5 days | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · UNOPS | 2026-11-14 | 🔴 5 days | 🟡 Medium |  |
+| [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-4948) 🆕 | via unvacancies · UNOPS | 2026-11-16 | 🔴 7 days | 🟡 Medium |  |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 🔴 7 days | 🟡 Medium |  |
 | [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) | via unvacancies · engineering | 2026-11-17 | 8 days | 🟡 Medium |  |
 | [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) 🆕 | via UNjobs · infrastructure projects | 2026-11-19 | 10 days | 🟡 Medium |  |
@@ -222,11 +223,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-11-09 |
-| unvacancies · UNOPS | 2026-11-08 |
+| unvacancies · UNOPS | 2026-11-09 |
 | unvacancies · UN-Habitat | 2026-11-08 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-07 |
 | UNjobs · construction | 2026-11-09 |
-| UNjobs · infrastructure projects | 2026-11-08 |
+| UNjobs · infrastructure projects | 2026-11-09 |
 | UNOPS careers | 2026-11-08 |
 | UNICEF · construction | 2026-11-07 |
 
