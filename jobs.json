@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-08T3"
+    "muted": "2026-11-09T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-07T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-08",
+    "last_ok": "2026-11-09",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-08",
+    "last_ok": "2026-11-09",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-08",
+  "maint": "2026-11-09",
   "vcheck": "2026-11-03",
   "outdated": []
  },
@@ -253,7 +253,7 @@
    "note": "",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-09"
   },
   {
    "title": "Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel) , Nationals Only#596783",
@@ -264,7 +264,7 @@
    "note": "",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-09"
   },
   {
    "title": "WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956",
@@ -275,7 +275,7 @@
    "note": "",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-09"
   },
   {
    "title": "Mechanical Engineer",
@@ -286,7 +286,7 @@
    "note": "",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-09"
   },
   {
    "title": "Mechanical Engineer, Homs, Syria",
@@ -297,7 +297,7 @@
    "note": "",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-09"
   },
   {
    "title": "Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo",
@@ -308,7 +308,7 @@
    "note": "",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-09"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -316,10 +316,10 @@
    "link": "https://unjobs.org/vacancies/1793621020902",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-09)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-03"
+   "status": "removed",
+   "checked": "2026-11-09"
   },
   {
    "title": "Senior Project Manager (Infrastructure)",
@@ -572,7 +572,7 @@
    "note": "",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-09"
   },
   {
    "title": "Project Manager [Open to Tier 1 and 2 applicants], Sarajevo",
@@ -580,10 +580,10 @@
    "link": "https://unjobs.org/vacancies/1793188852256",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-09)",
    "found": "2026-10-28",
-   "status": "open",
-   "checked": "2026-11-03"
+   "status": "removed",
+   "checked": "2026-11-09"
   },
   {
    "title": "Housing Economist",
@@ -704,7 +704,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-09"
   },
   {
    "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund",
@@ -715,7 +715,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-09"
   },
   {
    "title": "Construction and Engineer, Program Design Specialist, United States, United States",
@@ -726,7 +726,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-09"
   },
   {
    "title": "Resident Engineer (1 position), Somalia",
@@ -1020,10 +1020,10 @@
    "link": "https://unjobs.org/vacancies/1792602088105",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-09)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-11-02"
+   "status": "removed",
+   "checked": "2026-11-09"
   },
   {
    "title": "Joint Project Coordinator [Open to internal and external applicants], Sarajevo",
@@ -1031,10 +1031,10 @@
    "link": "https://unjobs.org/vacancies/1792483244365",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-09)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-11-02"
+   "status": "removed",
+   "checked": "2026-11-09"
   },
   {
    "title": "Project Manager, Global Housing Hub",
@@ -2145,7 +2145,7 @@
    "note": "Senior role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-09"
   },
   {
    "title": "Construction Project Manager – 12-month fixed term",
