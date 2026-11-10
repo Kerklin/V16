@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-09T2"
+    "muted": "2026-11-10T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-09T2"
+    "muted": "2026-11-10T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-09",
+    "last_ok": "2026-11-10",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-09",
+    "last_ok": "2026-11-10",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,105 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Senior Infra DevOps Engineer, Warsaw",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794286865784",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10"
+  },
+  {
+   "title": "Design Engineer, Yangon",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794283274464",
+   "deadline": "2026-11-24",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10"
+  },
+  {
+   "title": "ENGINEER, Port-au-Prince",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794247249726",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10"
+  },
+  {
+   "title": "Mechanical Engineer",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794232891034",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10"
+  },
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794225250834",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10"
+  },
+  {
+   "title": "Biomedical Engineer, Tashkent, Uzbekistan",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794225678460",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10"
+  },
+  {
+   "title": "Construction Management Lead Engineer, Tashkent",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794225678882",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10"
+  },
+  {
+   "title": "Construction Management Senior Associate Engineer, Tashkent",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794225679083",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10"
+  },
+  {
+   "title": "Quality Control Engineer, Tashkent",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794225680751",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10"
+  },
   {
    "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina",
    "info": "via UNjobs · Bosnia and Herzegovina",
