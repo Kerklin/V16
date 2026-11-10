@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-11-07T1"
+    "muted": "2026-11-10T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-11-07T1"
+    "muted": "2026-11-10T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-09",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-07",
+    "last_ok": "2026-11-10",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,16 +58,49 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-11-07",
+    "last_ok": "2026-11-10",
     "muted": ""
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-09",
-  "vcheck": "2026-11-03",
+  "maint": "2026-11-10",
+  "vcheck": "2026-11-10",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1794157239920",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10"
+  },
+  {
+   "title": "Chief of Trust-Building Section, Sarajevo",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1794027671576",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10"
+  },
+  {
+   "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596872/national-individual-consultancy-to-support-ipa-2020-project-rehabilitation-activities-sarajevo-bosnia-and-herzegovina-8-months-remote-and-office-based-with-local-travels",
+   "deadline": "2026-11-15",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10"
+  },
   {
    "title": "Construction Management Lead Engineer",
    "info": "via unvacancies · UNOPS",
@@ -231,7 +264,7 @@
    "note": "",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-10"
   },
   {
    "title": "INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip",
@@ -242,7 +275,7 @@
    "note": "",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-10"
   },
   {
    "title": "(Senior) Investment Officer, Infrastructure Europe",
@@ -253,7 +286,7 @@
    "note": "",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-10"
   },
   {
    "title": "INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip",
@@ -495,7 +528,7 @@
    "note": "",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-10"
   },
   {
    "title": "Infrastructure Field Engineer (Consultant), Mykolaiv",
@@ -506,7 +539,7 @@
    "note": "",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-10"
   },
   {
    "title": "Solar Installation Quality Assurance Engineer, Kampala",
@@ -605,7 +638,7 @@
    "note": "",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "Supply Chain Construction Manager, Bunia, Democratic Republic of Congo",
@@ -616,7 +649,7 @@
    "note": "",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Hassakah, Syria",
@@ -924,7 +957,7 @@
    "note": "",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "National Project Officer – Construction Engineer",
@@ -935,7 +968,7 @@
    "note": "",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "SENIOR FACILITIES MANAGEMENT ASSISTANT, G7",
@@ -954,10 +987,10 @@
    "link": "https://unjobs.org/vacancies/1792731679962",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-10)",
    "found": "2026-10-23",
-   "status": "open",
-   "checked": "2026-11-03"
+   "status": "removed",
+   "checked": "2026-11-10"
   },
   {
    "title": "Assistant Architect Design",
@@ -1056,7 +1089,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -1221,7 +1254,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "Structural Engineer",
@@ -1262,10 +1295,10 @@
    "link": "https://unjobs.org/vacancies/1792396826266",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-10)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-11-03"
+   "status": "removed",
+   "checked": "2026-11-10"
   },
   {
    "title": "Team Leader IT Infrastructure – ICTP",
@@ -1452,7 +1485,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "Senior Project Engineer – Oxy-Combustion, Brisbane, CA, United States",
@@ -1463,7 +1496,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "NBC Urban Designer - International Consultant",
