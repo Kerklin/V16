@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-10T3"
+    "muted": "2026-11-11T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-10T3"
+    "muted": "2026-11-11T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-10",
+    "last_ok": "2026-11-11",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-10",
+    "last_ok": "2026-11-11",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-10",
+  "maint": "2026-11-11",
   "vcheck": "2026-11-10",
   "outdated": []
  },
@@ -352,7 +352,7 @@
    "note": "",
    "found": "2026-11-05",
    "status": "open",
-   "checked": "2026-11-05"
+   "checked": "2026-11-11"
   },
   {
    "title": "Senior Project Manager (Infrastructure)",
@@ -605,7 +605,7 @@
    "note": "",
    "found": "2026-10-30",
    "status": "open",
-   "checked": "2026-11-05"
+   "checked": "2026-11-11"
   },
   {
    "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
@@ -616,7 +616,7 @@
    "note": "",
    "found": "2026-10-30",
    "status": "open",
-   "checked": "2026-11-05"
+   "checked": "2026-11-11"
   },
   {
    "title": "Infrastructure Field Engineer (Consultant)",
@@ -671,7 +671,7 @@
    "note": "",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-11"
   },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
@@ -679,10 +679,10 @@
    "link": "https://unjobs.org/vacancies/1793181721552",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-11)",
    "found": "2026-10-29",
-   "status": "open",
-   "checked": "2026-11-04"
+   "status": "removed",
+   "checked": "2026-11-11"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -932,10 +932,10 @@
    "link": "https://unjobs.org/vacancies/1792771308767",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-11)",
    "found": "2026-10-25",
-   "status": "open",
-   "checked": "2026-11-05"
+   "status": "removed",
+   "checked": "2026-11-11"
   },
   {
    "title": "Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
@@ -957,7 +957,7 @@
    "note": "",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-11"
   },
   {
    "title": "Associate Sector Specialist - Environment and Infrastructure - based in Luxembourg",
@@ -965,10 +965,10 @@
    "link": "https://unjobs.org/vacancies/1792808743799",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-11)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-11-04"
+   "status": "removed",
+   "checked": "2026-11-11"
   },
   {
    "title": "Director, Housing and Resilience Programs, Washington, United States",
@@ -979,7 +979,7 @@
    "note": "",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-11"
   },
   {
    "title": "Shelter & Wash Project Manager Chad Iriba (national only)",
@@ -987,10 +987,10 @@
    "link": "https://unjobs.org/vacancies/1792774853017",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-11)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-11-05"
+   "status": "removed",
+   "checked": "2026-11-11"
   },
   {
    "title": "Housing Accessibility Policy and Design Specialist",
@@ -1408,7 +1408,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-11"
   },
   {
    "title": "Consultant: Field Engineer (READY), Pohnpei",
@@ -1416,10 +1416,10 @@
    "link": "https://unjobs.org/vacancies/1792368028760",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-11)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-11-04"
+   "status": "removed",
+   "checked": "2026-11-11"
   },
   {
    "title": "Mobile Test Site Project Manager, Esparto, United States",
@@ -1463,7 +1463,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-11"
   },
   {
    "title": "Technical Engineer Consultant",
@@ -2310,7 +2310,7 @@
    "note": "Requires state professional exam + civil engineering degree",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-11"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -2321,7 +2321,7 @@
    "note": "Urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-11"
   }
  ]
 }
