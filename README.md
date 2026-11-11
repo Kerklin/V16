@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**74 open jobs** (🟢 30 · 🟡 40 · ⚪ 4) · updated 2026-11-11 · checks every 5 minutes · sources working today: 3 of 15 · AI today: 0 of 130 requests
+**75 open jobs** (🟢 30 · 🟡 41 · ⚪ 4) · updated 2026-11-11 · checks every 5 minutes · sources working today: 5 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -55,6 +55,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Capacity Building Specialist (Media and Communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671195) | via UNjobs · infrastructure projects | 2026-11-24 | 13 days | 🟡 Medium |  |
 | [Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671577) | via UNjobs · infrastructure projects | 2026-11-24 | 13 days | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 14 days | 🟡 Medium |  |
+| [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1794399432009) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Senior Infra DevOps Engineer, Warsaw](https://unjobs.org/vacancies/1794286865784) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [ENGINEER, Port-au-Prince](https://unjobs.org/vacancies/1794247249726) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1794225250834) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
@@ -235,11 +236,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-11-09 |
-| unvacancies · UNOPS | 2026-11-10 |
+| unvacancies · UNOPS | 2026-11-11 |
 | unvacancies · UN-Habitat | 2026-11-11 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-11 |
 | UNjobs · construction | 2026-11-09 |
-| UNjobs · infrastructure projects | 2026-11-10 |
+| UNjobs · infrastructure projects | 2026-11-11 |
 | UNOPS careers | 2026-11-11 |
 | UNICEF · construction | 2026-11-10 |
 
