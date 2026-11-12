@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-11T3"
+    "muted": "2026-11-12T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-11T3"
+    "muted": "2026-11-12T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-11",
+    "last_ok": "2026-11-12",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-11",
+    "last_ok": "2026-11-12",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,17 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5162",
+   "deadline": "2026-11-17",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-12",
+   "status": "open",
+   "checked": "2026-11-12"
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
