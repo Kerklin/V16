@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-11-12T3"
+    "muted": "2026-11-13T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-11-12T3"
+    "muted": "2026-11-13T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-09",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-12",
+    "last_ok": "2026-11-13",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -59,11 +59,11 @@
    },
    "UNICEF · construction": {
     "last_ok": "2026-11-10",
-    "muted": "2026-11-12T3"
+    "muted": "2026-11-13T0"
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-12",
+  "maint": "2026-11-13",
   "vcheck": "2026-11-10",
   "outdated": []
  },
@@ -239,10 +239,10 @@
    "link": "https://unjobs.org/vacancies/1794051611532",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-13)",
    "found": "2026-11-07",
-   "status": "open",
-   "checked": "2026-11-07"
+   "status": "removed",
+   "checked": "2026-11-13"
   },
   {
    "title": "Project Manager (PMP Certification- Must), Kuala Lumpur, Malaysia",
@@ -250,10 +250,10 @@
    "link": "https://unjobs.org/vacancies/1793845782259",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-13)",
    "found": "2026-11-07",
-   "status": "open",
-   "checked": "2026-11-07"
+   "status": "removed",
+   "checked": "2026-11-13"
   },
   {
    "title": "Civil Engineer, Bishkek",
@@ -264,7 +264,7 @@
    "note": "",
    "found": "2026-11-07",
    "status": "open",
-   "checked": "2026-11-07"
+   "checked": "2026-11-13"
   },
   {
    "title": "Project Manager (Infrastructure), Colombo, Sri Lanka",
@@ -275,7 +275,7 @@
    "note": "",
    "found": "2026-11-07",
    "status": "open",
-   "checked": "2026-11-07"
+   "checked": "2026-11-13"
   },
   {
    "title": "Project Engineer",
@@ -286,7 +286,7 @@
    "note": "",
    "found": "2026-11-07",
    "status": "open",
-   "checked": "2026-11-07"
+   "checked": "2026-11-13"
   },
   {
    "title": "Capacity Building Specialist (Media and Communication), Home-based, Remote",
@@ -297,7 +297,7 @@
    "note": "",
    "found": "2026-11-07",
    "status": "open",
-   "checked": "2026-11-07"
+   "checked": "2026-11-13"
   },
   {
    "title": "Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote",
@@ -308,7 +308,7 @@
    "note": "",
    "found": "2026-11-07",
    "status": "open",
-   "checked": "2026-11-07"
+   "checked": "2026-11-13"
   },
   {
    "title": "(Senior) Investment Officer, Infrastructure Europe, Paris",
@@ -319,7 +319,7 @@
    "note": "",
    "found": "2026-11-07",
    "status": "open",
-   "checked": "2026-11-07"
+   "checked": "2026-11-13"
   },
   {
    "title": "CRFM-Flood Protection and Water Resources Engineering Expert",
@@ -583,7 +583,7 @@
    "note": "",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-13"
   },
   {
    "title": "Project Officer Senior - WASH, Port-au-Prince",
@@ -591,10 +591,10 @@
    "link": "https://unjobs.org/vacancies/1793336484540",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-13)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-06"
+   "status": "removed",
+   "checked": "2026-11-13"
   },
   {
    "title": "WASH & Infrastructure Coordinator, Khartoum",
@@ -605,7 +605,7 @@
    "note": "",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-13"
   },
   {
    "title": "Civil Engineer (1 position), Libya",
@@ -1452,7 +1452,7 @@
    "note": "",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-13"
   },
   {
    "title": "ICT Project Manager",
@@ -2112,7 +2112,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-13"
   },
   {
    "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
@@ -2145,7 +2145,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-13"
   },
   {
    "title": "Project Coordinator",
@@ -2178,7 +2178,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-13"
   },
   {
    "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
