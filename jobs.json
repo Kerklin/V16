@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-12T1"
+    "muted": "2026-11-14T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-12T1"
+    "muted": "2026-11-14T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-12",
+    "last_ok": "2026-11-14",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-12",
+    "last_ok": "2026-11-14",
     "muted": ""
    },
    "UNOPS careers": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-13",
+  "maint": "2026-11-14",
   "vcheck": "2026-11-10",
   "outdated": []
  },
@@ -495,7 +495,7 @@
    "note": "",
    "found": "2026-11-02",
    "status": "open",
-   "checked": "2026-11-08"
+   "checked": "2026-11-14"
   },
   {
    "title": "Senior Project Manager (Infrastructure)",
@@ -506,7 +506,7 @@
    "note": "",
    "found": "2026-11-01",
    "status": "open",
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   {
    "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine",
@@ -781,7 +781,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-08"
+   "checked": "2026-11-14"
   },
   {
    "title": "Wash and Shelter Project Manager Ethiopia North Amhara",
@@ -789,10 +789,10 @@
    "link": "https://unjobs.org/vacancies/1793120569990",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-14)",
    "found": "2026-10-27",
-   "status": "open",
-   "checked": "2026-11-08"
+   "status": "removed",
+   "checked": "2026-11-14"
   },
   {
    "title": "WASH and Shelter Manager Ethiopia Dollo Ado",
@@ -800,10 +800,10 @@
    "link": "https://unjobs.org/vacancies/1793120569462",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-14)",
    "found": "2026-10-27",
-   "status": "open",
-   "checked": "2026-11-08"
+   "status": "removed",
+   "checked": "2026-11-14"
   },
   {
    "title": "Civil Engineer",
@@ -910,10 +910,10 @@
    "link": "https://unjobs.org/vacancies/1793030445542",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-14)",
    "found": "2026-10-26",
-   "status": "open",
-   "checked": "2026-11-07"
+   "status": "removed",
+   "checked": "2026-11-14"
   },
   {
    "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund, Sarajevo",
@@ -921,10 +921,10 @@
    "link": "https://unjobs.org/vacancies/1793030444841",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-14)",
    "found": "2026-10-26",
-   "status": "open",
-   "checked": "2026-11-07"
+   "status": "removed",
+   "checked": "2026-11-14"
   },
   {
    "title": "Project Manager-Port Development, Walvis-Bay, Namibia",
@@ -943,10 +943,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563",
    "deadline": "2026-11-08",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-14)",
    "found": "2026-10-26",
-   "status": "open",
-   "checked": "2026-11-07"
+   "status": "removed",
+   "checked": "2026-11-14"
   },
   {
    "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), E",
@@ -1122,7 +1122,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   {
    "title": "Project Engineering Analyst (Open to Tier 1 & Tier 2 Applicants), Islamabad",
@@ -1276,7 +1276,7 @@
    "note": "",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   {
    "title": "WASH and Construction Officer, Kinshasa",
@@ -1298,7 +1298,7 @@
    "note": "",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -1471,10 +1471,10 @@
    "link": "https://unjobs.org/vacancies/1792126888214",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-14)",
    "found": "2026-10-17",
-   "status": "open",
-   "checked": "2026-11-07"
+   "status": "removed",
+   "checked": "2026-11-14"
   },
   {
    "title": "Civil Engineer/Architect – BiH",
@@ -1878,10 +1878,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596177/batch-recruitment-of-2-position-construction-officer-no2-temporary-appointment-position-ukraine-kharkiv-odesa",
    "deadline": "2026-10-18",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-14)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-11-07"
+   "status": "removed",
+   "checked": "2026-11-14"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -1947,7 +1947,7 @@
    "note": "",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
@@ -1991,7 +1991,7 @@
    "note": "",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
