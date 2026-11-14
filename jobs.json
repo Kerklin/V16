@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-14T0"
+    "muted": "2026-11-14T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-14T0"
+    "muted": "2026-11-14T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -68,6 +68,50 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Emergency Program Manager II -JWBG, Gaza",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794632743265",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-14",
+   "status": "open",
+   "checked": "2026-11-14"
+  },
+  {
+   "title": "Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794502850841",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-14",
+   "status": "open",
+   "checked": "2026-11-14"
+  },
+  {
+   "title": "Civil Engineer (Quantity Surveying & Cost Estimation)",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794427295862",
+   "deadline": "2026-11-18",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-14",
+   "status": "open",
+   "checked": "2026-11-14"
+  },
+  {
+   "title": "Project Manager (Infrastructure)",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794477686642",
+   "deadline": "2026-11-17",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-14",
+   "status": "open",
+   "checked": "2026-11-14"
+  },
   {
    "title": "Project Manager (Infrastructure)",
    "info": "via unvacancies · UNOPS",

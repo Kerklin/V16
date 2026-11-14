@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**63 open jobs** (🟢 23 · 🟡 37 · ⚪ 3) · updated 2026-11-14 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
+**67 open jobs** (🟢 25 · 🟡 39 · ⚪ 3) · updated 2026-11-14 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -14,9 +14,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip](https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip) | via UNICEF · construction | 2026-11-17 | 🔴 3 days | 🟢 High |  |
 | [Mechanical Engineer](https://unjobs.org/vacancies/1793714480168) | via UNjobs · construction | 2026-11-17 | 🔴 3 days | 🟢 High |  |
 | [Mechanical Engineer, Homs, Syria](https://unjobs.org/vacancies/1793714480525) | via UNjobs · construction | 2026-11-17 | 🔴 3 days | 🟢 High |  |
+| [Civil Engineer (Quantity Surveying & Cost Estimation)](https://unjobs.org/vacancies/1794427295862) 🆕 | via UNjobs · infrastructure projects | 2026-11-18 | 🔴 4 days | 🟢 High |  |
 | [Civil Engineer, Bishkek](https://unjobs.org/vacancies/1793887285422) | via UNjobs · infrastructure projects | 2026-11-25 | 11 days | 🟢 High |  |
 | [Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1793714480909) | via UNjobs · construction | 2026-11-25 | 11 days | 🟢 High |  |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 30 days | 🟢 High | Requires state professional exam + civil engineering degree |
+| [Emergency Program Manager II -JWBG, Gaza](https://unjobs.org/vacancies/1794632743265) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [Construction Management Lead Engineer, Tashkent](https://unjobs.org/vacancies/1794225678882) | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [Construction Management Senior Associate Engineer, Tashkent](https://unjobs.org/vacancies/1794225679083) | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1794157239920) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |  |
@@ -39,6 +41,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Biomedical Engineer, Tashkent, Uzbekistan](https://unjobs.org/vacancies/1794225678460) | via UNjobs · infrastructure projects | 2026-11-16 | 🔴 2 days | 🟡 Medium |  |
 | [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-4948) | via unvacancies · UNOPS | 2026-11-16 | 🔴 2 days | 🟡 Medium |  |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 🔴 2 days | 🟡 Medium |  |
+| [Project Manager (Infrastructure)](https://unjobs.org/vacancies/1794477686642) 🆕 | via UNjobs · infrastructure projects | 2026-11-17 | 🔴 3 days | 🟡 Medium |  |
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5162) 🆕 | via unvacancies · UNOPS | 2026-11-17 | 🔴 3 days | 🟡 Medium |  |
 | [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) | via unvacancies · engineering | 2026-11-17 | 🔴 3 days | 🟡 Medium |  |
 | [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) | via UNjobs · infrastructure projects | 2026-11-19 | 🔴 5 days | 🟡 Medium |  |
@@ -48,6 +51,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Capacity Building Specialist (Media and Communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671195) | via UNjobs · infrastructure projects | 2026-11-24 | 10 days | 🟡 Medium |  |
 | [Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671577) | via UNjobs · infrastructure projects | 2026-11-24 | 10 days | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 11 days | 🟡 Medium |  |
+| [Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958](https://unjobs.org/vacancies/1794502850841) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1794399432009) | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Senior Infra DevOps Engineer, Warsaw](https://unjobs.org/vacancies/1794286865784) | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [ENGINEER, Port-au-Prince](https://unjobs.org/vacancies/1794247249726) | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
