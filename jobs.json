@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-14T1"
+    "muted": "2026-11-15T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-14T1"
+    "muted": "2026-11-15T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-14",
+    "last_ok": "2026-11-15",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-14",
+    "last_ok": "2026-11-15",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-14",
+  "maint": "2026-11-15",
   "vcheck": "2026-11-10",
   "outdated": []
  },
@@ -275,7 +275,7 @@
    "note": "",
    "found": "2026-11-09",
    "status": "open",
-   "checked": "2026-11-09"
+   "checked": "2026-11-15"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -462,7 +462,7 @@
    "note": "",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-09"
+   "checked": "2026-11-15"
   },
   {
    "title": "Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel) , Nationals Only#596783",
@@ -470,10 +470,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596783/field-engineer-consultant-hyderabad-pakistan-education-14-months-office-based-with-travel-nationals-only596783",
    "deadline": "2026-11-10",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-15)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-09"
+   "status": "removed",
+   "checked": "2026-11-15"
   },
   {
    "title": "WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956",
@@ -481,10 +481,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596738/wash-officer-no2-temporary-appointment-6-months-kharkiv-ukraine-post00138956",
    "deadline": "2026-11-09",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-15)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-09"
+   "status": "removed",
+   "checked": "2026-11-15"
   },
   {
    "title": "Mechanical Engineer",
@@ -495,7 +495,7 @@
    "note": "",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-09"
+   "checked": "2026-11-15"
   },
   {
    "title": "Mechanical Engineer, Homs, Syria",
@@ -506,7 +506,7 @@
    "note": "",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-09"
+   "checked": "2026-11-15"
   },
   {
    "title": "Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo",
@@ -517,7 +517,7 @@
    "note": "",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-09"
+   "checked": "2026-11-15"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -855,10 +855,10 @@
    "link": "https://unjobs.org/vacancies/1793037691345",
    "deadline": "2026-11-09",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-15)",
    "found": "2026-10-27",
-   "status": "open",
-   "checked": "2026-11-08"
+   "status": "removed",
+   "checked": "2026-11-15"
   },
   {
    "title": "PALESTINE - WASH PROGRAM MANAGER (M/F) - GAZA, Palestine",
@@ -869,7 +869,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-08"
+   "checked": "2026-11-15"
   },
   {
    "title": "Engineering and Shelter Team Leader, Bidibidi, Uganda",
@@ -877,10 +877,10 @@
    "link": "https://unjobs.org/vacancies/1793077258711",
    "deadline": "",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-15)",
    "found": "2026-10-27",
-   "status": "open",
-   "checked": "2026-11-08"
+   "status": "removed",
+   "checked": "2026-11-15"
   },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Hamah, Syria",
@@ -891,7 +891,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-08"
+   "checked": "2026-11-15"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -1207,10 +1207,10 @@
    "link": "https://unjobs.org/vacancies/1792641704596",
    "deadline": "2026-11-05",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-15)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-11-08"
+   "status": "removed",
+   "checked": "2026-11-15"
   },
   {
    "title": "Officier WASH, Muyinga, Burundi",
@@ -2321,7 +2321,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-08"
+   "checked": "2026-11-15"
   },
   {
    "title": "Architect / Civil Engineer – Building in Existing Buildings (Req 3412)",
@@ -2332,7 +2332,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-08"
+   "checked": "2026-11-15"
   },
   {
    "title": "Head of Building & IT Infrastructure Department",
@@ -2343,7 +2343,7 @@
    "note": "French is an asset",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-08"
+   "checked": "2026-11-15"
   },
   {
    "title": "Program Director for Europe",
