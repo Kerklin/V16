@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**62 open jobs** (🟢 24 · 🟡 36 · ⚪ 2) · updated 2026-11-16 · checks every 5 minutes · sources working today: 1 of 15 · AI today: 0 of 130 requests
+**63 open jobs** (🟢 24 · 🟡 37 · ⚪ 2) · updated 2026-11-16 · checks every 5 minutes · sources working today: 3 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -49,6 +49,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Capacity Building Specialist (Media and Communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671195) | via UNjobs · infrastructure projects | 2026-11-24 | 8 days | 🟡 Medium |  |
 | [Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671577) | via UNjobs · infrastructure projects | 2026-11-24 | 8 days | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 9 days | 🟡 Medium |  |
+| [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1794735462576) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958](https://unjobs.org/vacancies/1794502850841) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1794399432009) | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Senior Infra DevOps Engineer, Warsaw](https://unjobs.org/vacancies/1794286865784) | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
@@ -241,11 +242,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-11-14 |
-| unvacancies · UNOPS | 2026-11-15 |
+| unvacancies · UNOPS | 2026-11-16 |
 | unvacancies · UN-Habitat | 2026-11-15 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-16 |
 | UNjobs · construction | 2026-11-14 |
-| UNjobs · infrastructure projects | 2026-11-15 |
+| UNjobs · infrastructure projects | 2026-11-16 |
 | UNOPS careers | 2026-11-15 |
 | UNICEF · construction | 2026-11-10 |
 
