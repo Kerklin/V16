@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-14T3"
+    "muted": "2026-11-17T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-16T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-14",
+    "last_ok": "2026-11-17",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-14",
+    "last_ok": "2026-11-17",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -63,11 +63,66 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-16",
-  "vcheck": "2026-11-10",
+  "maint": "2026-11-17",
+  "vcheck": "2026-11-17",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Senior Facilities Management, Infrastructure & Sustainability Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-facilities-management-infrastructure-sustainability-consultant-A-288000",
+   "deadline": "2026-11-20",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-17",
+   "status": "open",
+   "checked": "2026-11-17"
+  },
+  {
+   "title": "Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794839191439",
+   "deadline": "2026-11-30",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-11-17",
+   "status": "open",
+   "checked": "2026-11-17"
+  },
+  {
+   "title": "Construction Administration Officer (Lao national), Luang Namtha, Lao PDR",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794839756889",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-11-17",
+   "status": "open",
+   "checked": "2026-11-17"
+  },
+  {
+   "title": "Information Management Officer (WASH)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794859326088",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-17",
+   "status": "open",
+   "checked": "2026-11-17"
+  },
+  {
+   "title": "WaSH and Shelter Technician",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794459680118",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-11-17",
+   "status": "open",
+   "checked": "2026-11-17"
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
    "info": "via UNjobs · infrastructure projects",
@@ -264,7 +319,7 @@
    "note": "",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-10"
+   "checked": "2026-11-17"
   },
   {
    "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels",
@@ -272,10 +327,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596872/national-individual-consultancy-to-support-ipa-2020-project-rehabilitation-activities-sarajevo-bosnia-and-herzegovina-8-months-remote-and-office-based-with-local-travels",
    "deadline": "2026-11-15",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-17)",
    "found": "2026-11-10",
-   "status": "open",
-   "checked": "2026-11-10"
+   "status": "removed",
+   "checked": "2026-11-17"
   },
   {
    "title": "Construction Management Lead Engineer",
@@ -440,7 +495,7 @@
    "note": "",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-10"
+   "checked": "2026-11-17"
   },
   {
    "title": "INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip",
@@ -451,7 +506,7 @@
    "note": "",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-10"
+   "checked": "2026-11-17"
   },
   {
    "title": "(Senior) Investment Officer, Infrastructure Europe",
@@ -462,7 +517,7 @@
    "note": "",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-10"
+   "checked": "2026-11-17"
   },
   {
    "title": "INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip",
@@ -704,7 +759,7 @@
    "note": "",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-11-10"
+   "checked": "2026-11-17"
   },
   {
    "title": "Infrastructure Field Engineer (Consultant), Mykolaiv",
@@ -712,10 +767,10 @@
    "link": "https://unjobs.org/vacancies/1793282444060",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-17)",
    "found": "2026-10-29",
-   "status": "open",
-   "checked": "2026-11-10"
+   "status": "removed",
+   "checked": "2026-11-17"
   },
   {
    "title": "Solar Installation Quality Assurance Engineer, Kampala",
@@ -814,7 +869,7 @@
    "note": "",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-10"
+   "checked": "2026-11-17"
   },
   {
    "title": "Supply Chain Construction Manager, Bunia, Democratic Republic of Congo",
@@ -822,10 +877,10 @@
    "link": "https://unjobs.org/vacancies/1793163739608",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-17)",
    "found": "2026-10-28",
-   "status": "open",
-   "checked": "2026-11-10"
+   "status": "removed",
+   "checked": "2026-11-17"
   },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Hassakah, Syria",
@@ -1133,7 +1188,7 @@
    "note": "",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-11-10"
+   "checked": "2026-11-17"
   },
   {
    "title": "National Project Officer – Construction Engineer",
@@ -1144,7 +1199,7 @@
    "note": "",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-11-10"
+   "checked": "2026-11-17"
   },
   {
    "title": "SENIOR FACILITIES MANAGEMENT ASSISTANT, G7",
@@ -1265,7 +1320,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-11-10"
+   "checked": "2026-11-17"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -1430,7 +1485,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-11-10"
+   "checked": "2026-11-17"
   },
   {
    "title": "Structural Engineer",
@@ -1661,7 +1716,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-11-10"
+   "checked": "2026-11-17"
   },
   {
    "title": "Senior Project Engineer – Oxy-Combustion, Brisbane, CA, United States",
@@ -1672,7 +1727,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-11-10"
+   "checked": "2026-11-17"
   },
   {
    "title": "NBC Urban Designer - International Consultant",
