@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-16T1"
+    "muted": "2026-11-18T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-16T1"
+    "muted": "2026-11-18T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-16",
+    "last_ok": "2026-11-18",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-16",
+    "last_ok": "2026-11-18",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,39 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Local Individual Contractor (Civil Work Engineer), Bishkek",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794916847840",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18"
+  },
+  {
+   "title": "WASH Engineer, Mindanao, Philippines",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794412365985",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18"
+  },
+  {
+   "title": "Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794459646064",
+   "deadline": "2028-03-31",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18"
+  },
   {
    "title": "Civil Engineer QA/QC (3 positions), Haiti",
    "info": "via UNjobs · construction",

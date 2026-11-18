@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**51 open jobs** (🟢 17 · 🟡 28 · ⚪ 6) · updated 2026-11-18 · checks every 5 minutes · sources working today: 2 of 15 · AI today: 0 of 130 requests
+**54 open jobs** (🟢 18 · 🟡 30 · ⚪ 6) · updated 2026-11-18 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -14,6 +14,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Civil Engineer, Bishkek](https://unjobs.org/vacancies/1793887285422) | via UNjobs · infrastructure projects | 2026-11-25 | 🔴 7 days | 🟢 High |  |
 | [Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1793714480909) | via UNjobs · construction | 2026-11-25 | 🔴 7 days | 🟢 High |  |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 26 days | 🟢 High | Requires state professional exam + civil engineering degree |
+| [Local Individual Contractor (Civil Work Engineer), Bishkek](https://unjobs.org/vacancies/1794916847840) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [Civil Engineer, Home Based](https://unjobs.org/vacancies/1794909684411) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Emergency Program Manager II -JWBG, Gaza](https://unjobs.org/vacancies/1794632743265) | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1794157239920) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |  |
@@ -35,6 +36,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Capacity Building Specialist (Media and Communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671195) | via UNjobs · infrastructure projects | 2026-11-24 | 🔴 6 days | 🟡 Medium |  |
 | [Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671577) | via UNjobs · infrastructure projects | 2026-11-24 | 🔴 6 days | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 🔴 7 days | 🟡 Medium |  |
+| [Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany](https://unjobs.org/vacancies/1794459646064) 🆕 | via UNjobs · infrastructure projects | 2028-03-31 | 499 days | 🟡 Medium |  |
+| [WASH Engineer, Mindanao, Philippines](https://unjobs.org/vacancies/1794412365985) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Information Management Officer (WASH)](https://unjobs.org/vacancies/1794859326088) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1794735462576) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958](https://unjobs.org/vacancies/1794502850841) | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
@@ -250,11 +253,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-11-18 |
-| unvacancies · UNOPS | 2026-11-16 |
+| unvacancies · UNOPS | 2026-11-18 |
 | unvacancies · UN-Habitat | 2026-11-17 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-17 |
 | UNjobs · construction | 2026-11-18 |
-| UNjobs · infrastructure projects | 2026-11-16 |
+| UNjobs · infrastructure projects | 2026-11-18 |
 | UNOPS careers | 2026-11-17 |
 | UNICEF · construction | 2026-11-17 |
 
