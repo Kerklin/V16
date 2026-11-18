@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-17T0"
+    "muted": "2026-11-18T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-17T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-17",
+    "last_ok": "2026-11-18",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-17",
+    "last_ok": "2026-11-18",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -63,11 +63,44 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-17",
+  "maint": "2026-11-18",
   "vcheck": "2026-11-17",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Civil Engineer QA/QC (3 positions), Haiti",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794944927916",
+   "deadline": "2026-11-24",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18"
+  },
+  {
+   "title": "Civil Engineer, Home Based",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794909684411",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18"
+  },
+  {
+   "title": "Local Individual Contractor (Civil Work Engineer), Dushanbe",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794916848324",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18"
+  },
   {
    "title": "Senior Facilities Management, Infrastructure & Sustainability Consultant",
    "info": "via unvacancies · engineering",
@@ -187,7 +220,7 @@
    "note": "",
    "found": "2026-11-12",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-18"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -195,10 +228,10 @@
    "link": "https://unjobs.org/vacancies/1794399432009",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-18)",
    "found": "2026-11-11",
-   "status": "open",
-   "checked": "2026-11-11"
+   "status": "removed",
+   "checked": "2026-11-18"
   },
   {
    "title": "Senior Infra DevOps Engineer, Warsaw",
@@ -440,7 +473,7 @@
    "note": "",
    "found": "2026-11-06",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-18"
   },
   {
    "title": "CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management",
@@ -451,7 +484,7 @@
    "note": "",
    "found": "2026-11-06",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-18"
   },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
@@ -459,10 +492,10 @@
    "link": "https://unjobs.org/vacancies/1793916122915",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-18)",
    "found": "2026-11-06",
-   "status": "open",
-   "checked": "2026-11-12"
+   "status": "removed",
+   "checked": "2026-11-18"
   },
   {
    "title": "Salesforce Marketing Cloud Architect",
@@ -484,7 +517,7 @@
    "note": "",
    "found": "2026-11-05",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-18"
   },
   {
    "title": "Senior Project Manager (Infrastructure)",
@@ -737,7 +770,7 @@
    "note": "",
    "found": "2026-10-30",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-18"
   },
   {
    "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
@@ -745,10 +778,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705",
    "deadline": "2026-11-12",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-18)",
    "found": "2026-10-30",
-   "status": "open",
-   "checked": "2026-11-11"
+   "status": "removed",
+   "checked": "2026-11-18"
   },
   {
    "title": "Infrastructure Field Engineer (Consultant)",
@@ -803,7 +836,7 @@
    "note": "",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-18"
   },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
@@ -1086,10 +1119,10 @@
    "link": "https://unjobs.org/vacancies/1792808720722",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-18)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-11-11"
+   "status": "removed",
+   "checked": "2026-11-18"
   },
   {
    "title": "Associate Sector Specialist - Environment and Infrastructure - based in Luxembourg",
@@ -1108,10 +1141,10 @@
    "link": "https://unjobs.org/vacancies/1792809233248",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-18)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-11-11"
+   "status": "removed",
+   "checked": "2026-11-18"
   },
   {
    "title": "Shelter & Wash Project Manager Chad Iriba (national only)",
@@ -1540,7 +1573,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-18"
   },
   {
    "title": "Consultant: Field Engineer (READY), Pohnpei",
@@ -1595,7 +1628,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-18"
   },
   {
    "title": "Technical Engineer Consultant",
@@ -2442,7 +2475,7 @@
    "note": "Requires state professional exam + civil engineering degree",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-18"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -2453,7 +2486,7 @@
    "note": "Urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-18"
   }
  ]
 }
