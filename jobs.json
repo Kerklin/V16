@@ -2,8 +2,8 @@
  "meta": {
   "sources": {
    "ReliefWeb · construction": {
-    "last_ok": "",
-    "muted": "2026-11-18T1"
+    "last_ok": "2026-11-19",
+    "muted": ""
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "2026-11-19",
@@ -18,8 +18,8 @@
     "muted": "2026-11-18T0"
    },
    "ReliefWeb · housing": {
-    "last_ok": "",
-    "muted": "2026-11-18T1"
+    "last_ok": "2026-11-19",
+    "muted": ""
    },
    "ReliefWeb · engineer": {
     "last_ok": "2026-11-19",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,61 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)",
+   "info": "via ReliefWeb · construction",
+   "link": "https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd",
+   "deadline": "2026-12-17",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Infrastructure Specialist - (Dir Hafir)",
+   "info": "via ReliefWeb · construction",
+   "link": "https://reliefweb.int/job/4238039/infrastructure-specialist-dir-hafir",
+   "deadline": "2026-11-19",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Project Manager, Health Infrastructure (Surkhet, Nepal)",
+   "info": "via ReliefWeb · construction",
+   "link": "https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal",
+   "deadline": "2026-12-31",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Shelter Associate, Sittwe, Myanmar",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795064507799",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795005142011",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
   {
    "title": "Humanitarian Mine Action Project Manager (Programme Manager)",
    "info": "via ReliefWeb · infrastructure",
