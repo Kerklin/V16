@@ -6,8 +6,8 @@
     "muted": "2026-11-18T1"
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "",
-    "muted": "2026-11-18T3"
+    "last_ok": "2026-11-19",
+    "muted": ""
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -22,8 +22,8 @@
     "muted": "2026-11-18T1"
    },
    "ReliefWeb · engineer": {
-    "last_ok": "",
-    "muted": "2026-11-18T3"
+    "last_ok": "2026-11-19",
+    "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -63,11 +63,154 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-18",
+  "maint": "2026-11-19",
   "vcheck": "2026-11-17",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Humanitarian Mine Action Project Manager (Programme Manager)",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager",
+   "deadline": "2026-11-30",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Senior Director, Infrastructure",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4238587/senior-director-infrastructure",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4238728/consultancy-services-technical-supervision-construction-15-blocks-60-units-vip-latrines-schools-west-pokot-county",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Release Train Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4238504/release-train-engineer",
+   "deadline": "2026-11-23",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Engineer – School Rehabilitation",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4238413/engineer-school-rehabilitation",
+   "deadline": "2026-11-20",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "WASH Engineer - Mindanao (Filipino Nationals Only)",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Roads Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4237601/roads-engineer",
+   "deadline": "2026-11-29",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "AI Platform Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4233231/ai-platform-engineer",
+   "deadline": "2026-12-08",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4232579/sudan-wash-program-manager-mf-west-and-central-darfur",
+   "deadline": "2026-11-19",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term",
+   "deadline": "2026-12-08",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Tupande Electrical Maintenance Engineer / Specialist (Fixed-Term)",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4226604/tupande-electrical-maintenance-engineer-specialist-fixed-term",
+   "deadline": "2026-11-20",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Tupande Mechanical Maintenance Engineer / Specialist (Fixed-Term)",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4226603/tupande-mechanical-maintenance-engineer-specialist-fixed-term",
+   "deadline": "2026-11-20",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Field Monitoring Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4219684/field-monitoring-engineer",
+   "deadline": "2026-12-31",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
   {
    "title": "Local Individual Contractor (Civil Work Engineer), Bishkek",
    "info": "via UNjobs · infrastructure projects",
@@ -440,7 +583,7 @@
    "note": "",
    "found": "2026-11-07",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-19"
   },
   {
    "title": "Project Manager (Infrastructure), Colombo, Sri Lanka",
@@ -451,7 +594,7 @@
    "note": "",
    "found": "2026-11-07",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-19"
   },
   {
    "title": "Project Engineer",
@@ -459,10 +602,10 @@
    "link": "https://unjobs.org/vacancies/1793793647139",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-11-07",
-   "status": "open",
-   "checked": "2026-11-13"
+   "status": "removed",
+   "checked": "2026-11-19"
   },
   {
    "title": "Capacity Building Specialist (Media and Communication), Home-based, Remote",
@@ -473,7 +616,7 @@
    "note": "",
    "found": "2026-11-07",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-19"
   },
   {
    "title": "Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote",
@@ -539,7 +682,7 @@
    "note": "",
    "found": "2026-11-06",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-19"
   },
   {
    "title": "Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication Section, Sarajevo",
@@ -690,10 +833,10 @@
    "link": "https://unjobs.org/vacancies/1793422858335",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-12"
+   "status": "removed",
+   "checked": "2026-11-19"
   },
   {
    "title": "Shelter Technical Assistant, Misrata, Libya",
@@ -701,10 +844,10 @@
    "link": "https://unjobs.org/vacancies/1793422874630",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-12"
+   "status": "removed",
+   "checked": "2026-11-19"
   },
   {
    "title": "Civil Engineer",
@@ -712,10 +855,10 @@
    "link": "https://unjobs.org/vacancies/1793419279266",
    "deadline": "2026-11-12",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-12"
+   "status": "removed",
+   "checked": "2026-11-19"
   },
   {
    "title": "Construction Management Senior Associate Engineer",
@@ -723,10 +866,10 @@
    "link": "https://unjobs.org/vacancies/1793419279543",
    "deadline": "2026-11-06",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-12"
+   "status": "removed",
+   "checked": "2026-11-19"
   },
   {
    "title": "140 Assistant(e) Wash, Goma, Democratic Republic of Congo",
@@ -734,10 +877,10 @@
    "link": "https://unjobs.org/vacancies/1793422887968",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-12"
+   "status": "removed",
+   "checked": "2026-11-19"
   },
   {
    "title": "141 Chef.fe d’Equipe Infrastructure Wash : OFFRE INTERNE, Goma, Democratic Republic of Congo",
@@ -745,10 +888,10 @@
    "link": "https://unjobs.org/vacancies/1793422887438",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-12"
+   "status": "removed",
+   "checked": "2026-11-19"
   },
   {
    "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
@@ -1672,7 +1815,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-19"
   },
   {
    "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
@@ -1914,7 +2057,7 @@
    "note": "",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-19"
   },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
@@ -2266,7 +2409,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-19"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -2277,7 +2420,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-19"
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture)",
