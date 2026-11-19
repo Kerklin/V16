@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**66 open jobs** (🟢 27 · 🟡 31 · ⚪ 8) · updated 2026-11-19 · checks every 5 minutes · sources working today: 8 of 15 · AI today: 0 of 130 requests
+**72 open jobs** (🟢 31 · 🟡 33 · ⚪ 8) · updated 2026-11-19 · checks every 5 minutes · sources working today: 11 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -13,12 +13,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Infrastructure Specialist - (Dir Hafir)](https://reliefweb.int/job/4238039/infrastructure-specialist-dir-hafir) 🆕 | via ReliefWeb · construction | 2026-11-19 | 🔴 0 days | 🟢 High |  |
 | [SUDAN - WASH Program manager (M/F) - West and Central Darfur](https://reliefweb.int/job/4232579/sudan-wash-program-manager-mf-west-and-central-darfur) 🆕 | via ReliefWeb · engineer | 2026-11-19 | 🔴 0 days | 🟢 High |  |
 | [Engineer – School Rehabilitation](https://reliefweb.int/job/4238413/engineer-school-rehabilitation) 🆕 | via ReliefWeb · engineer | 2026-11-20 | 🔴 1 days | 🟢 High |  |
+| [Construction Management Engineer, Port Moresby, Papua New Guinea](https://unjobs.org/vacancies/1794974487378) 🆕 | via UNjobs · construction | 2026-11-23 | 🔴 4 days | 🟢 High |  |
 | [Release Train Engineer](https://reliefweb.int/job/4238504/release-train-engineer) 🆕 | via ReliefWeb · engineer | 2026-11-23 | 🔴 4 days | 🟢 High |  |
 | [Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County](https://reliefweb.int/job/4238728/consultancy-services-technical-supervision-construction-15-blocks-60-units-vip-latrines-schools-west-pokot-county) 🆕 | via ReliefWeb · engineer | 2026-11-25 | 🔴 6 days | 🟢 High |  |
 | [Civil Engineer, Bishkek](https://unjobs.org/vacancies/1793887285422) | via UNjobs · infrastructure projects | 2026-11-25 | 🔴 6 days | 🟢 High |  |
 | [Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1793714480909) | via UNjobs · construction | 2026-11-25 | 🔴 6 days | 🟢 High |  |
 | [Roads Engineer](https://reliefweb.int/job/4237601/roads-engineer) 🆕 | via ReliefWeb · engineer | 2026-11-29 | 10 days | 🟢 High |  |
 | [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) 🆕 | via ReliefWeb · infrastructure | 2026-11-30 | 11 days | 🟢 High |  |
+| [Civil Engineer](https://unjobs.org/vacancies/1794996082781) 🆕 | via UNjobs · construction | 2026-12-02 | 13 days | 🟢 High |  |
+| [Lead Civil Engineer](https://unjobs.org/vacancies/1795075281189) 🆕 | via UNjobs · construction | 2026-12-03 | 14 days | 🟢 High |  |
 | [AI Platform Engineer](https://reliefweb.int/job/4233231/ai-platform-engineer) 🆕 | via ReliefWeb · engineer | 2026-12-08 | 19 days | 🟢 High |  |
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) 🆕 | via ReliefWeb · engineer | 2026-12-08 | 19 days | 🟢 High |  |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) 🆕 | via ReliefWeb · engineer | 2026-12-10 | 21 days | 🟢 High |  |
@@ -26,6 +29,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)](https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd) 🆕 | via ReliefWeb · construction | 2026-12-17 | 28 days | 🟢 High |  |
 | [Project Manager, Health Infrastructure (Surkhet, Nepal)](https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal) 🆕 | via ReliefWeb · construction | 2026-12-31 | 42 days | 🟢 High |  |
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) 🆕 | via ReliefWeb · engineer | 2026-12-31 | 42 days | 🟢 High |  |
+| [Shelter Specialist, Kasulu, Tanzania](https://unjobs.org/vacancies/1795082503084) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Shelter Associate, Sittwe, Myanmar](https://unjobs.org/vacancies/1795064507799) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [Local Individual Contractor (Civil Work Engineer), Bishkek](https://unjobs.org/vacancies/1794916847840) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [Civil Engineer, Home Based](https://unjobs.org/vacancies/1794909684411) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
@@ -46,7 +50,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671577) | via UNjobs · infrastructure projects | 2026-11-24 | 🔴 5 days | 🟡 Medium |  |
 | [Senior Director, Infrastructure](https://reliefweb.int/job/4238587/senior-director-infrastructure) 🆕 | via ReliefWeb · infrastructure | 2026-11-25 | 🔴 6 days | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 🔴 6 days | 🟡 Medium |  |
+| [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) 🆕 | via unvacancies · engineering | 2026-12-17 | 28 days | 🟡 Medium |  |
 | [Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany](https://unjobs.org/vacancies/1794459646064) 🆕 | via UNjobs · infrastructure projects | 2028-03-31 | 498 days | 🟡 Medium |  |
+| [WASH Specialist](https://unjobs.org/vacancies/1795089717459) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1795005142011) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [WASH Engineer, Mindanao, Philippines](https://unjobs.org/vacancies/1794412365985) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [Information Management Officer (WASH)](https://unjobs.org/vacancies/1794859326088) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
@@ -266,15 +272,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · construction | 2026-11-19 |
 | ReliefWeb · infrastructure | 2026-11-19 |
 | ReliefWeb · shelter | not yet |
-| ReliefWeb · architect | not yet |
+| ReliefWeb · architect | 2026-11-19 |
 | ReliefWeb · housing | 2026-11-19 |
 | ReliefWeb · engineer | 2026-11-19 |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-11-18 |
+| unvacancies · engineering | 2026-11-19 |
 | unvacancies · UNOPS | 2026-11-19 |
 | unvacancies · UN-Habitat | 2026-11-19 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-17 |
-| UNjobs · construction | 2026-11-18 |
+| UNjobs · construction | 2026-11-19 |
 | UNjobs · infrastructure projects | 2026-11-19 |
 | UNOPS careers | 2026-11-19 |
 | UNICEF · construction | 2026-11-17 |

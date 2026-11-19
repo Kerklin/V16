@@ -14,8 +14,8 @@
     "muted": "2026-11-17T3"
    },
    "ReliefWeb · architect": {
-    "last_ok": "",
-    "muted": "2026-11-18T0"
+    "last_ok": "2026-11-19",
+    "muted": ""
    },
    "ReliefWeb · housing": {
     "last_ok": "2026-11-19",
@@ -30,7 +30,7 @@
     "muted": "2026-11-17T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -68,6 +68,72 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Irrigation And Rural Infrastructure Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357",
+   "deadline": "2026-12-17",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "WASH Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795089717459",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Shelter Specialist, Kasulu, Tanzania",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795082503084",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794996082781",
+   "deadline": "2026-12-02",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Lead Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795075281189",
+   "deadline": "2026-12-03",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
+  {
+   "title": "Construction Management Engineer, Port Moresby, Papua New Guinea",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794974487378",
+   "deadline": "2026-11-23",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19"
+  },
   {
    "title": "WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)",
    "info": "via ReliefWeb · construction",
