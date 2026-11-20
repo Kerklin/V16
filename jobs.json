@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "2026-11-19",
-    "muted": "2026-11-20T0"
+    "muted": "2026-11-20T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "2026-11-19",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "2026-11-19",
-    "muted": "2026-11-20T0"
+    "muted": "2026-11-20T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "2026-11-19",
@@ -50,8 +50,8 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-19",
-    "muted": "2026-11-20T0"
+    "last_ok": "2026-11-20",
+    "muted": ""
    },
    "UNOPS careers": {
     "last_ok": "2026-11-19",
@@ -68,6 +68,17 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "WaSH Field Officer (Infrastructure background) - Tyre",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795150864310",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
   {
    "title": "Senior Project Manager (Infrastructure)",
    "info": "via unvacancies · UNOPS",
