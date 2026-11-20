@@ -2,8 +2,8 @@
  "meta": {
   "sources": {
    "ReliefWeb · construction": {
-    "last_ok": "2026-11-19",
-    "muted": "2026-11-20T2"
+    "last_ok": "2026-11-20",
+    "muted": ""
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "2026-11-19",
@@ -18,8 +18,8 @@
     "muted": ""
    },
    "ReliefWeb · housing": {
-    "last_ok": "2026-11-19",
-    "muted": "2026-11-20T2"
+    "last_ok": "2026-11-20",
+    "muted": ""
    },
    "ReliefWeb · engineer": {
     "last_ok": "2026-11-19",
@@ -68,6 +68,61 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Regional Housing Ecosystem & Partnership Associate Director",
+   "info": "via ReliefWeb · construction",
+   "link": "https://reliefweb.int/job/4239148/regional-housing-ecosystem-partnership-associate-director",
+   "deadline": "2026-11-26",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
+  {
+   "title": "Civil Engineer, LICA-9, Tarawa - Kiribati",
+   "info": "via ReliefWeb · construction",
+   "link": "https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati",
+   "deadline": "2026-12-02",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
+  {
+   "title": "WASH Program Manager- Re-advertised - Syria Aleppo & Idleb",
+   "info": "via ReliefWeb · construction",
+   "link": "https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb",
+   "deadline": "2026-12-03",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
+  {
+   "title": "Project Manager ATLAS - Sudan",
+   "info": "via ReliefWeb · housing",
+   "link": "https://reliefweb.int/job/4239070/project-manager-atlas-sudan",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
+  {
+   "title": "Senior Project Associate –Infrastructure Support, Kigoma",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795183240776",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
   {
    "title": "WaSH Field Officer (Infrastructure background) - Tyre",
    "info": "via UNjobs · infrastructure projects",
