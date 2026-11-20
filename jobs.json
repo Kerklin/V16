@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "2026-11-19",
-    "muted": ""
+    "muted": "2026-11-20T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "2026-11-19",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "2026-11-19",
-    "muted": ""
+    "muted": "2026-11-20T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "2026-11-19",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-20",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -51,7 +51,7 @@
    },
    "UNjobs · infrastructure projects": {
     "last_ok": "2026-11-19",
-    "muted": ""
+    "muted": "2026-11-20T0"
    },
    "UNOPS careers": {
     "last_ok": "2026-11-19",
@@ -63,11 +63,22 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-19",
+  "maint": "2026-11-20",
   "vcheck": "2026-11-17",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
   {
    "title": "Irrigation And Rural Infrastructure Engineer",
    "info": "via unvacancies · engineering",
@@ -473,7 +484,7 @@
    "note": "",
    "found": "2026-11-14",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-20"
   },
   {
    "title": "Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958",
@@ -484,7 +495,7 @@
    "note": "",
    "found": "2026-11-14",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-20"
   },
   {
    "title": "Civil Engineer (Quantity Surveying & Cost Estimation)",
@@ -495,7 +506,7 @@
    "note": "",
    "found": "2026-11-14",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-20"
   },
   {
    "title": "Project Manager (Infrastructure)",
@@ -503,10 +514,10 @@
    "link": "https://unjobs.org/vacancies/1794477686642",
    "deadline": "2026-11-17",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-20)",
    "found": "2026-11-14",
-   "status": "open",
-   "checked": "2026-11-14"
+   "status": "removed",
+   "checked": "2026-11-20"
   },
   {
    "title": "Project Manager (Infrastructure)",
@@ -748,7 +759,7 @@
    "note": "",
    "found": "2026-11-07",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-20"
   },
   {
    "title": "(Senior) Investment Officer, Infrastructure Europe, Paris",
@@ -756,10 +767,10 @@
    "link": "https://unjobs.org/vacancies/1793768476651",
    "deadline": "",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-20)",
    "found": "2026-11-07",
-   "status": "open",
-   "checked": "2026-11-13"
+   "status": "removed",
+   "checked": "2026-11-20"
   },
   {
    "title": "CRFM-Flood Protection and Water Resources Engineering Expert",
@@ -932,10 +943,10 @@
    "link": "https://unjobs.org/vacancies/1793534475645",
    "deadline": "2026-11-14",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-20)",
    "found": "2026-11-02",
-   "status": "open",
-   "checked": "2026-11-14"
+   "status": "removed",
+   "checked": "2026-11-20"
   },
   {
    "title": "Senior Project Manager (Infrastructure)",
@@ -946,7 +957,7 @@
    "note": "",
    "found": "2026-11-01",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-20"
   },
   {
    "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine",
@@ -1020,10 +1031,10 @@
    "link": "https://unjobs.org/vacancies/1793379654367",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-20)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-13"
+   "status": "removed",
+   "checked": "2026-11-20"
   },
   {
    "title": "Project Officer Senior - WASH, Port-au-Prince",
@@ -1045,7 +1056,7 @@
    "note": "",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-20"
   },
   {
    "title": "Civil Engineer (1 position), Libya",
@@ -1221,7 +1232,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-20"
   },
   {
    "title": "Wash and Shelter Project Manager Ethiopia North Amhara",
@@ -1892,7 +1903,7 @@
    "note": "",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-20"
   },
   {
    "title": "ICT Project Manager",
@@ -2552,7 +2563,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-20"
   },
   {
    "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
@@ -2585,7 +2596,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-20"
   },
   {
    "title": "Project Coordinator",
@@ -2618,7 +2629,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-20"
   },
   {
    "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
