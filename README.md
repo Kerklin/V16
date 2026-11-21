@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**81 open jobs** (🟢 40 · 🟡 35 · ⚪ 6) · updated 2026-11-21 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
+**82 open jobs** (🟢 40 · 🟡 36 · ⚪ 6) · updated 2026-11-21 · checks every 5 minutes · sources working today: 10 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -61,6 +61,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 8 days | 🟡 Medium |  |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) 🆕 | via unvacancies · engineering | 2026-12-17 | 26 days | 🟡 Medium |  |
 | [Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany](https://unjobs.org/vacancies/1794459646064) | via UNjobs · infrastructure projects | 2028-03-31 | 496 days | 🟡 Medium |  |
+| [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1795253577638) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
 | [WASH Specialist](https://unjobs.org/vacancies/1795264050944) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081, (Malakal, Wau), South Sudan](https://unjobs.org/vacancies/1795194048635) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Irrigation And Rural Infrastructure Engineer, Rome](https://unjobs.org/vacancies/1795150888034) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
@@ -289,19 +290,19 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 
 | Source | Last worked |
 |---|---|
-| ReliefWeb · construction | 2026-11-20 |
+| ReliefWeb · construction | 2026-11-21 |
 | ReliefWeb · infrastructure | 2026-11-19 |
 | ReliefWeb · shelter | 2026-11-21 |
 | ReliefWeb · architect | 2026-11-21 |
-| ReliefWeb · housing | 2026-11-20 |
+| ReliefWeb · housing | 2026-11-21 |
 | ReliefWeb · engineer | 2026-11-19 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-21 |
 | unvacancies · engineering | 2026-11-21 |
-| unvacancies · UNOPS | 2026-11-20 |
+| unvacancies · UNOPS | 2026-11-21 |
 | unvacancies · UN-Habitat | 2026-11-19 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-21 |
 | UNjobs · construction | 2026-11-21 |
-| UNjobs · infrastructure projects | 2026-11-20 |
+| UNjobs · infrastructure projects | 2026-11-21 |
 | UNOPS careers | 2026-11-19 |
 | UNICEF · construction | 2026-11-17 |
 

@@ -2,7 +2,7 @@
  "meta": {
   "sources": {
    "ReliefWeb · construction": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
@@ -18,7 +18,7 @@
     "muted": ""
    },
    "ReliefWeb · housing": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "ReliefWeb · engineer": {
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "UNOPS careers": {
@@ -68,6 +68,17 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795253577638",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
   {
    "title": "WASH Specialist",
    "info": "via UNjobs · construction",
