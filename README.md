@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**71 open jobs** (🟢 34 · 🟡 31 · ⚪ 6) · updated 2026-11-21 · checks every 5 minutes · sources working today: 3 of 15 · AI today: 0 of 130 requests
+**80 open jobs** (🟢 40 · 🟡 34 · ⚪ 6) · updated 2026-11-21 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -16,6 +16,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Civil Engineer, Bishkek](https://unjobs.org/vacancies/1793887285422) | via UNjobs · infrastructure projects | 2026-11-25 | 🔴 4 days | 🟢 High |  |
 | [Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1793714480909) | via UNjobs · construction | 2026-11-25 | 🔴 4 days | 🟢 High |  |
 | [Regional Housing Ecosystem & Partnership Associate Director](https://reliefweb.int/job/4239148/regional-housing-ecosystem-partnership-associate-director) 🆕 | via ReliefWeb · construction | 2026-11-26 | 🔴 5 days | 🟢 High |  |
+| [ERL Site Engineer - AL Mayadin](https://reliefweb.int/job/4239165/erl-site-engineer-al-mayadin) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟢 High |  |
+| [WASH & Shelter Field monitor - AL Mayadin - AL-Bukamal - Tabni](https://reliefweb.int/job/4239139/wash-shelter-field-monitor-al-mayadin-al-bukamal-tabni) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟢 High |  |
+| [Shelter Site Engineer - AL Mayadin - AL-Bukamal](https://reliefweb.int/job/4239136/shelter-site-engineer-al-mayadin-al-bukamal) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟢 High |  |
+| [WASH site engineer - AL Mayadin - AL-Bukamal - Tabni](https://reliefweb.int/job/4239134/wash-site-engineer-al-mayadin-al-bukamal-tabni) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟢 High |  |
+| [WASH & Shelter Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239114/wash-shelter-project-manager-deir-ez-zor) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟢 High |  |
 | [Roads Engineer](https://reliefweb.int/job/4237601/roads-engineer) 🆕 | via ReliefWeb · engineer | 2026-11-29 | 8 days | 🟢 High |  |
 | [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) 🆕 | via ReliefWeb · infrastructure | 2026-11-30 | 9 days | 🟢 High |  |
 | [Civil Engineer, LICA-9, Tarawa - Kiribati](https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati) 🆕 | via ReliefWeb · construction | 2026-12-02 | 11 days | 🟢 High |  |
@@ -30,6 +35,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)](https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd) 🆕 | via ReliefWeb · construction | 2026-12-17 | 26 days | 🟢 High |  |
 | [Project Manager, Health Infrastructure (Surkhet, Nepal)](https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal) 🆕 | via ReliefWeb · construction | 2026-12-31 | 40 days | 🟢 High |  |
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) 🆕 | via ReliefWeb · engineer | 2026-12-31 | 40 days | 🟢 High |  |
+| [Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1795107655532) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |  |
 | [Senior Project Associate –Infrastructure Support, Kigoma](https://unjobs.org/vacancies/1795183240776) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [WaSH Field Officer (Infrastructure background) - Tyre](https://unjobs.org/vacancies/1795150864310) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
 | [Shelter Specialist, Kasulu, Tanzania](https://unjobs.org/vacancies/1795082503084) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
@@ -49,6 +55,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671577) | via UNjobs · infrastructure projects | 2026-11-24 | 🔴 3 days | 🟡 Medium |  |
 | [Senior Director, Infrastructure](https://reliefweb.int/job/4238587/senior-director-infrastructure) 🆕 | via ReliefWeb · infrastructure | 2026-11-25 | 🔴 4 days | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 🔴 4 days | 🟡 Medium |  |
+| [WASH & Shelter Data entry - Deir ez-Zor](https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟡 Medium |  |
+| [WASH & Shelter Project Officer - AL Mayadin - AL-Bukamal](https://reliefweb.int/job/4239122/wash-shelter-project-officer-al-mayadin-al-bukamal) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟡 Medium |  |
+| [Oficial WASH Shelter & Infrastructure - Maracaibo](https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo) 🆕 | via ReliefWeb · shelter | 2026-11-29 | 8 days | 🟡 Medium |  |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 8 days | 🟡 Medium |  |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) 🆕 | via unvacancies · engineering | 2026-12-17 | 26 days | 🟡 Medium |  |
 | [Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany](https://unjobs.org/vacancies/1794459646064) | via UNjobs · infrastructure projects | 2028-03-31 | 496 days | 🟡 Medium |  |
@@ -281,15 +290,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 |---|---|
 | ReliefWeb · construction | 2026-11-20 |
 | ReliefWeb · infrastructure | 2026-11-19 |
-| ReliefWeb · shelter | not yet |
+| ReliefWeb · shelter | 2026-11-21 |
 | ReliefWeb · architect | 2026-11-21 |
 | ReliefWeb · housing | 2026-11-20 |
 | ReliefWeb · engineer | 2026-11-19 |
-| ReliefWeb · Bosnia and Herzegovina | not yet |
+| ReliefWeb · Bosnia and Herzegovina | 2026-11-21 |
 | unvacancies · engineering | 2026-11-21 |
 | unvacancies · UNOPS | 2026-11-20 |
 | unvacancies · UN-Habitat | 2026-11-19 |
-| UNjobs · Bosnia and Herzegovina | 2026-11-17 |
+| UNjobs · Bosnia and Herzegovina | 2026-11-21 |
 | UNjobs · construction | 2026-11-21 |
 | UNjobs · infrastructure projects | 2026-11-20 |
 | UNOPS careers | 2026-11-19 |

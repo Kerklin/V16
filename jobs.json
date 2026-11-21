@@ -10,8 +10,8 @@
     "muted": ""
    },
    "ReliefWeb · shelter": {
-    "last_ok": "",
-    "muted": "2026-11-17T3"
+    "last_ok": "2026-11-21",
+    "muted": ""
    },
    "ReliefWeb · architect": {
     "last_ok": "2026-11-21",
@@ -26,8 +26,8 @@
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
-    "last_ok": "",
-    "muted": "2026-11-17T3"
+    "last_ok": "2026-11-21",
+    "muted": ""
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-21",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-17",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -59,7 +59,7 @@
    },
    "UNICEF · construction": {
     "last_ok": "2026-11-17",
-    "muted": ""
+    "muted": "2026-11-21T1"
    }
   },
   "since": "2026-10-06",
@@ -68,6 +68,105 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Oficial WASH Shelter & Infrastructure - Maracaibo",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
+  {
+   "title": "ERL Site Engineer - AL Mayadin",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239165/erl-site-engineer-al-mayadin",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
+  {
+   "title": "WASH & Shelter Data entry - Deir ez-Zor",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor",
+   "deadline": "2026-11-27",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
+  {
+   "title": "WASH & Shelter Field monitor - AL Mayadin - AL-Bukamal - Tabni",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239139/wash-shelter-field-monitor-al-mayadin-al-bukamal-tabni",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
+  {
+   "title": "Shelter Site Engineer - AL Mayadin - AL-Bukamal",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239136/shelter-site-engineer-al-mayadin-al-bukamal",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
+  {
+   "title": "WASH site engineer - AL Mayadin - AL-Bukamal - Tabni",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239134/wash-site-engineer-al-mayadin-al-bukamal-tabni",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
+  {
+   "title": "WASH & Shelter Project Officer - AL Mayadin - AL-Bukamal",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239122/wash-shelter-project-officer-al-mayadin-al-bukamal",
+   "deadline": "2026-11-27",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
+  {
+   "title": "WASH & Shelter Project Manager - Deir ez-Zor",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239114/wash-shelter-project-manager-deir-ez-zor",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
+  {
+   "title": "Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1795107655532",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
   {
    "title": "Civil Engineer",
    "info": "via unvacancies · engineering",
