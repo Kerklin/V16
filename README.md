@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**80 open jobs** (🟢 39 · 🟡 35 · ⚪ 6) · updated 2026-11-22 · checks every 5 minutes · sources working today: 1 of 15 · AI today: 0 of 130 requests
+**80 open jobs** (🟢 39 · 🟡 35 · ⚪ 6) · updated 2026-11-22 · checks every 5 minutes · sources working today: 3 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -292,11 +292,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 |---|---|
 | ReliefWeb · construction | 2026-11-21 |
 | ReliefWeb · infrastructure | 2026-11-19 |
-| ReliefWeb · shelter | 2026-11-21 |
+| ReliefWeb · shelter | 2026-11-22 |
 | ReliefWeb · architect | 2026-11-21 |
 | ReliefWeb · housing | 2026-11-21 |
 | ReliefWeb · engineer | 2026-11-19 |
-| ReliefWeb · Bosnia and Herzegovina | 2026-11-21 |
+| ReliefWeb · Bosnia and Herzegovina | 2026-11-22 |
 | unvacancies · engineering | 2026-11-21 |
 | unvacancies · UNOPS | 2026-11-21 |
 | unvacancies · UN-Habitat | 2026-11-19 |
