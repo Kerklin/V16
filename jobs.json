@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "2026-11-21",
-    "muted": ""
+    "muted": "2026-11-22T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "2026-11-21",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "2026-11-21",
-    "muted": ""
+    "muted": "2026-11-22T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-21",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-22",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -59,11 +59,11 @@
    },
    "UNICEF · construction": {
     "last_ok": "2026-11-17",
-    "muted": "2026-11-21T1"
+    "muted": "2026-11-22T0"
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-21",
+  "maint": "2026-11-22",
   "vcheck": "2026-11-17",
   "outdated": []
  },
@@ -690,10 +690,10 @@
    "link": "https://unjobs.org/vacancies/1794735462576",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-22)",
    "found": "2026-11-16",
-   "status": "open",
-   "checked": "2026-11-16"
+   "status": "removed",
+   "checked": "2026-11-22"
   },
   {
    "title": "Emergency Program Manager II -JWBG, Gaza",
@@ -770,7 +770,7 @@
    "note": "",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "Design Engineer, Yangon",
@@ -781,7 +781,7 @@
    "note": "",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "ENGINEER, Port-au-Prince",
@@ -792,7 +792,7 @@
    "note": "",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "Mechanical Engineer",
@@ -803,7 +803,7 @@
    "note": "",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -825,7 +825,7 @@
    "note": "",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "Construction Management Lead Engineer, Tashkent",
@@ -836,7 +836,7 @@
    "note": "",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "Construction Management Senior Associate Engineer, Tashkent",
@@ -847,7 +847,7 @@
    "note": "",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "Quality Control Engineer, Tashkent",
@@ -858,7 +858,7 @@
    "note": "",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina",
@@ -866,10 +866,10 @@
    "link": "https://unjobs.org/vacancies/1794157239920",
    "deadline": "",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-22)",
    "found": "2026-11-10",
-   "status": "open",
-   "checked": "2026-11-16"
+   "status": "removed",
+   "checked": "2026-11-22"
   },
   {
    "title": "Chief of Trust-Building Section, Sarajevo",
@@ -1408,7 +1408,7 @@
    "note": "",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "Project Manager [Open to Tier 1 and 2 applicants], Sarajevo",
@@ -1540,7 +1540,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund",
@@ -1551,7 +1551,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "Construction and Engineer, Program Design Specialist, United States, United States",
@@ -1562,7 +1562,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "Resident Engineer (1 position), Somalia",
@@ -2981,7 +2981,7 @@
    "note": "Senior role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-22"
   },
   {
    "title": "Construction Project Manager – 12-month fixed term",
