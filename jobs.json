@@ -6,7 +6,7 @@
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -22,7 +22,7 @@
     "muted": ""
    },
    "ReliefWeb · engineer": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -63,11 +63,44 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-22",
+  "maint": "2026-11-23",
   "vcheck": "2026-11-17",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Program Manager - International Hire",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4239325/program-manager-international-hire",
+   "deadline": "2026-12-31",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-23",
+   "status": "open",
+   "checked": "2026-11-23"
+  },
+  {
+   "title": "Program Manager CRCSU",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4239189/program-manager-crcsu",
+   "deadline": "2026-12-06",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-23",
+   "status": "open",
+   "checked": "2026-11-23"
+  },
+  {
+   "title": "ERL Project Manager - Deir ez-Zor",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4239145/erl-project-manager-deir-ez-zor",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-23",
+   "status": "open",
+   "checked": "2026-11-23"
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
@@ -638,7 +671,7 @@
    "note": "",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia",
@@ -649,7 +682,7 @@
    "note": "",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "Construction Administration Officer (Lao national), Luang Namtha, Lao PDR",
@@ -660,7 +693,7 @@
    "note": "",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "Information Management Officer (WASH)",
@@ -671,7 +704,7 @@
    "note": "",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "WaSH and Shelter Technician",
@@ -682,7 +715,7 @@
    "note": "",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -880,7 +913,7 @@
    "note": "",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels",
@@ -1056,7 +1089,7 @@
    "note": "",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip",
@@ -1067,7 +1100,7 @@
    "note": "",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "(Senior) Investment Officer, Infrastructure Europe",
@@ -1078,7 +1111,7 @@
    "note": "",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip",
@@ -1320,7 +1353,7 @@
    "note": "",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "Infrastructure Field Engineer (Consultant), Mykolaiv",
@@ -1427,10 +1460,10 @@
    "link": "https://unjobs.org/vacancies/1793167466760",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-23)",
    "found": "2026-10-28",
-   "status": "open",
-   "checked": "2026-11-17"
+   "status": "removed",
+   "checked": "2026-11-23"
   },
   {
    "title": "Supply Chain Construction Manager, Bunia, Democratic Republic of Congo",
@@ -1746,10 +1779,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months",
    "deadline": "2026-11-05",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-23)",
    "found": "2026-10-23",
-   "status": "open",
-   "checked": "2026-11-17"
+   "status": "removed",
+   "checked": "2026-11-23"
   },
   {
    "title": "National Project Officer – Construction Engineer",
@@ -1760,7 +1793,7 @@
    "note": "",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "SENIOR FACILITIES MANAGEMENT ASSISTANT, G7",
@@ -1881,7 +1914,7 @@
    "note": "",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -2046,7 +2079,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-23"
   },
   {
    "title": "Structural Engineer",
@@ -2773,17 +2806,6 @@
    "found": "2026-10-06",
    "status": "open",
    "checked": "2026-11-19"
-  },
-  {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "via unvacancies · UN-Habitat",
-   "link": "https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593",
-   "deadline": "2026-10-08",
-   "fit": "Medium",
-   "note": "",
-   "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-11-20"
   },
   {
    "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
