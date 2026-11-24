@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**89 open jobs** (🟢 40 · 🟡 42 · ⚪ 7) · updated 2026-11-24 · checks every 5 minutes · sources working today: 3 of 15 · AI today: 0 of 130 requests
+**91 open jobs** (🟢 42 · 🟡 42 · ⚪ 7) · updated 2026-11-24 · checks every 5 minutes · sources working today: 7 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -13,6 +13,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County](https://reliefweb.int/job/4238728/consultancy-services-technical-supervision-construction-15-blocks-60-units-vip-latrines-schools-west-pokot-county) | via ReliefWeb · engineer | 2026-11-25 | 🔴 1 days | 🟢 High |  |
 | [Civil Engineer, Bishkek](https://unjobs.org/vacancies/1793887285422) | via UNjobs · infrastructure projects | 2026-11-25 | 🔴 1 days | 🟢 High |  |
 | [Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1793714480909) | via UNjobs · construction | 2026-11-25 | 🔴 1 days | 🟢 High |  |
+| [Independent Infrastructure and Service Delivery Specialist Consultancy Services](https://reliefweb.int/job/4239687/independent-infrastructure-and-service-delivery-specialist-consultancy-services) 🆕 | via ReliefWeb · infrastructure | 2026-11-26 | 🔴 2 days | 🟢 High |  |
 | [Regional Housing Ecosystem & Partnership Associate Director](https://reliefweb.int/job/4239148/regional-housing-ecosystem-partnership-associate-director) | via ReliefWeb · construction | 2026-11-26 | 🔴 2 days | 🟢 High |  |
 | [ERL Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239145/erl-project-manager-deir-ez-zor) 🆕 | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 3 days | 🟢 High |  |
 | [ERL Site Engineer - AL Mayadin](https://reliefweb.int/job/4239165/erl-site-engineer-al-mayadin) | via ReliefWeb · shelter | 2026-11-27 | 🔴 3 days | 🟢 High |  |
@@ -31,6 +32,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) | via ReliefWeb · engineer | 2026-12-08 | 14 days | 🟢 High |  |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · housing | 2026-12-10 | 16 days | 🟢 High |  |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · engineer | 2026-12-10 | 16 days | 🟢 High |  |
+| [Shelter and WASH Specialist Lebanon](https://reliefweb.int/job/4239449/shelter-and-wash-specialist-lebanon) 🆕 | via ReliefWeb · infrastructure | 2026-12-14 | 20 days | 🟢 High |  |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 20 days | 🟢 High | Requires state professional exam + civil engineering degree |
 | [WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)](https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd) | via ReliefWeb · construction | 2026-12-17 | 23 days | 🟢 High |  |
 | [Program Manager - International Hire](https://reliefweb.int/job/4239325/program-manager-international-hire) 🆕 | via ReliefWeb · infrastructure | 2026-12-31 | 37 days | 🟢 High |  |
@@ -299,19 +301,19 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | Source | Last worked |
 |---|---|
 | ReliefWeb · construction | 2026-11-21 |
-| ReliefWeb · infrastructure | 2026-11-23 |
+| ReliefWeb · infrastructure | 2026-11-24 |
 | ReliefWeb · shelter | 2026-11-22 |
 | ReliefWeb · architect | 2026-11-24 |
 | ReliefWeb · housing | 2026-11-21 |
-| ReliefWeb · engineer | 2026-11-23 |
+| ReliefWeb · engineer | 2026-11-24 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-22 |
 | unvacancies · engineering | 2026-11-24 |
 | unvacancies · UNOPS | 2026-11-23 |
-| unvacancies · UN-Habitat | 2026-11-23 |
+| unvacancies · UN-Habitat | 2026-11-24 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-22 |
 | UNjobs · construction | 2026-11-24 |
 | UNjobs · infrastructure projects | 2026-11-21 |
-| UNOPS careers | 2026-11-23 |
+| UNOPS careers | 2026-11-24 |
 | UNICEF · construction | 2026-11-17 |
 
 </details>

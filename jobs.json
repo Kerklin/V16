@@ -6,7 +6,7 @@
     "muted": "2026-11-23T2"
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -22,7 +22,7 @@
     "muted": "2026-11-23T2"
    },
    "ReliefWeb · engineer": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": "2026-11-23T2"
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Independent Infrastructure and Service Delivery Specialist Consultancy Services",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4239687/independent-infrastructure-and-service-delivery-specialist-consultancy-services",
+   "deadline": "2026-11-26",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
+  {
+   "title": "Shelter and WASH Specialist Lebanon",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4239449/shelter-and-wash-specialist-lebanon",
+   "deadline": "2026-12-14",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
   {
    "title": "Shelter Project Engineer (5 positions), Afghanistan",
    "info": "via UNjobs · construction",
