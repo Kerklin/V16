@@ -14,7 +14,7 @@
     "muted": "2026-11-22T3"
    },
    "ReliefWeb · architect": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "ReliefWeb · housing": {
@@ -30,7 +30,7 @@
     "muted": "2026-11-22T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": "2026-11-22T3"
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -63,11 +63,110 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-23",
-  "vcheck": "2026-11-17",
+  "maint": "2026-11-24",
+  "vcheck": "2026-11-24",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Shelter Project Engineer (5 positions), Afghanistan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795469508594",
+   "deadline": "2026-12-01",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
+  {
+   "title": "Water & Shelter, Infrastructure (WASI) Officer (Engineer), West Area office (Herat Province ), Afghanistan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795410065168",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
+  {
+   "title": "Construction Management Lead Engineer, East Jerusalem, occupied Palestinian territory",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795420885300",
+   "deadline": "2026-11-30",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
+  {
+   "title": "Construction Management Associate Engineer, Gaza, occupied Palestinian territory",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795161687376",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
+  {
+   "title": "Construction Management Engineer, Tshikapa, Democratic Republic Of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795161687773",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
+  {
+   "title": "Construction Management Engineer, Bukavu, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795176082720",
+   "deadline": "2026-11-24",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
+  {
+   "title": "Civil Engineer, Manakara, Madagascar",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795190488255",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
+  {
+   "title": "Civil Engineer, Harare",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795323709396",
+   "deadline": "",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
+  {
+   "title": "Field Engineer, Malakal, Rumbek, Rubkona & Twic, Juba",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795323684768",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
   {
    "title": "Program Manager - International Hire",
    "info": "via ReliefWeb · infrastructure",
@@ -605,7 +704,7 @@
    "note": "",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "WASH Engineer, Mindanao, Philippines",
@@ -616,7 +715,7 @@
    "note": "",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany",
@@ -627,7 +726,7 @@
    "note": "",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "Civil Engineer QA/QC (3 positions), Haiti",
@@ -638,18 +737,18 @@
    "note": "",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "Civil Engineer, Home Based",
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1794909684411",
-   "deadline": "",
+   "deadline": "2026-12-01",
    "fit": "High",
    "note": "",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "Local Individual Contractor (Civil Work Engineer), Dushanbe",
@@ -660,7 +759,7 @@
    "note": "",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "Senior Facilities Management, Infrastructure & Sustainability Consultant",
@@ -781,7 +880,7 @@
    "note": "",
    "found": "2026-11-12",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -1034,7 +1133,7 @@
    "note": "",
    "found": "2026-11-06",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management",
@@ -1045,7 +1144,7 @@
    "note": "",
    "found": "2026-11-06",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
@@ -1078,7 +1177,7 @@
    "note": "",
    "found": "2026-11-05",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "Senior Project Manager (Infrastructure)",
@@ -1331,7 +1430,7 @@
    "note": "",
    "found": "2026-10-30",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
@@ -1397,7 +1496,7 @@
    "note": "",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
@@ -2134,7 +2233,7 @@
    "note": "",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-24"
   },
   {
    "title": "Consultant: Field Engineer (READY), Pohnpei",
@@ -2310,7 +2409,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-24"
   },
   {
    "title": "Senior Project Engineer – Oxy-Combustion, Brisbane, CA, United States",
@@ -2321,7 +2420,7 @@
    "note": "",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-24"
   },
   {
    "title": "NBC Urban Designer - International Consultant",
@@ -2742,17 +2841,6 @@
    "checked": "2026-10-26"
   },
   {
-   "title": "Construction Engineer",
-   "info": "via UNjobs · construction",
-   "link": "https://unjobs.org/vacancies/1791345738022",
-   "deadline": "",
-   "fit": "Medium",
-   "note": "Posting removed (checked 2026-10-09)",
-   "found": "2026-10-07",
-   "status": "removed",
-   "checked": "2026-10-09"
-  },
-  {
    "title": "Superviseurs Multisectoriels SAME /WASH - Bassikounou, Bassikounou, Mauritania",
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1791297050460",
@@ -2786,17 +2874,6 @@
    "checked": "2026-10-29"
   },
   {
-   "title": "Senior Drupal Infrastructure Engineer",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157",
-   "deadline": "2026-10-09",
-   "fit": "Medium",
-   "note": "",
-   "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-11-19"
-  },
-  {
    "title": "International Urban Design Lead Expert",
    "info": "via unvacancies · UN-Habitat",
    "link": "https://unvacancies.org/jobs/international-urban-design-lead-expert-t-285835",
@@ -2806,17 +2883,6 @@
    "found": "2026-10-06",
    "status": "open",
    "checked": "2026-11-19"
-  },
-  {
-   "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
-   "info": "via UNjobs · Bosnia and Herzegovina",
-   "link": "https://unjobs.org/vacancies/1790801308669",
-   "deadline": "",
-   "fit": "High",
-   "note": "Posting removed (checked 2026-10-09)",
-   "found": "2026-10-06",
-   "status": "removed",
-   "checked": "2026-10-09"
   },
   {
    "title": "Project Manager, Sarajevo, Bosnia and Herzegovina",
