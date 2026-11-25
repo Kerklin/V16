@@ -14,7 +14,7 @@
     "muted": ""
    },
    "ReliefWeb · architect": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "ReliefWeb · housing": {
@@ -30,7 +30,7 @@
     "muted": "2026-11-25T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -68,6 +68,72 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248",
+   "deadline": "2026-12-09",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-25",
+   "status": "open",
+   "checked": "2026-11-25"
+  },
+  {
+   "title": "Project Manager",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795629754441",
+   "deadline": "2026-11-30",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-25",
+   "status": "open",
+   "checked": "2026-11-25"
+  },
+  {
+   "title": "Assistant Technical Officer – WASH (Konduga), Nigeria (Any)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795582918355",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-25",
+   "status": "open",
+   "checked": "2026-11-25"
+  },
+  {
+   "title": "Engineering Technician",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795629746624",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-25",
+   "status": "open",
+   "checked": "2026-11-25"
+  },
+  {
+   "title": "Water Infrastructure Specialist, Nairobi",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795582892400",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-25",
+   "status": "open",
+   "checked": "2026-11-25"
+  },
+  {
+   "title": "Project Manager, Interconnection Projects & Grid Infrastructure Delivery (Sr. or Staff)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795582870177",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-25",
+   "status": "open",
+   "checked": "2026-11-25"
+  },
   {
    "title": "Independent Infrastructure and Service Delivery Specialist Consultancy Services",
    "info": "via ReliefWeb · infrastructure",

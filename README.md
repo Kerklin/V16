@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**86 open jobs** (🟢 42 · 🟡 38 · ⚪ 6) · updated 2026-11-25 · checks every 5 minutes · sources working today: 3 of 15 · AI today: 0 of 130 requests
+**92 open jobs** (🟢 44 · 🟡 42 · ⚪ 6) · updated 2026-11-25 · checks every 5 minutes · sources working today: 6 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -22,6 +22,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WASH site engineer - AL Mayadin - AL-Bukamal - Tabni](https://reliefweb.int/job/4239134/wash-site-engineer-al-mayadin-al-bukamal-tabni) | via ReliefWeb · shelter | 2026-11-27 | 🔴 2 days | 🟢 High |  |
 | [WASH & Shelter Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239114/wash-shelter-project-manager-deir-ez-zor) | via ReliefWeb · shelter | 2026-11-27 | 🔴 2 days | 🟢 High |  |
 | [Roads Engineer](https://reliefweb.int/job/4237601/roads-engineer) | via ReliefWeb · engineer | 2026-11-29 | 🔴 4 days | 🟢 High |  |
+| [Project Manager](https://unjobs.org/vacancies/1795629754441) 🆕 | via UNjobs · construction | 2026-11-30 | 🔴 5 days | 🟢 High |  |
 | [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) | via ReliefWeb · infrastructure | 2026-11-30 | 🔴 5 days | 🟢 High |  |
 | [Civil Engineer, Home Based](https://unjobs.org/vacancies/1794909684411) | via UNjobs · construction | 2026-12-01 | 🔴 6 days | 🟢 High |  |
 | [Civil Engineer, LICA-9, Tarawa - Kiribati](https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati) | via ReliefWeb · construction | 2026-12-02 | 🔴 7 days | 🟢 High |  |
@@ -38,6 +39,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Program Manager - International Hire](https://reliefweb.int/job/4239325/program-manager-international-hire) 🆕 | via ReliefWeb · infrastructure | 2026-12-31 | 36 days | 🟢 High |  |
 | [Project Manager, Health Infrastructure (Surkhet, Nepal)](https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal) | via ReliefWeb · construction | 2026-12-31 | 36 days | 🟢 High |  |
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) | via ReliefWeb · engineer | 2026-12-31 | 36 days | 🟢 High |  |
+| [Assistant Technical Officer – WASH (Konduga), Nigeria (Any)](https://unjobs.org/vacancies/1795582918355) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Water & Shelter, Infrastructure (WASI) Officer (Engineer), West Area office (Herat Province ), Afghanistan](https://unjobs.org/vacancies/1795410065168) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1795107655532) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |  |
 | [Senior Project Associate –Infrastructure Support, Kigoma](https://unjobs.org/vacancies/1795183240776) | via UNjobs · infrastructure projects | – | check | 🟢 High |  |
@@ -63,8 +65,12 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Management Lead Engineer, East Jerusalem, occupied Palestinian territory](https://unjobs.org/vacancies/1795420885300) 🆕 | via UNjobs · construction | 2026-11-30 | 🔴 5 days | 🟡 Medium |  |
 | [Shelter Project Engineer (5 positions), Afghanistan](https://unjobs.org/vacancies/1795469508594) 🆕 | via UNjobs · construction | 2026-12-01 | 🔴 6 days | 🟡 Medium |  |
 | [Program Manager CRCSU](https://reliefweb.int/job/4239189/program-manager-crcsu) 🆕 | via ReliefWeb · infrastructure | 2026-12-06 | 11 days | 🟡 Medium |  |
+| [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248) 🆕 | via unvacancies · engineering | 2026-12-09 | 14 days | 🟡 Medium |  |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) | via unvacancies · engineering | 2026-12-17 | 22 days | 🟡 Medium |  |
 | [Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany](https://unjobs.org/vacancies/1794459646064) | via UNjobs · infrastructure projects | 2028-03-31 | 492 days | 🟡 Medium |  |
+| [Engineering Technician](https://unjobs.org/vacancies/1795629746624) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [Water Infrastructure Specialist, Nairobi](https://unjobs.org/vacancies/1795582892400) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
+| [Project Manager, Interconnection Projects & Grid Infrastructure Delivery (Sr. or Staff)](https://unjobs.org/vacancies/1795582870177) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Civil Engineer, Manakara, Madagascar](https://unjobs.org/vacancies/1795190488255) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Field Engineer, Malakal, Rumbek, Rubkona & Twic, Juba](https://unjobs.org/vacancies/1795323684768) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1795253577638) | via UNjobs · infrastructure projects | – | check | 🟡 Medium |  |
@@ -300,15 +306,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · construction | 2026-11-21 |
 | ReliefWeb · infrastructure | 2026-11-24 |
 | ReliefWeb · shelter | 2026-11-25 |
-| ReliefWeb · architect | 2026-11-24 |
+| ReliefWeb · architect | 2026-11-25 |
 | ReliefWeb · housing | 2026-11-21 |
 | ReliefWeb · engineer | 2026-11-24 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-25 |
-| unvacancies · engineering | 2026-11-24 |
+| unvacancies · engineering | 2026-11-25 |
 | unvacancies · UNOPS | 2026-11-23 |
 | unvacancies · UN-Habitat | 2026-11-24 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-25 |
-| UNjobs · construction | 2026-11-24 |
+| UNjobs · construction | 2026-11-25 |
 | UNjobs · infrastructure projects | 2026-11-21 |
 | UNOPS careers | 2026-11-24 |
 | UNICEF · construction | 2026-11-17 |
