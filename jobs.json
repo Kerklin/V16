@@ -10,8 +10,8 @@
     "muted": ""
    },
    "ReliefWeb · shelter": {
-    "last_ok": "2026-11-22",
-    "muted": "2026-11-24T3"
+    "last_ok": "2026-11-25",
+    "muted": ""
    },
    "ReliefWeb · architect": {
     "last_ok": "2026-11-24",
@@ -26,8 +26,8 @@
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-22",
-    "muted": "2026-11-24T3"
+    "last_ok": "2026-11-25",
+    "muted": ""
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-24",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -59,11 +59,11 @@
    },
    "UNICEF · construction": {
     "last_ok": "2026-11-17",
-    "muted": "2026-11-24T3"
+    "muted": "2026-11-25T0"
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-24",
+  "maint": "2026-11-25",
   "vcheck": "2026-11-24",
   "outdated": []
  },
@@ -462,7 +462,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-25"
   },
   {
    "title": "WASH Specialist",
@@ -473,7 +473,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-25"
   },
   {
    "title": "Shelter Specialist, Kasulu, Tanzania",
@@ -484,7 +484,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-25"
   },
   {
    "title": "Civil Engineer",
@@ -495,7 +495,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-25"
   },
   {
    "title": "Lead Civil Engineer",
@@ -506,7 +506,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-25"
   },
   {
    "title": "Construction Management Engineer, Port Moresby, Papua New Guinea",
@@ -517,7 +517,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-25"
   },
   {
    "title": "WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)",
@@ -528,7 +528,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-25"
   },
   {
    "title": "Infrastructure Specialist - (Dir Hafir)",
@@ -536,10 +536,10 @@
    "link": "https://reliefweb.int/job/4238039/infrastructure-specialist-dir-hafir",
    "deadline": "2026-11-19",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-25)",
    "found": "2026-11-19",
-   "status": "open",
-   "checked": "2026-11-19"
+   "status": "removed",
+   "checked": "2026-11-25"
   },
   {
    "title": "Project Manager, Health Infrastructure (Surkhet, Nepal)",
@@ -550,7 +550,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-25"
   },
   {
    "title": "Shelter Associate, Sittwe, Myanmar",
@@ -561,7 +561,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-25"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -572,7 +572,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-25"
   },
   {
    "title": "Humanitarian Mine Action Project Manager (Programme Manager)",
@@ -583,7 +583,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-25"
   },
   {
    "title": "Senior Director, Infrastructure",
@@ -2310,7 +2310,7 @@
    "note": "",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   {
    "title": "Technical Engineer Consultant",
@@ -2786,28 +2786,6 @@
    "checked": "2026-10-16"
   },
   {
-   "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
-   "info": "via UNjobs · infrastructure projects",
-   "link": "https://unjobs.org/vacancies/1791396181599",
-   "deadline": "",
-   "fit": "High",
-   "note": "Posting removed (checked 2026-10-10)",
-   "found": "2026-10-08",
-   "status": "removed",
-   "checked": "2026-10-10"
-  },
-  {
-   "title": "Vodokanal Cell Lead (WASH), Kyiv",
-   "info": "via UNjobs · infrastructure projects",
-   "link": "https://unjobs.org/vacancies/1791396181477",
-   "deadline": "",
-   "fit": "High",
-   "note": "Posting removed (checked 2026-10-10)",
-   "found": "2026-10-08",
-   "status": "removed",
-   "checked": "2026-10-10"
-  },
-  {
    "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates",
    "info": "via unvacancies · engineering",
    "link": "https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925",
@@ -2817,17 +2795,6 @@
    "found": "2026-10-07",
    "status": "open",
    "checked": "2026-11-21"
-  },
-  {
-   "title": "Technical Expert for District Heating (WASH), Kyiv",
-   "info": "via UNjobs · construction",
-   "link": "https://unjobs.org/vacancies/1791374669552",
-   "deadline": "",
-   "fit": "High",
-   "note": "Posting removed (checked 2026-10-10)",
-   "found": "2026-10-07",
-   "status": "removed",
-   "checked": "2026-10-10"
   },
   {
    "title": "Director, Sustainable Infrastructure Portfolio and Implementation",
@@ -3050,17 +3017,6 @@
    "checked": ""
   },
   {
-   "title": "ETC Construction Coordinator (5 positions)",
-   "info": "CTG · DR Congo",
-   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
-   "deadline": "2026-10-10",
-   "fit": "High",
-   "note": "Check French + nationality rules",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-11-21"
-  },
-  {
    "title": "Architect / Civil Engineer – Building in Existing Buildings (Req 3412)",
    "info": "STRABAG · Austria",
    "link": "https://jobboerse.strabag.at/job-detail.php?ReqId=3412&language=AT_EN",
@@ -3113,7 +3069,7 @@
    "note": "Requires state professional exam + civil engineering degree",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -3124,7 +3080,7 @@
    "note": "Urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   }
  ]
 }
