@@ -97,7 +97,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Administration Officer (Lao national), Luang Namtha, Lao PDR](https://unjobs.org/vacancies/1794839756889) | via UNjobs · construction | – | check | ⚪ Low |  |
 | [WaSH and Shelter Technician](https://unjobs.org/vacancies/1794459680118) | via UNjobs · construction | – | check | ⚪ Low |  |
 
-<details><summary>Closed or removed (188)</summary>
+<details><summary>Closed or removed (189)</summary>
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based | 2026-10-14 | -42 days | 🟡 Medium | Check it isn't local-hire only |
 | [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | removed | 🟡 Medium | Posting removed (checked 2026-10-18) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | -18 days | 🟡 Medium | Urban planning/finance focus |
+| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | -46 days | 🟢 High | Check French + nationality rules |
 
 </details>
 
