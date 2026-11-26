@@ -14,7 +14,7 @@
     "muted": ""
    },
    "ReliefWeb · architect": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "ReliefWeb · housing": {
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "WaSH Field Officer (Infrastructure background) - Tyre (Re-advertised), Tyre, Lebanon",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795730546809",
+   "deadline": "",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
+  {
+   "title": "WASH Technical Assistant Mozambique Mueda, Pemba",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795712442563",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
   {
    "title": "Consultance – Gestionnaire Technique de Projets d’Abri – Shelter Research Unit (SRU) – Afrique de l’Est (AE)",
    "info": "via ReliefWeb · construction",

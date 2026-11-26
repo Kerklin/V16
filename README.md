@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**95 open jobs** (🟢 45 · 🟡 43 · ⚪ 7) · updated 2026-11-26 · checks every 5 minutes · sources working today: 7 of 15 · AI today: 0 of 130 requests
+**97 open jobs** (🟢 46 · 🟡 44 · ⚪ 7) · updated 2026-11-26 · checks every 5 minutes · sources working today: 10 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -40,6 +40,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Program Manager - International Hire](https://reliefweb.int/job/4239325/program-manager-international-hire) | via ReliefWeb · infrastructure | 2026-12-31 | 35 days | 🟢 High |  |
 | [Project Manager, Health Infrastructure (Surkhet, Nepal)](https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal) | via ReliefWeb · construction | 2026-12-31 | 35 days | 🟢 High |  |
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) | via ReliefWeb · engineer | 2026-12-31 | 35 days | 🟢 High |  |
+| [WaSH Field Officer (Infrastructure background) - Tyre (Re-advertised), Tyre, Lebanon](https://unjobs.org/vacancies/1795730546809) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Assistant Technical Officer – WASH (Konduga), Nigeria (Any)](https://unjobs.org/vacancies/1795582918355) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Water & Shelter, Infrastructure (WASI) Officer (Engineer), West Area office (Herat Province ), Afghanistan](https://unjobs.org/vacancies/1795410065168) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1795107655532) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |  |
@@ -70,6 +71,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Project Manager Burundi](https://reliefweb.int/job/4240150/project-manager-burundi) 🆕 | via ReliefWeb · housing | 2026-12-14 | 18 days | 🟡 Medium |  |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) | via unvacancies · engineering | 2026-12-17 | 21 days | 🟡 Medium |  |
 | [Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany](https://unjobs.org/vacancies/1794459646064) | via UNjobs · infrastructure projects | 2028-03-31 | 491 days | 🟡 Medium |  |
+| [WASH Technical Assistant Mozambique Mueda, Pemba](https://unjobs.org/vacancies/1795712442563) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Engineering Technician](https://unjobs.org/vacancies/1795629746624) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Water Infrastructure Specialist, Nairobi](https://unjobs.org/vacancies/1795582892400) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
 | [Project Manager, Interconnection Projects & Grid Infrastructure Delivery (Sr. or Staff)](https://unjobs.org/vacancies/1795582870177) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
@@ -313,15 +315,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · construction | 2026-11-26 |
 | ReliefWeb · infrastructure | 2026-11-24 |
 | ReliefWeb · shelter | 2026-11-26 |
-| ReliefWeb · architect | 2026-11-25 |
+| ReliefWeb · architect | 2026-11-26 |
 | ReliefWeb · housing | 2026-11-26 |
 | ReliefWeb · engineer | 2026-11-24 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-26 |
-| unvacancies · engineering | 2026-11-25 |
+| unvacancies · engineering | 2026-11-26 |
 | unvacancies · UNOPS | 2026-11-26 |
 | unvacancies · UN-Habitat | 2026-11-24 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-26 |
-| UNjobs · construction | 2026-11-25 |
+| UNjobs · construction | 2026-11-26 |
 | UNjobs · infrastructure projects | 2026-11-26 |
 | UNOPS careers | 2026-11-24 |
 | UNICEF · construction | 2026-11-17 |
