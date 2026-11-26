@@ -10,7 +10,7 @@
     "muted": ""
    },
    "ReliefWeb · shelter": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "ReliefWeb · architect": {
@@ -26,8 +26,8 @@
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-25",
-    "muted": "2026-11-25T2"
+    "last_ok": "2026-11-26",
+    "muted": ""
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-25",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -59,15 +59,26 @@
    },
    "UNICEF · construction": {
     "last_ok": "2026-11-17",
-    "muted": "2026-11-25T2"
+    "muted": "2026-11-26T0"
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-25",
+  "maint": "2026-11-26",
   "vcheck": "2026-11-24",
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Project Coordinator",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4240013/project-coordinator",
+   "deadline": "2026-12-16",
+   "fit": "Low",
+   "note": "",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
   {
    "title": "Senior Project Manager (Infrastructure)",
    "info": "via unvacancies · engineering",
@@ -657,10 +668,10 @@
    "link": "https://reliefweb.int/job/4238587/senior-director-infrastructure",
    "deadline": "2026-11-25",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-26)",
    "found": "2026-11-19",
-   "status": "open",
-   "checked": "2026-11-19"
+   "status": "removed",
+   "checked": "2026-11-26"
   },
   {
    "title": "Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County",
@@ -668,10 +679,10 @@
    "link": "https://reliefweb.int/job/4238728/consultancy-services-technical-supervision-construction-15-blocks-60-units-vip-latrines-schools-west-pokot-county",
    "deadline": "2026-11-25",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-26)",
    "found": "2026-11-19",
-   "status": "open",
-   "checked": "2026-11-19"
+   "status": "removed",
+   "checked": "2026-11-26"
   },
   {
    "title": "Release Train Engineer",
@@ -679,10 +690,10 @@
    "link": "https://reliefweb.int/job/4238504/release-train-engineer",
    "deadline": "2026-11-23",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-26)",
    "found": "2026-11-19",
-   "status": "open",
-   "checked": "2026-11-19"
+   "status": "removed",
+   "checked": "2026-11-26"
   },
   {
    "title": "Engineer – School Rehabilitation",
@@ -690,10 +701,10 @@
    "link": "https://reliefweb.int/job/4238413/engineer-school-rehabilitation",
    "deadline": "2026-11-20",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-26)",
    "found": "2026-11-19",
-   "status": "open",
-   "checked": "2026-11-19"
+   "status": "removed",
+   "checked": "2026-11-26"
   },
   {
    "title": "WASH Engineer - Mindanao (Filipino Nationals Only)",
@@ -704,7 +715,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-26"
   },
   {
    "title": "Roads Engineer",
@@ -715,7 +726,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-26"
   },
   {
    "title": "AI Platform Engineer",
@@ -726,7 +737,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-26"
   },
   {
    "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur",
@@ -734,10 +745,10 @@
    "link": "https://reliefweb.int/job/4232579/sudan-wash-program-manager-mf-west-and-central-darfur",
    "deadline": "2026-11-19",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-26)",
    "found": "2026-11-19",
-   "status": "open",
-   "checked": "2026-11-19"
+   "status": "removed",
+   "checked": "2026-11-26"
   },
   {
    "title": "Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)",
@@ -748,7 +759,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-26"
   },
   {
    "title": "Tupande Electrical Maintenance Engineer / Specialist (Fixed-Term)",
@@ -756,10 +767,10 @@
    "link": "https://reliefweb.int/job/4226604/tupande-electrical-maintenance-engineer-specialist-fixed-term",
    "deadline": "2026-11-20",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-26)",
    "found": "2026-11-19",
-   "status": "open",
-   "checked": "2026-11-19"
+   "status": "removed",
+   "checked": "2026-11-26"
   },
   {
    "title": "Tupande Mechanical Maintenance Engineer / Specialist (Fixed-Term)",
@@ -767,10 +778,10 @@
    "link": "https://reliefweb.int/job/4226603/tupande-mechanical-maintenance-engineer-specialist-fixed-term",
    "deadline": "2026-11-20",
    "fit": "Low",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-26)",
    "found": "2026-11-19",
-   "status": "open",
-   "checked": "2026-11-19"
+   "status": "removed",
+   "checked": "2026-11-26"
   },
   {
    "title": "Field Monitoring Engineer",
@@ -781,7 +792,7 @@
    "note": "",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-26"
   },
   {
    "title": "Local Individual Contractor (Civil Work Engineer), Bishkek",
@@ -1155,7 +1166,7 @@
    "note": "",
    "found": "2026-11-07",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-26"
   },
   {
    "title": "Project Manager (Infrastructure), Colombo, Sri Lanka",
@@ -1166,7 +1177,7 @@
    "note": "",
    "found": "2026-11-07",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-26"
   },
   {
    "title": "Project Engineer",
@@ -2753,17 +2764,6 @@
    "checked": "2026-10-25"
   },
   {
-   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
-   "info": "via UNjobs · infrastructure projects",
-   "link": "https://unjobs.org/vacancies/1791464823412",
-   "deadline": "",
-   "fit": "Medium",
-   "note": "Posting removed (checked 2026-10-11)",
-   "found": "2026-10-09",
-   "status": "removed",
-   "checked": "2026-10-11"
-  },
-  {
    "title": "Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)",
    "info": "via UNICEF · construction",
    "link": "https://jobs.unicef.org/en-us/job/596177/batch-recruitment-of-2-position-construction-officer-no2-temporary-appointment-position-ukraine-kharkiv-odesa",
@@ -2872,17 +2872,6 @@
    "found": "2026-10-07",
    "status": "removed",
    "checked": "2026-10-16"
-  },
-  {
-   "title": "WatHab Generalist Project Manager, Myanmar",
-   "info": "via UNjobs · construction",
-   "link": "https://unjobs.org/vacancies/1791298565977",
-   "deadline": "",
-   "fit": "High",
-   "note": "Posting removed (checked 2026-10-11)",
-   "found": "2026-10-07",
-   "status": "removed",
-   "checked": "2026-10-11"
   },
   {
    "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E",
@@ -3028,17 +3017,6 @@
    "checked": "2026-10-17"
   },
   {
-   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
-   "info": "via UNjobs · infrastructure projects",
-   "link": "https://unjobs.org/vacancies/1791190732675",
-   "deadline": "",
-   "fit": "Medium",
-   "note": "Posting removed (checked 2026-10-11)",
-   "found": "2026-10-06",
-   "status": "removed",
-   "checked": "2026-10-11"
-  },
-  {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut, Lebanon",
    "info": "via UNjobs · infrastructure projects",
    "link": "https://unjobs.org/vacancies/1790951875279",
@@ -3147,17 +3125,6 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-11-25"
-  },
-  {
-   "title": "ETC Construction Coordinator (5 positions)",
-   "info": "CTG · DR Congo",
-   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
-   "deadline": "2026-10-10",
-   "fit": "High",
-   "note": "Check French + nationality rules",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
   }
  ]
 }
