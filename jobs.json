@@ -2,8 +2,8 @@
  "meta": {
   "sources": {
    "ReliefWeb · construction": {
-    "last_ok": "2026-11-21",
-    "muted": "2026-11-23T2"
+    "last_ok": "2026-11-26",
+    "muted": ""
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "2026-11-24",
@@ -18,8 +18,8 @@
     "muted": ""
    },
    "ReliefWeb · housing": {
-    "last_ok": "2026-11-21",
-    "muted": "2026-11-23T2"
+    "last_ok": "2026-11-26",
+    "muted": ""
    },
    "ReliefWeb · engineer": {
     "last_ok": "2026-11-24",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,8 +50,8 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-21",
-    "muted": "2026-11-23T2"
+    "last_ok": "2026-11-26",
+    "muted": ""
    },
    "UNOPS careers": {
     "last_ok": "2026-11-24",
@@ -68,6 +68,105 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Consultance – Gestionnaire Technique de Projets d’Abri – Shelter Research Unit (SRU) – Afrique de l’Est (AE)",
+   "info": "via ReliefWeb · construction",
+   "link": "https://reliefweb.int/job/4240135/consultance-gestionnaire-technique-de-projets-dabri-shelter-research-unit-sru-afrique-de-lest-ae",
+   "deadline": "2026-12-15",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
+  {
+   "title": "Specialiste Wash - RCA",
+   "info": "via ReliefWeb · construction",
+   "link": "https://reliefweb.int/job/4240008/specialiste-wash-rca",
+   "deadline": "2026-12-09",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
+  {
+   "title": "ICLA Project Manager Tripoli Libya",
+   "info": "via ReliefWeb · housing",
+   "link": "https://reliefweb.int/job/4240166/icla-project-manager-tripoli-libya",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
+  {
+   "title": "Project Manager Burundi",
+   "info": "via ReliefWeb · housing",
+   "link": "https://reliefweb.int/job/4240150/project-manager-burundi",
+   "deadline": "2026-12-14",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
+  {
+   "title": "Construction Management Engineer, Bukavu, Democratic Republic of Congo",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795687286425",
+   "deadline": "2026-11-26",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
+  {
+   "title": "Construction Management Associate Engineer, Tshikapa, Democratic Republic of Congo",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795514494018",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure), N'Djamena, Chad",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795514494559",
+   "deadline": "2026-12-09",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure), Damascus, Syria",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795089687646",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
+  {
+   "title": "Market Infrastructure Specialist - Financials team",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795323642042",
+   "deadline": "2026-12-11",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
   {
    "title": "Project Coordinator",
    "info": "via ReliefWeb · shelter",
@@ -3125,6 +3224,17 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-11-25"
+  },
+  {
+   "title": "ETC Construction Coordinator (5 positions)",
+   "info": "CTG · DR Congo",
+   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
+   "deadline": "2026-10-10",
+   "fit": "High",
+   "note": "Check French + nationality rules",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
   }
  ]
 }
