@@ -6,7 +6,7 @@
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -22,7 +22,7 @@
     "muted": ""
    },
    "ReliefWeb · engineer": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -68,6 +68,28 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "Project Manager",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4240232/project-manager",
+   "deadline": "2027-01-10",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27"
+  },
+  {
+   "title": "Project Manager - Ukraine",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4240143/project-manager-ukraine",
+   "deadline": "2026-12-16",
+   "fit": "Medium",
+   "note": "",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27"
+  },
   {
    "title": "WASH Associate, Cox's Bazaar, Bangladesh",
    "info": "via UNjobs · construction",
@@ -3279,6 +3301,17 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-11-25"
+  },
+  {
+   "title": "ETC Construction Coordinator (5 positions)",
+   "info": "CTG · DR Congo",
+   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
+   "deadline": "2026-10-10",
+   "fit": "High",
+   "note": "Check French + nationality rules",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
   }
  ]
 }

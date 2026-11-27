@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**97 open jobs** (🟢 44 · 🟡 46 · ⚪ 7) · updated 2026-11-27 · checks every 5 minutes · sources working today: 3 of 15 · AI today: 0 of 130 requests
+**99 open jobs** (🟢 45 · 🟡 47 · ⚪ 7) · updated 2026-11-27 · checks every 5 minutes · sources working today: 7 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -38,6 +38,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Program Manager - International Hire](https://reliefweb.int/job/4239325/program-manager-international-hire) | via ReliefWeb · infrastructure | 2026-12-31 | 34 days | 🟢 High |  |
 | [Project Manager, Health Infrastructure (Surkhet, Nepal)](https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal) | via ReliefWeb · construction | 2026-12-31 | 34 days | 🟢 High |  |
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) | via ReliefWeb · engineer | 2026-12-31 | 34 days | 🟢 High |  |
+| [Project Manager](https://reliefweb.int/job/4240232/project-manager) 🆕 | via ReliefWeb · infrastructure | 2027-01-10 | 44 days | 🟢 High |  |
 | [WaSH Field Officer (Infrastructure background) - Tyre (Re-advertised)](https://unjobs.org/vacancies/1795755649728) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [WaSH Field Officer (Infrastructure background) - Tyre (Re-advertised), Tyre, Lebanon](https://unjobs.org/vacancies/1795730546809) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
 | [Assistant Technical Officer – WASH (Konduga), Nigeria (Any)](https://unjobs.org/vacancies/1795582918355) 🆕 | via UNjobs · construction | – | check | 🟢 High |  |
@@ -67,6 +68,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248) 🆕 | via unvacancies · engineering | 2026-12-09 | 12 days | 🟡 Medium |  |
 | [Market Infrastructure Specialist - Financials team](https://unjobs.org/vacancies/1795323642042) 🆕 | via UNjobs · infrastructure projects | 2026-12-11 | 14 days | 🟡 Medium |  |
 | [Project Manager Burundi](https://reliefweb.int/job/4240150/project-manager-burundi) 🆕 | via ReliefWeb · housing | 2026-12-14 | 17 days | 🟡 Medium |  |
+| [Project Manager - Ukraine](https://reliefweb.int/job/4240143/project-manager-ukraine) 🆕 | via ReliefWeb · infrastructure | 2026-12-16 | 19 days | 🟡 Medium |  |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) | via unvacancies · engineering | 2026-12-17 | 20 days | 🟡 Medium |  |
 | [Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany](https://unjobs.org/vacancies/1794459646064) | via UNjobs · infrastructure projects | 2028-03-31 | 490 days | 🟡 Medium |  |
 | [WASH Associate, Cox's Bazaar, Bangladesh](https://unjobs.org/vacancies/1795755792998) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |  |
@@ -108,7 +110,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Administration Officer (Lao national), Luang Namtha, Lao PDR](https://unjobs.org/vacancies/1794839756889) | via UNjobs · construction | – | check | ⚪ Low |  |
 | [WaSH and Shelter Technician](https://unjobs.org/vacancies/1794459680118) | via UNjobs · construction | – | check | ⚪ Low |  |
 
-<details><summary>Closed or removed (195)</summary>
+<details><summary>Closed or removed (196)</summary>
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
@@ -307,6 +309,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based | 2026-10-14 | -44 days | 🟡 Medium | Check it isn't local-hire only |
 | [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | removed | 🟡 Medium | Posting removed (checked 2026-10-18) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | -20 days | 🟡 Medium | Urban planning/finance focus |
+| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | -48 days | 🟢 High | Check French + nationality rules |
 
 </details>
 
@@ -315,19 +318,19 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | Source | Last worked |
 |---|---|
 | ReliefWeb · construction | 2026-11-26 |
-| ReliefWeb · infrastructure | 2026-11-24 |
+| ReliefWeb · infrastructure | 2026-11-27 |
 | ReliefWeb · shelter | 2026-11-26 |
 | ReliefWeb · architect | 2026-11-27 |
 | ReliefWeb · housing | 2026-11-26 |
-| ReliefWeb · engineer | 2026-11-24 |
+| ReliefWeb · engineer | 2026-11-27 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-26 |
 | unvacancies · engineering | 2026-11-27 |
 | unvacancies · UNOPS | 2026-11-26 |
-| unvacancies · UN-Habitat | 2026-11-24 |
+| unvacancies · UN-Habitat | 2026-11-27 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-26 |
 | UNjobs · construction | 2026-11-27 |
 | UNjobs · infrastructure projects | 2026-11-26 |
-| UNOPS careers | 2026-11-24 |
+| UNOPS careers | 2026-11-27 |
 | UNICEF · construction | 2026-11-17 |
 
 </details>
