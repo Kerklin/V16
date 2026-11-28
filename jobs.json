@@ -2,7 +2,7 @@
  "meta": {
   "sources": {
    "ReliefWeb · construction": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
@@ -18,7 +18,7 @@
     "muted": ""
    },
    "ReliefWeb · housing": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "ReliefWeb · engineer": {
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "UNOPS careers": {
