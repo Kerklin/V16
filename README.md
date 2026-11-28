@@ -4,7 +4,7 @@
 
 > ⚠️ **Application packs not made: email is not working, so packs could not be delivered**
 
-**88 open jobs** (🟢 39 · 🟡 42 · ⚪ 7) · updated 2026-11-28 · checks every 5 minutes · sources working today: 4 of 15 · AI today: 0 of 130 requests
+**89 open jobs** (🟢 40 · 🟡 42 · ⚪ 7) · updated 2026-11-28 · checks every 5 minutes · sources working today: 7 of 15 · AI today: 0 of 130 requests
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Application packs are emailed privately and are not shown here.
 
@@ -22,6 +22,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [AI Platform Engineer](https://reliefweb.int/job/4233231/ai-platform-engineer) | via ReliefWeb · engineer | 2026-12-08 | 10 days | 🟢 High |  |
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) | via ReliefWeb · engineer | 2026-12-08 | 10 days | 🟢 High |  |
 | [Specialiste Wash - RCA](https://reliefweb.int/job/4240008/specialiste-wash-rca) 🆕 | via ReliefWeb · construction | 2026-12-09 | 11 days | 🟢 High |  |
+| [WatHab Energy Project Manager](https://unjobs.org/vacancies/1795842091663) 🆕 | via UNjobs · construction | 2026-12-10 | 12 days | 🟢 High |  |
 | [ICLA Project Manager Tripoli Libya](https://reliefweb.int/job/4240166/icla-project-manager-tripoli-libya) 🆕 | via ReliefWeb · housing | 2026-12-10 | 12 days | 🟢 High |  |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · housing | 2026-12-10 | 12 days | 🟢 High |  |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · engineer | 2026-12-10 | 12 days | 🟢 High |  |
@@ -99,7 +100,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Administration Officer (Lao national), Luang Namtha, Lao PDR](https://unjobs.org/vacancies/1794839756889) | via UNjobs · construction | – | check | ⚪ Low |  |
 | [WaSH and Shelter Technician](https://unjobs.org/vacancies/1794459680118) | via UNjobs · construction | – | check | ⚪ Low |  |
 
-<details><summary>Closed or removed (206)</summary>
+<details><summary>Closed or removed (207)</summary>
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
@@ -309,6 +310,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based | 2026-10-14 | -45 days | 🟡 Medium | Check it isn't local-hire only |
 | [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | removed | 🟡 Medium | Posting removed (checked 2026-10-18) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | -21 days | 🟡 Medium | Urban planning/finance focus |
+| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | -49 days | 🟢 High | Check French + nationality rules |
 
 </details>
 
@@ -319,15 +321,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · construction | 2026-11-26 |
 | ReliefWeb · infrastructure | 2026-11-28 |
 | ReliefWeb · shelter | 2026-11-26 |
-| ReliefWeb · architect | 2026-11-27 |
+| ReliefWeb · architect | 2026-11-28 |
 | ReliefWeb · housing | 2026-11-26 |
 | ReliefWeb · engineer | 2026-11-28 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-26 |
-| unvacancies · engineering | 2026-11-27 |
+| unvacancies · engineering | 2026-11-28 |
 | unvacancies · UNOPS | 2026-11-26 |
 | unvacancies · UN-Habitat | 2026-11-28 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-26 |
-| UNjobs · construction | 2026-11-27 |
+| UNjobs · construction | 2026-11-28 |
 | UNjobs · infrastructure projects | 2026-11-26 |
 | UNOPS careers | 2026-11-28 |
 | UNICEF · construction | 2026-11-17 |

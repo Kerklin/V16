@@ -14,7 +14,7 @@
     "muted": ""
    },
    "ReliefWeb · architect": {
-    "last_ok": "2026-11-27",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "ReliefWeb · housing": {
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-27",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-27",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -68,6 +68,17 @@
   "outdated": []
  },
  "jobs": [
+  {
+   "title": "WatHab Energy Project Manager",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795842091663",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "note": "",
+   "found": "2026-11-28",
+   "status": "open",
+   "checked": "2026-11-28"
+  },
   {
    "title": "Project Manager",
    "info": "via ReliefWeb · infrastructure",
@@ -3301,6 +3312,17 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-11-25"
+  },
+  {
+   "title": "ETC Construction Coordinator (5 positions)",
+   "info": "CTG · DR Congo",
+   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
+   "deadline": "2026-10-10",
+   "fit": "High",
+   "note": "Check French + nationality rules",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
   }
  ]
 }
