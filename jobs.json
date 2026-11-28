@@ -6,7 +6,7 @@
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-27",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -22,7 +22,7 @@
     "muted": ""
    },
    "ReliefWeb · engineer": {
-    "last_ok": "2026-11-27",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-27",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-27",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -63,7 +63,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-27",
+  "maint": "2026-11-28",
   "vcheck": "2026-11-24",
   "outdated": []
  },
@@ -503,10 +503,10 @@
    "link": "https://unjobs.org/vacancies/1795253577638",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-28)",
    "found": "2026-11-21",
-   "status": "open",
-   "checked": "2026-11-21"
+   "status": "removed",
+   "checked": "2026-11-28"
   },
   {
    "title": "WASH Specialist",
@@ -514,10 +514,10 @@
    "link": "https://unjobs.org/vacancies/1795264050944",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-28)",
    "found": "2026-11-21",
-   "status": "open",
-   "checked": "2026-11-21"
+   "status": "removed",
+   "checked": "2026-11-28"
   },
   {
    "title": "Oficial WASH Shelter & Infrastructure - Maracaibo",
@@ -528,7 +528,7 @@
    "note": "",
    "found": "2026-11-21",
    "status": "open",
-   "checked": "2026-11-21"
+   "checked": "2026-11-28"
   },
   {
    "title": "ERL Site Engineer - AL Mayadin",
@@ -536,10 +536,10 @@
    "link": "https://reliefweb.int/job/4239165/erl-site-engineer-al-mayadin",
    "deadline": "2026-11-27",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-28)",
    "found": "2026-11-21",
-   "status": "open",
-   "checked": "2026-11-21"
+   "status": "removed",
+   "checked": "2026-11-28"
   },
   {
    "title": "WASH & Shelter Data entry - Deir ez-Zor",
@@ -547,10 +547,10 @@
    "link": "https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor",
    "deadline": "2026-11-27",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-28)",
    "found": "2026-11-21",
-   "status": "open",
-   "checked": "2026-11-21"
+   "status": "removed",
+   "checked": "2026-11-28"
   },
   {
    "title": "WASH & Shelter Field monitor - AL Mayadin - AL-Bukamal - Tabni",
@@ -558,10 +558,10 @@
    "link": "https://reliefweb.int/job/4239139/wash-shelter-field-monitor-al-mayadin-al-bukamal-tabni",
    "deadline": "2026-11-27",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-28)",
    "found": "2026-11-21",
-   "status": "open",
-   "checked": "2026-11-21"
+   "status": "removed",
+   "checked": "2026-11-28"
   },
   {
    "title": "Shelter Site Engineer - AL Mayadin - AL-Bukamal",
@@ -1152,10 +1152,10 @@
    "link": "https://unjobs.org/vacancies/1794427295862",
    "deadline": "2026-11-18",
    "fit": "High",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-28)",
    "found": "2026-11-14",
-   "status": "open",
-   "checked": "2026-11-20"
+   "status": "removed",
+   "checked": "2026-11-28"
   },
   {
    "title": "Project Manager (Infrastructure)",
@@ -1405,10 +1405,10 @@
    "link": "https://unjobs.org/vacancies/1793721671577",
    "deadline": "2026-11-24",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-28)",
    "found": "2026-11-07",
-   "status": "open",
-   "checked": "2026-11-20"
+   "status": "removed",
+   "checked": "2026-11-28"
   },
   {
    "title": "(Senior) Investment Officer, Infrastructure Europe, Paris",
@@ -1606,7 +1606,7 @@
    "note": "",
    "found": "2026-11-01",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine",
@@ -1702,10 +1702,10 @@
    "link": "https://unjobs.org/vacancies/1793336476812",
    "deadline": "",
    "fit": "Medium",
-   "note": "",
+   "note": "Posting removed (checked 2026-11-28)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-20"
+   "status": "removed",
+   "checked": "2026-11-28"
   },
   {
    "title": "Civil Engineer (1 position), Libya",
@@ -1881,7 +1881,7 @@
    "note": "",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "Wash and Shelter Project Manager Ethiopia North Amhara",
@@ -2552,7 +2552,7 @@
    "note": "",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "ICT Project Manager",
@@ -3135,7 +3135,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "Project Coordinator",
@@ -3157,7 +3157,7 @@
    "note": "",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
@@ -3301,17 +3301,6 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-11-25"
-  },
-  {
-   "title": "ETC Construction Coordinator (5 positions)",
-   "info": "CTG · DR Congo",
-   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
-   "deadline": "2026-10-10",
-   "fit": "High",
-   "note": "Check French + nationality rules",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
   }
  ]
 }
